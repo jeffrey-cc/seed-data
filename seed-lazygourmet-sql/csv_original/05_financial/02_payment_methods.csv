@@ -1,0 +1,8 @@
+id,name,is_visible
+b4c24f3d-97f5-4d7c-9898-eecd0502ce20,Cash,t
+c905deaa-9732-4583-84d8-c6fd7e45aa22,Cheque,t
+6cc09405-0336-4b36-9623-12d5b20ecbb6,E-Transfer,t
+6cb09405-0336-4b36-9623-12d5b20eceb6,Deposit,t
+6cb09405-0336-4b36-9623-12d5b20eceb7,Credit Note,t
+6cb09405-0336-4b36-9623-12d5b20eceb8,Stripe,t
+6cb09405-0336-4b36-9623-12d5b20eceb9,Credit Card Machine,t

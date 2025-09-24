@@ -1,0 +1,4 @@
+# Large files excluded from repository
+seed-lazygourmet-sql/Last CSV Export/integration_remote_lock_events.csv
+seed-lazygourmet-sql/Source Data
+seed-lazygourmet-sql/csv_original/08_documents/02_documents.csv

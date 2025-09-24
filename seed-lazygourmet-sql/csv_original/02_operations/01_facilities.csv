@@ -1,0 +1,8 @@
+id,name,old_kitchen_id,address
+2,417 Industrial,18,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""AddressLine1""=>""417 Industrial Ave"", ""AdministrativeDistrict1""=>""BC"""
+1,401 Industrial,16,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""AddressLine1""=>""401 Industrial Ave"", ""AdministrativeDistrict1""=>""BC"""
+8,Surrey Commissary Kitchen,46,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3S 2B9"", ""AddressLine1""=>""104 -15300 68 Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC"""
+3,Lazy Gourmet,17,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 1N5"", ""AddressLine1""=>""1605 W 5th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC"""
+4,Laurel Street Upstairs,14,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6P 3V9"", ""AddressLine1""=>""8811 Laurel St"", ""AddressLine2""=>""#107"", ""AdministrativeDistrict1""=>""BC"""
+5,Laurel Street - Downstairs (HACCP),15,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6P 3V9"", ""AddressLine1""=>""8811 Laurel St "", ""AddressLine2""=>""#107"", ""AdministrativeDistrict1""=>""BC"""
+9,Richmond (Coming Soon),47,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""Richmond"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia"""

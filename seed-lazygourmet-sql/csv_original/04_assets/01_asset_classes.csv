@@ -1,0 +1,37 @@
+id,name,partitioning_mode,facility_id,is_visible
+1,Oven,0,1,t
+2,Burner,0,1,t
+3,Range Right,0,1,t
+4,Range Left,0,1,t
+5,Large Mixer,0,1,t
+6,Group 1,0,3,t
+7,Ovens,0,2,t
+8,Mixer,0,2,t
+9,Lock,0,2,t
+10,Range,0,2,t
+11,Doors,0,1,t
+12,Fryer,0,1,t
+13,Mixer,0,1,t
+14,Table,0,2,t
+15,Sensor,0,1,t
+16,Sensor,0,2,t
+17,Mixer,0,4,t
+18,Convection Ovens,0,4,t
+19,Range,0,4,t
+20,Burner,0,4,t
+21,Doors,0,5,t
+22,Ovens,0,5,t
+23,Steam Kettles,0,5,t
+24,Burners,0,5,t
+25,Fryer,0,5,t
+26,Ranges,0,5,t
+27,Kirin Owned,0,5,t
+28,Mixer,0,5,t
+29,Sensor,0,5,t
+30,Sensor,0,4,t
+31,Appliance ,0,5,t
+32,Plugs,0,5,t
+33,Plugs,0,3,t
+34,Fryer,0,4,t
+35,,0,3,t
+36,,0,5,t

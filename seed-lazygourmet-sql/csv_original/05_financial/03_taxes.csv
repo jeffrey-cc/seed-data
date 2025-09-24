@@ -1,0 +1,6 @@
+id,name,percentage,percentage2,is_active
+1,BC - GST only on sales (5%),0.05,0,f
+2,BC - GST only on Sales (5%),0.05,0,t
+3,BC - GST/PST on Sales (12%),0.12,0,t
+4,Tax on Sales (0%),0,0,t
+5,Tax Exempt (0%),0,0,t

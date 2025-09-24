@@ -1,0 +1,1020 @@
+id,guid,name,color,old_id,kind,legal_name,first_name,last_name,email_address,alt_email_address,phone_number,operator_role,billing_address,primary_contact_id,deposit_balance,balance,is_active,company_type,invoicing_contact_id
+15,56536c40-8022-4888-800f-a37ff778bfe0,Candid Confectioner,#888DF8,13,2,Candid Confectioner,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+28,c314bf6f-a925-4fc2-9f2a-bff12a3f889b,Parsdish Foods Inc,#377727,27,2,Parsdish Foods Inc,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+25,44221ee5-7425-4738-9759-40cb94a04fa4,Kondi Kitchen,#81E985,24,2,Kondi Kitchen,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+16,f765b233-70a4-4592-a356-9a1cc8202dc9,When Pigs Fly,#FDBEFF,14,2,When Pigs Fly,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3020 Plymouth Drive
+North Vancouver, BC  V7H 1C7"", ""AdministrativeDistrict1""=>""""",300,0,12992.1015,f,1,
+773,0004f8fb-f159-4610-bd74-125f419516db,Chris Anderson,#B200FF,,1,,Chris,Anderson,chris15anderson@hotmail.com,,,1,,,0,0,t,,
+23,70d45c89-f515-4f18-bb9c-532fa160f3a4,Revel Juice,#C6BB56,22,2,Revel Juice,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",303,0,0,f,1,
+3,54d77650-36e9-4f67-ad17-3b75007a589e,Beta 5 Chocolates,#93310A,1,2,Beta 5 Chocolates,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+774,d2436442-959d-4fac-b9d9-ea687122717f,Nodirkhon Akilkhanov,#2AFF00,,1,,Nodirkhon,Akilkhanov,nodirkhon.akilkhanov@yahoo.com,,,1,,,0,0,t,,
+645,56973059-b526-40ac-96ee-29fc96211994,Carlo Bueno,#0800FF,,1,,Carlo,Bueno,carlo.bueno21@hotmail.com,,6049671378,1,,,0,0,f,,
+12,91a750d3-c1b5-4f87-9b88-1fe2dd97a704,Batch Sweet Kitchen,#B400AF,10,2,Batch Sweet Kitchen,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+18,e658547e-2b1f-4b5e-8311-153c56cfd918,Whiskey 6,#34351D,16,2,Whiskey 6,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+32,3fdf8110-4425-4ac6-81ea-15c0b8702c57,Crumb Sandwich Shop,#D6A7B6,31,2,Crumb Sandwich Shop,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+482,33b11489-2f00-4270-aa9b-c388e2153e06,Neeru Kapoor (Deactivated),#10FF00,,1,,Neeru,Kapoor (Deactivated),neeru@commissaryconnect.com,,,0,,,0,0,f,,
+9,7045befc-591a-4580-a55a-5effbf866089,Los Tacos,#2B0A48,7,2,Los Tacos,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+27,5fd3b05c-b2a4-42a8-8cd3-dd0d99e1233d,Good Mallows,#BCE4E4,26,2,Good Mallows,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+26,071dacc9-9e6f-4928-8cbd-b10a06524593,Meals From Abroad,#EF92F3,25,2,Meals From Abroad,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+8,abf11abd-36bd-4e60-b2d2-5974d1e08f4a,Flip Top,#08BB54,6,2,Flip Top,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+4,ca7a4d91-bf67-4948-a497-6503d6e7e68a,Local Churn,#C5EB9B,2,2,Local Churn,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+22,689e50cb-0c22-4e2f-82ef-8583244a5e7c,Incognito Chef,#E3E4EE,21,2,Incognito Chef,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+628,5bcb401c-caaf-4f3c-aeb9-7bbdeda77ba7,New Worker,#3300FF,,1,,New,Worker,info@kirinrestaurant.com,,,1,,,0,0,t,,
+10,beb5f090-113f-4c55-b142-0184e4b11c9c,Notch Coffee,#E6D803,8,2,Notch Coffee,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+30,ed324731-d36d-4fb6-b12e-9930422f2b09,Unique Brazilian Snacks,#4DCB16,29,2,Unique Brazilian Snacks,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+258,3249161d-fd86-4614-aee0-226239f19bd3,Antojos y Savores,#5a43a7,322,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6G 1V4"", ""AddressLine1""=>""501 - 1414 Davie Street"", ""AdministrativeDistrict1""=>""BC""",,0,0,f,1,
+33,8e028e14-64a3-49e3-a5d3-b8acd2137984,Lakehouse,#E01667,32,2,Lakehouse,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+19,570c7d58-4be5-40ea-8d72-968936e65b65,Mellifera Bees,#30433E,18,2,Mellifera Bees,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+14,081a0273-eeb6-4f8a-98dd-761193b6fd49,Leaf it to me,#8DACC0,12,2,Leaf it to me,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+35,4716dc87-3edd-4862-b1fd-84a02cad6851,Baby Munchiez,#74E449,34,2,Baby Munchiez,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",307,0,2016.00,f,1,
+11,f0144a98-c611-40c5-981d-22cf117c7f28,Pie Hole,#E7C79F,9,2,Pie Hole,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",298,0,3503.9445,f,1,
+34,31327c76-2272-419f-b6cd-37354c8e7b1b,Say Hello Sweets,#A0CD4D,33,2,Say Hello Sweets,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+594,fbee3d92-69fa-4289-bd4e-2c8bb2d1e470,Delivery Driver,#FFE900,,1,,Delivery,Driver,thepassionatedelights@gmail.com,,,1,,,0,0,t,,
+510,e8235d95-d0a8-4db0-a4f6-210b06818c59,Frederic Gagne,#FAFF00,,1,,Frederic,Gagne,cheffred@komoeats.com,,7782412210,1,,,0,0,t,,
+531,643b7434-3bda-4ddb-8026-bad457ed208f,Steven Yen,#FF5900,,1,,Steven,Yen,kui.yvr@gamil.com,,604-839-1145,1,,,0,0,t,,
+641,d54a85f4-f2d6-4f2d-ae68-4799d1f7aa8e,Keziah Fortin,#FF0072,,1,,Keziah,Fortin,fortinkeziah@gmail.com,,236-878-8892,1,,,0,0,t,,
+499,e8ccb4dd-d3d1-4a92-ba8c-8122270cefa0,Anna Wilson,#1500FF,,1,,Anna,Wilson,info@anevasugarfairy.com,,2368388649,1,,,0,0,t,,
+36,944d9eea-8baf-421b-ba66-eb295adaa699,Tioze,#DA8E49,35,2,Tioze,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",308,0,157.50,f,1,
+541,4c87b348-fa7f-4169-9375-c471700c5056,Roman Gilbert,#00FF6A,,1,,Roman,Gilbert,info@fungitude.com,,7789034434,1,,,0,0,t,,
+520,a62b9b04-fc36-4bae-b0ed-a25545ea08a6,Amir Bajestani,#0026FF,,1,,Amir,Bajestani,milkywaypastry@gmail.com,,2368684242,1,,,0,0,t,,
+186,5b1f466b-a977-412f-a648-1f0dd7dcdade,Nourish Vancouver Food Services,#8BBF7A,240,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1830 Greer Avenue
+Vancouver, BC  V6J 1C5"", ""AdministrativeDistrict1""=>""""",422,0,2640.75,f,1,
+775,03dc56e8-afdc-4f67-b2a1-a9435591df18,Foodxican .,#FFA500,,1,,Foodxican,.,foodxican@gmail.com,,,1,,,0,0,t,,
+62,9b2e3c42-9bf9-4e94-8e02-fff4c793776f,Perfect Pull,#134494,65,2,Perfect Pull,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1801 - 4189 Halifax St.
+Burnaby, BC  V5C 0H9"", ""AdministrativeDistrict1""=>""""",328,0,4471.0260,f,1,
+518,8e129294-4c6e-4f2e-8f2d-45bc212a1096,member ramesh,#4300FF,,1,,member,ramesh,rameshrug@gmail.com,,,1,,,0,0,t,,
+58,ad2a3521-dc1d-4bce-83d9-c20297818f8f,Jerky Baron,#F11610,60,2,Jerky Baron,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,5299.9800,f,1,
+48,06a26af4-ba7b-4eee-bb4c-8ff32eb02631,Original Cupcakes,#1E69A3,49,2,Original Cupcakes,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",316,0,0,f,1,
+67,7eeed01a-c298-46dc-8940-a24276ac4610,Elsie's Kitchen Mixes,#4FAA34,70,2,Elsie's Kitchen Mixes,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+57,8f21420c-99ce-4be6-a2a7-a0935898658a,Antonio Romero Casado,#257C7E,58,2,Antonio Romero Casado,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""10631 Altona Place
+Richmond, BC  V7A 4Y3"", ""AdministrativeDistrict1""=>""""",324,0,13958.3745,f,1,
+501,12534bde-fa0c-44c2-9721-04c9ff9b2363,Ramesh Nov Rugbeer,#0094FF,,1,,Ramesh Nov,Rugbeer,john@gmail.com,,2222222222,1,,,0,0,t,,
+54,b0016446-e247-4394-8dd1-354fa3f23d0a,Kaylin & Hobbes,#FA876C,55,2,Kaylin & Hobbes,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",322,0,1392.4995,f,1,
+55,a1a99f47-7a82-4eb6-bfa1-0a7ba354c590,Umma Bento,#1005F1,56,2,Umma Bento,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1158"", ""AdministrativeDistrict1""=>""""",,0,3667.1775,f,1,
+65,091f51f7-a34e-4db1-a11c-94d4835801d0,Fortune Noodles,#0CB1EC,68,2,Fortune Noodles,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""5518 Culloden St.
+Vancouver BC  V5W 3R8"", ""AdministrativeDistrict1""=>""""",331,0,8367.1035,f,1,
+66,698ff2be-33f5-4726-a65e-8f7d7967bd0b,Salt Lick Ice Cream,#F2D98C,69,2,Salt Lick Ice Cream,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2917 E. 28th Avenue
+Vancouver, BC  V5R 1S3"", ""AdministrativeDistrict1""=>""""",332,0,44891.2650,f,1,
+47,8a0eaca0-c6af-412e-8aa1-0d5f45bab00d,The Dumpling King,#E67341,47,2,The Dumpling King,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2739 W. 33rd Avenue
+Vancouver, BC  V6N 2E9"", ""AdministrativeDistrict1""=>""""",315,0,23651.1870,f,1,
+37,641bf3df-cd61-4830-8460-479205c71024,Brine Adams,#AE84B9,36,2,Brine Adams,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+512,2d20ebad-560f-4fa3-933c-98549cec396d,Kelsey Kelsey,#00BBFF,,1,,Kelsey,Kelsey,accts@goodly.ca,,,1,,,0,0,t,,
+484,c66cc00a-8f7e-4968-8153-e57e70068490,Lia Maya Sari,#FFD800,,1,,Lia Maya,Sari,sari_lia@yahoo.com,,7788897753,1,,,0,0,t,,
+299,cbb09213-4dc2-4712-9b01-235d6ca534b5,Sarb  Mund,#00FF19,17,1,,Sarb,Mund,sarbmund@gmail.com,,778 558 7272,1,,,0,0,t,,
+38,e817ab44-1b0e-4255-88c8-cadb6d1d4144,Chef in a Box,#996080,37,2,Chef in a Box,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+42,7b02694c-25a3-43bd-8e4e-3d726b9836de,Gonzalo Almendrades,#9BE838,41,2,Gonzalo Almendrades,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+39,b4071d05-4757-469c-9e0b-57a1e3e88c5b,In The Mood Food,#81AA95,38,2,In The Mood Food,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+61,fb1718f1-0c16-4fe2-bcc9-aa9dcfb0fc4e,Johnny Can't Surf,#C3E416,64,2,Johnny Can't Surf,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2260 Davies Place
+Richmond, BC  V6X 4G2"", ""AdministrativeDistrict1""=>""""",327,0,9184.7280,f,1,
+567,2c921321-0a7a-4ecd-a7fc-8d217f76c87c,Louise Paixao,#FF5000,,1,,Louise,Paixao,baianacanada@gmail.com,,778-302-0135,1,,,0,0,t,,
+64,6ae09941-66a7-4f3b-873a-fd9e1d84cdb6,The Date Co,#8679F5,67,2,The Date Co,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",330,0,2051.6055,f,1,
+60,07914f52-b6c7-4fb7-bb1e-94ee72faf097,Praguery,#748C8F,63,2,Praguery,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3724 Bantling Place
+Burnaby, BC  V5J 3A2"", ""AdministrativeDistrict1""=>""""",326,0,6872.1660,f,1,
+52,44ad4034-46db-42d1-8864-93727005f26e,Louise Ndungula,#2E5E80,53,2,Louise Ndungula,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",320,0,0,f,1,
+49,36a4372f-b523-448b-be59-dd8ece6e5d95,David's Ravioli,#5330B3,50,2,David's Ravioli,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",317,0,0,f,1,
+41,3a9fe63f-5c79-4fa7-b2c9-13193a232820,Kits Kitchen,#E4A890,40,2,Kits Kitchen,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",310,0,955.50,f,1,
+527,600c0ec8-9df0-474a-acb1-79cdf2d36306,Youzong  Liu,#DDFF00,,1,,Youzong ,Liu,kevinyzliu@gmail.com,,778-378-4911,1,,,0,0,t,,
+713,6499be6e-e3a4-46e5-ae94-93dbdd4c7c69,Hyeonjeong (Heather) Kang,#FF0015,,1,,Hyeonjeong (Heather),Kang,merry@gmail.com,,7786805133,1,,,0,0,f,,
+50,34c956f2-68c6-47bb-a07a-6376418eea48,Skookum Catering,#6339C3,51,2,Skookum Catering,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",318,0,3.9690,f,1,
+68,4622a788-485c-418d-a673-bc76a8b39181,Truth Drink,#B600EC,71,2,Truth Drink,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+696,9e98019d-c409-42f9-b3a4-9dfd6b847c0a,Greg McLaren,#FF007F,,1,,Greg,McLaren,greg@farmfooddrink.ca,,,1,,,0,0,t,,
+605,6680980f-44a3-4fab-a3f6-5376fae10522,Kevin Holden,#00FF87,,1,,Kevin,Holden,info@reidbrothers.ca,,6042630323,1,,,0,0,t,,
+564,3f099a3e-1793-4094-adda-1dd471d58530,Ramona MacLeod,#FF0043,,1,,Ramona,MacLeod,ramona@drynken.com,,6043546262,1,,,0,0,t,,
+682,c9d8fdb1-34e0-4b46-b5ac-efe90af50252,Buttercrumbs Delivery,#FFD400,,1,,Buttercrumbs,Delivery,test@buttercrumbs.ca,,,1,,,0,0,t,,
+630,816ec40e-caf8-4fd9-931d-00d441369726,Emily Koo,#9D00FF,,1,,Emily,Koo,kulturedmethod@gmail.com,,604-726-7781,1,,,0,0,t,,
+776,e0113e2e-f458-4fe0-bd5e-41d43ec01ca6,Brinil Rodrigues,#FF0010,,1,,Brinil,Rodrigues,shaletc20@gmail.com,,2365137332,1,,,0,0,t,,
+646,f18dd373-69cf-4cff-802d-3cc246bb19d8,Kulbir Singh,#FF1900,,1,,Kulbir,Singh,tempemail@commissaryconnect.com,,236 865 3085,1,,,0,0,f,,
+82,6e3d578d-edbc-4450-8c9e-ee658741bd91,Hula Girl Shave Ice,#5A5A9D,93,2,Hula Girl Shave Ice,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""204-1815 Cornwall Ave
+Vancouver, BC  V6J 1C6"", ""AdministrativeDistrict1""=>""""",345,0,1575.00,f,1,
+89,52da5a5c-8129-48c8-a758-60ab7b80ea5b,Antidote Juicery,#FDF29E,101,2,Antidote Juicery,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""607 - 7338 Gollner Ave.,
+Richmond, BC  V6Y 0H8"", ""AdministrativeDistrict1""=>""""",350,0,10777.4940,f,1,
+543,f0e75947-cfd2-4e78-8bcd-aca5ecf1e1c4,Brinil  Rodrigues,#00FFF6,,1,,Brinil ,Rodrigues,brinil894@gmail.com,,2365137332,1,,,0,0,t,,
+101,97c408a8-e48b-4c19-96a8-7c31ed409591,Craft Jerky,#9CFF57,114,2,Craft Jerky,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+74,d30a4c3c-380b-463a-8b3f-d0088e9b939a,The Main Squeeze,#4708DA,82,2,The Main Squeeze,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""101-1320 Salsbury Drive
+Vancouver, BC  V5L 4B3"", ""AdministrativeDistrict1""=>""""",338,0,9324.0685,f,1,
+96,0b63fd60-7c22-4e2c-bf2f-302c98551b4b,Kanadell,#9BC9E2,108,2,Kanadell,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""303-4180 Nanaimo Street
+Vancouver, BC
+V5N 5H7"", ""AdministrativeDistrict1""=>""""",355,0,56574.5515,f,1,
+88,c9e9df07-ac4f-43cf-a513-1d81c413ef5a,Keto Munch,#B5B1CF,100,2,Keto Munch,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""319 - 1055 Richards St.
+Vancouver, BC  V6B 0C2"", ""AdministrativeDistrict1""=>""""",349,0,9002.5320,f,1,
+91,0f6b3c6f-438f-4d57-8fab-2149118b4b5c,Magnet Naturals,#A5AE52,103,2,Magnet Naturals,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2635 W. 7th Ave.,
+Vancouver, BC  V6K 1Z2"", ""AdministrativeDistrict1""=>""""",352,0,6340.0785,f,1,
+83,1c98ef99-89e0-4bb2-989b-39d47a93b8cd,Chinee Crepe,#DDEAE6,94,2,Chinee Crepe,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1507-7979 Firbridge Way
+Richmond, BC
+V6X 0K7"", ""AdministrativeDistrict1""=>""""",346,0,4955.4960,f,1,
+71,147adcab-2979-4193-b306-8fbb6a2780ff,IDEATTHAT,#1864CF,74,2,IDEATTHAT,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""608-4200 Mayberry Street
+Burnaby, BC  V5H 4A7"", ""AdministrativeDistrict1""=>""""",335,0,3320.4360,f,1,
+86,2864af2d-d1e1-43fb-bd95-278b3ea2c03c,Tina Lau Pies,#327129,97,2,Tina Lau Pies,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,477.1875,f,1,
+795,bd4c8e85-1760-4bac-ab75-a7a244e5bc30,Natália Guimarães,#00FFFA,,1,,Natália,Guimarães,nataliaazin@hotmail.com,,2365124731,1,,,0,0,t,,
+505,ce8603a8-b024-4dd1-98aa-b248995c1d5e,Ramesh november Rugbeer,#26FF00,,1,,Ramesh november,Rugbeer,rameshrug@gmail.com,,2222222222,1,,,0,0,t,,
+603,9f118926-9b22-42ad-a06e-50e52d2e8bd6,Clint Javillo,#FF6600,,1,,Clint,Javillo,clint@commissaryconnect.com,,,0,,,0,0,t,,
+581,38cf23de-4542-4f45-977e-19678df298f1,AMINA  ZAMANI,#00F6FF,,1,,AMINA ,ZAMANI,amina.a.zamani@gmail.com,,604 374 4814,1,,,0,0,t,,
+569,0bccd214-d6c0-4e85-9c6b-cb2da34b3cb3,Navneet Bhadu,#00FFE5,,1,,Navneet,Bhadu,indianburgerjoint@gmail.com,,2368808989,1,,,0,0,t,,
+87,d3b764f8-c787-43f7-b836-80f742ee2beb,Kool Whip's Daydream,#1A42B3,99,2,Kool Whip's Daydream,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,367.50,f,1,
+84,ec07c951-5990-47a1-92aa-7a24412c7b3c,Menina Baker,#5C763B,95,2,Menina Baker,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""803-850 Bidwell Street
+Vancouver, BC
+V6G 2J8"", ""AdministrativeDistrict1""=>""""",347,0,5995.2900,f,1,
+99,e3f50eb5-3894-448e-98e9-8476550e25b6,French Made Baking,#9ED73A,112,2,French Made Baking,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",358,0,1601.1060,f,1,
+100,110c7a3a-f976-4a1a-9c3d-81273eec01b1,Dupi's Chai,#1F4E69,113,2,Dupi's Chai,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""10-9308 Keefer Avenue
+Richmond, BC
+V6Y 4K9"", ""AdministrativeDistrict1""=>""""",359,0,9142.5230,f,1,
+90,e607f2ee-a0a2-4118-9798-edb86f3f35b6,Carly Chasse,#5D2801,102,2,Carly Chasse,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",351,0,157.50,f,1,
+94,8b82393e-b37e-4e90-9ac0-024363dcee41,True Nosh,#55B361,106,2,True Nosh,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+79,45e418dc-ecb3-4d42-979f-7fb0dc03b5d5,Chakula Street Food,#EF4D1B,90,2,Chakula Street Food,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",343,0,531.5625,f,1,
+529,3487e7ca-9590-4e21-be61-a983df4e14a3,Youzong  Liu,#DDFF00,,1,,Youzong ,Liu,kevinyzliu@gmail.com,,778-378-4911,1,,,0,0,t,,
+80,f4ed04b1-ad26-422a-8929-72eba7e2b201,Coast Protein,#92BF39,91,2,Coast Protein,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,945.00,f,1,
+98,af875e74-2c69-4954-a958-97e8318aacfc,Acacia Bistro & Import,#5E7971,111,2,Acacia Bistro,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",357,0,879.90,f,1,
+622,74481d7d-eb7d-4048-9a00-c3cd6d393e80,Luxi Li,#FF0083,,1,,Luxi,Li,slowsavory@gmail.com ,,2508022386,1,,,0,0,t,,
+95,5af174ab-54ed-4788-8a6e-c2fe83c85d1d,Coconut on Earth,#5A2E57,107,2,Coconut on Earth,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+596,71920380-cbd4-4b54-b1cd-d26a81b9d18d,Ayissi Nyemba,#C3FF00,,1,,Ayissi,Nyemba,ayissi@emkaofoods.com,,6044015742,1,,,0,0,t,,
+570,9db7c531-e095-4c00-96b7-a0cd02b63820,Martello Property Services Inc  ,#00A5FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>"" Edmonton  ,   "", ""PostalCode""=>""T5S 1V4"", ""AddressLine1""=>""200, 17878 – 106 Avenue  ,  "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""Alberta""",571,0,0,t,2,571
+647,502c474f-0a32-4385-b94f-943315056d8f,Subomi Tobun,#8CFF00,,1,,Subomi,Tobun,tempemail5@commissaryconnect.com,,778 861 1825,1,,,0,0,f,,
+643,0c70cfe0-dfaf-4191-9d27-0028a0086e90,Agnes Wong,#FF7F00,,1,,Agnes,Wong,hello@buttercrumbs.ca,,7788891834,1,,,0,0,t,,
+522,9cf86eb8-1180-48c2-87ee-231f2059166b,Shaima Kamal,#2600FF,,1,,Shaima,Kamal,shaimakamal@gmail.com,,7788815904,1,,,0,0,t,,
+694,624b2ed6-fb6a-430b-bd47-91bf70e09de5,Oluwatosin Adebisi,#FF2A00,,1,,Oluwatosin,Adebisi,adebisidowu257@gmail.com,,647 806 2077,1,,,0,0,t,,
+779,cbce809f-feea-4185-acf4-e0169355a8b9,Yu-Fang Chen,#F2FF00,,1,,Yu-Fang,Chen,echen@acsea.ca,,6047889229,1,,,0,0,t,,
+513,1ff09add-c3d6-4d61-aca2-1ca9ed77977c,Adam Kolsrud,#0043FF,,1,,Adam,Kolsrud,adam@commissaryconnect.com,,7789875875,0,,,0,0,f,,
+802,47b239db-06fc-4fd9-ab14-dc459330648f,Mark Tagulao,#0077FF,,1,,Mark,Tagulao,edible.mark@gmail.com,,604-889-1461,1,,,0,0,t,,
+119,a9ce7d24-a53c-4bfc-9fcf-01ff50f8da6e,MJO Solutions,#823DF2,137,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""9457 Kanaka Street
+Langley, BC  V1M 4G4"", ""AdministrativeDistrict1""=>""""",373,0,3792.7145,f,1,
+133,2f194ceb-c546-498b-b0d3-74af4aa64bf5,Wu Assassins BC Productions,#A616B1,153,2,Wu Assassins BC Productions,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""POBox 2233 Vancouver Main
+Vancouver, BC V6B 3W2"", ""AdministrativeDistrict1""=>""""",,0,157.50,f,1,
+127,bd418b58-9a78-442a-b04d-8413568403de,Elevated Nut Foods,#0A422B,145,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""104-2280 Vine St
+Vancouver, BC  v6K 3K4"", ""AdministrativeDistrict1""=>""""",379,0,4694.1615,f,1,
+110,81277314-df8b-4525-9bc3-d505858ba613,zDo not use,#DDE3B8,126,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+134,fdbd133e-95ae-4006-95b6-f3e842699292,Conscious Cookie Co.,#0CFE79,159,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1503 - 1003 Pacific Street
+Vancouver, BC
+V6E 4P2"", ""AdministrativeDistrict1""=>""""",383,0,15640.4450,f,1,
+118,319a197e-3a59-4bd7-99c8-11b8747b733f,Blooming Oni-San,#5B5B38,136,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""102 -848 Union St
+Vancouver, BC V6A 2C4"", ""AdministrativeDistrict1""=>""""",372,0,3307.5105,f,1,
+515,4dbc5982-3cd6-4a2e-b674-5354aeb7159d, Cecil Remedio,#00FF08,,1,, Cecil,Remedio,ensaimadamoment@gmail.com,,7786850057,1,,,0,0,t,,
+122,e94de427-5795-4e5c-a147-46677a24378b,Kindred Cultures,#35DCC6,140,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""4 - 12411 Trites Rd.
+Richmond, BC  V7E 6J7"", ""AdministrativeDistrict1""=>""""",375,0,78904.3675,f,1,
+129,87e7b0e3-2e9d-40f0-bf45-5e417f2be6c5,Kure Coffee,#3A2E27,147,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""906 - 1051 Broughton St.
+Vancouver, BC  V6G 2A6"", ""AdministrativeDistrict1""=>""""",380,0,1477.6545,f,1,
+130,1072b0dc-1dc6-4b4d-83f4-5cbad8cadc6d,A Toi Gourmet Gifts,#2522D1,148,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1607 West 58th Ave.
+Vancouver, BC  V6P 1W8"", ""AdministrativeDistrict1""=>""""",381,0,10907.5670,f,1,
+503,9b503942-12cf-46e5-bc71-9c337c6dd97d,Ramesh Rugbeer,#0008FF,,1,,Ramesh,Rugbeer,rameshrug@gmail.com,,2222222222,1,,,0,0,t,,
+114,835f4b49-c7ca-4699-b0c2-02896e867bec,Hearty Meals,#2F97E7,130,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""42 - 6233 Birch St.
+Richmond, BC  V6Y 4H3"", ""AdministrativeDistrict1""=>""""",368,0,639.9960,f,1,
+112,ae516929-6062-4be2-96f9-10d7ed2f22ed,Momoo's Smoked Meats,#3F1C65,128,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""210 - 9005 Centaurus Cr.
+Burnaby, BC  V3J 7N4"", ""AdministrativeDistrict1""=>""""",366,0,18283.65,f,1,
+128,b9a19f58-0517-4c67-b102-591ab468b151,Moogi's,#1DD4AF,146,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+115,0e736713-2b7b-4951-9b25-f7ff7ce3a7af,zWhatafood - do not use,#F6BD98,132,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""87 Glynde Ave
+Burnaby, BC  V5B 3J3"", ""AdministrativeDistrict1""=>""""",369,0,0,f,1,
+120,3bf99283-1c36-41b7-9770-e3c70c814c6b,Mama's Fish and Chips,#A1405E,138,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+113,0d07e8e8-d0bf-4be6-8fa1-0ee7671dea1c,Metate Bake Shop,#EB8612,129,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>"""", ""AddressLine1""=>""6611 Southoaks Cr."", ""AdministrativeDistrict1""=>""BC V5E 4L5""",367,0,28689.0755,f,1,
+123,e43089b4-8590-42aa-9ddb-0166656ee97a,Pink Honey Desserts,#6AB22B,141,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+106,7fd89863-2039-4c7f-81cf-9e0cbe772bd5,Pre-Bak,#A34823,122,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1237 E. 24th Ave
+Vancouver, BC  V5T 2P2"", ""AdministrativeDistrict1""=>""""",364,0,11899.7350,f,1,
+131,a1711a1b-dbe7-4a92-bd20-185fdb15fdf8,Hanai Family Table,#911029,151,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3623 Prince Albert Street
+Vancouver, BC  V5V 4H9"", ""AdministrativeDistrict1""=>""""",382,0,13552.6545,f,1,
+132,b267c134-669f-4ca1-81d5-ed400de8a2d7,Sweet Bernice,#9199F8,152,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,157.50,f,1,
+524,7cb432b3-47a7-4518-8669-41053902ff85,Alfredo Fernandez,#FF7F00,,1,,Alfredo,Fernandez,alfredofa23@hotmail.com,,2365918523,1,,,0,0,t,,
+126,8aa10abc-c1ad-4fee-b2b2-7f4ad46a7c96,el luchador,#C96EBB,144,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""18902 - 55A Avenue
+Surrey, BC  V3S 6X1"", ""AdministrativeDistrict1""=>""""",378,0,5917.4115,f,1,
+607,7c83e6e1-1fe1-4db8-bd6c-9fc9f1dd5297,Terrance  Bains,#FF005D,,1,,Terrance ,Bains,contact@thecrankyoldfork.com,,2368786330,1,,,0,0,t,,
+606,09b99add-4035-4681-91fa-758895adcf59,The Cranky Old Fork Kitchen Inc. (NEW),#0055FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""New Westminster "", ""PostalCode""=>""V3L 3V7"", ""AddressLine1""=>""5 - 119 E. Columbia St. . V3L 3V7"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",607,0,0,f,1,
+571,87efe46a-6d2d-49bc-928e-5b2b11f8ef40,Lindsey Neville,#003BFF,,1,,Lindsey,Neville,lindsey.neville@martello.group,,,1,,,0,0,t,,
+544,3ea30188-d16f-4e04-ad61-d2f4623d2115,Geoff Schmigelsky,#00A5FF,,1,,Geoff,Schmigelsky,jeff@activeq.io,,,0,,,0,0,t,,
+631,4fccbae6-dfe8-4539-95a4-393265d2f3e9,Jennifer Nguyen,#6600FF,,1,,Jennifer,Nguyen,jennifer@commissaryconnect.com,,604 240 2667 ,0,,,0,0,f,,
+604,01326bf9-aa71-4636-aa6a-1ab51690e7d9,Reid Brothers Plumbing & Heating Ltd.,#FF0048,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6P 6G2"", ""AddressLine1""=>""1636 West 75th Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",605,0,0,t,2,605
+486,1a503c3c-a18a-474e-809b-0910639770ea,Lucia Valenzuela,#3B00FF,,1,,Lucia,Valenzuela,hello@labakeria.co,,7787518914,1,,,0,0,t,,
+714,fb06ae67-c89a-4894-9238-bd163680e897,Jimmy Lam,#FF3200,,1,,Jimmy,Lam,lam.jmmy.work@gmail.com,,,1,,,0,0,t,,
+517,5c2ad972-c351-4cba-b387-756f6b144a64,Crissan Mary  Cristobal,#00FF65,,1,,Crissan Mary ,Cristobal,crissancristobal@yahoo.com,,778 681 6087,1,,,0,0,t,,
+158,640e0d21-914e-4f18-b0b0-2dbb239dee2b,z5000 Years of Chinese,#BDFAFA,195,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""NEVER RENT TO"", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+608,756c45ff-c17f-4b6f-97e8-76974166b352,Terrance Bains,#00FF43,,1,,Terrance,Bains,terrancebains1@gmail.com,,,1,,,0,0,t,,
+634,91eaafe2-beec-4c72-ab69-8e6c81fe2a70,test ramesh rugbeer,#00FF9D,,1,,test ramesh,rugbeer,rameshrug@gmail.com,,,1,,,0,0,t,,
+160,3a325480-54f7-448a-bac4-c2e4e9ae6781,Club Versante,#2C0344,197,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""8451 Bridgeport Road
+Richmond, BC  V6V 1W1"", ""AdministrativeDistrict1""=>""""",400,0,6867.0945,f,1,
+146,3758256d-670f-4478-b737-d552f57dd6f6,Betty's King Sauce,#E1EF08,171,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+143,3c139749-f537-46db-a162-59936aa2ac91,Jessica's Gourmet Alfajores,#47AE4C,168,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+197,4816609d-254b-4d51-b457-cdae7c878fbd,zTesting,#92068f,257,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Victoria"", ""PostalCode""=>"""", ""AddressLine1""=>""1712 Olive St"", ""AdministrativeDistrict1""=>""British Columbia""",,0,0,f,3,
+161,4b67bcc5-bbc4-4d01-b10f-cee496338726,Daily Palette,#8F2E32,198,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""804 - 120 W. Cordova St., Vancouver, BC  V6B 0K2
+
+Jenessa Hlatky, 29-140 3rd St. E., North Vancouver, BC V7L 1I6
+778 257 2085"", ""AdministrativeDistrict1""=>""""",401,0,28836.7460,f,1,
+163,72f40743-4bbb-41e4-a732-1fc4cb9eac3f,Melo Processing,#8B6248,200,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1050-409 Granville Street
+Vancouver, BC"", ""AdministrativeDistrict1""=>""""",403,0,3104.6610,f,1,
+159,fa53cf10-62ea-41af-a7e1-c6adae65b859,MKS Food Corp,#2A2E6F,196,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""8445 - 206A Street
+Langley, BC  V2Y 0S4"", ""AdministrativeDistrict1""=>""""",399,0,30366.8225,f,1,
+157,c5e5e5f1-9c7c-4075-b530-fac0b87764c8,Thirstea,#31163C,193,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>"""", ""AddressLine1""=>""12 - 6333 No. 1 Road"", ""AdministrativeDistrict1""=>""BC""",398,0,113354.9900,f,1,
+162,d759cf93-e1c9-4fcb-90c8-db242c30525d,Meatball Daddy,#F0721C,199,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""10460 Milford Drive
+Richmond, BC"", ""AdministrativeDistrict1""=>""""",402,0,12256.5135,f,1,
+155,77723ec0-4888-4fe4-89db-7399e75facee,Sweet Tongue Sweets,#B06975,190,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""10691 Bromfield Place
+Richmond, BC"", ""AdministrativeDistrict1""=>""""",396,0,10880.8035,f,1,
+633,da95cce2-bb0b-4cd4-8c87-bcded57b91f5,Chris  Cook,#FF002A,,1,,Chris ,Cook,chris@palatablecatering.ca,,604-798-4275,1,,,0,0,t,,
+142,68973b0c-2231-4bdd-80d0-e9ed27f4b95e,Treeline Catering,#DC6A8D,167,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",389,0,2157.75,f,1,
+151,f5ac3cbd-2c8d-4411-ad78-be0c6ff47618,Prime Pacific Global Management Corporation,#38150C,186,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""170 – 422 Richards Street, Vancouver, BC  V6B 2Z4"", ""AdministrativeDistrict1""=>""""",,0,1012.20,f,1,
+152,69bd7763-8c2f-4655-84ff-14bb0ee27f30,Metalab,#152B18,187,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""303 West Pender St
+Vancouver"", ""AdministrativeDistrict1""=>""""",,0,2467.50,f,1,
+153,13c097ef-066a-4a03-8660-1a189b5fb407,Deloitte,#55761D,188,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""Suite 2800 - 1055 Dunsmuir Street
+Vancouver, BC"", ""AdministrativeDistrict1""=>""""",,0,59.5875,f,1,
+165,dd4a6e22-0703-4c2b-baf1-2e439f363c4b,Junzushi,#1DE651,202,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""605 - 9171 Ferndale Rd.
+Richmond, BC  V6Y 0A5"", ""AdministrativeDistrict1""=>""""",405,0,6188.1750,f,1,
+211,24a80b6e-c4c4-40ee-b0be-697272d5f751,LIM,#11de85,271,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+141,1d26f2cc-8875-4d6e-b63b-c9d25b96e569,ConTresor,#DFE430,166,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+487,63fd933e-cd59-42b2-8fc3-e45763e880d0,Tai Yeung,#E900FF,,1,,Tai,Yeung,lechaletpatisserie@gmail.com,,514-836-5211,1,,,0,0,t,,
+346,d7415608-f39c-410a-8329-73831a43adb6,Sheng  Wei,#FF1500,91,1,,Sheng,Wei,chineecrepe@gmail.com,,778 865 8956,1,,,0,0,t,,
+227,136fc064-833a-4520-bd52-d27126f562c8,Bluebuy Corp.,#b85683,289,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey "", ""PostalCode""=>"""", ""AddressLine1""=>""75 - 9989 Barnston Dr. E."", ""AdministrativeDistrict1""=>""BC""",449,0,2.4790,f,1,
+632,057ad93b-a5b5-4ee2-8091-7db8c0d03009,Palatable Catering and Events ,#0061FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""v6b1a1"", ""AddressLine1""=>""408-55 Water Street "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",633,0,0,f,1,
+573,006c9111-c3d1-4385-b70d-46bd2512a909,Ana Wanderley,#FF1900,,1,,Ana,Wanderley,anaegw@gmail.com,,7782227952,1,,,0,0,t,,
+154,2aee6b15-b448-4e78-b2d1-3f0593b60e2a,Ministry of Agriculture,#DF08F9,189,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""PO Box 9120 
+Stn Prov Govt
+Victoria, BC V8W 9B4"", ""AdministrativeDistrict1""=>""""",,0,1518175.3650,f,1,
+17,b877a886-f88f-4325-95fa-df589bef9bf1,Sarb Mund's Personal Use,#FF0000,15,2,Sarb Mund's Personal Use,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+525,310e1494-b1cd-40d0-8ea6-fe6427c2f261,Michael Geldert,#00FF1D,,1,,Michael,Geldert,michael@commissaryconnect.com,,,0,,,0,0,f,,
+716,b6647826-453d-43c4-a7f7-a4e6aa71860b,David Rohrer,#FF006E,,1,,David,Rohrer, admin@blondbearholdings.com,,6047715649,1,,,0,0,t,,
+718,1a2d2aa0-28d2-49c7-92dd-2438331af5ab,Thanh Phu Nguyen,#FF9400,,1,,Thanh,Phu Nguyen,info@dearmssaigon.com,,778-881-8845,1,,,0,0,t,,
+821,be947078-3a1b-4580-9e01-590766fc1063,Delivery Floralicious,#BFFF00,,1,,Delivery,Floralicious,cherylclyip@gmail.com,,,1,,,0,0,t,,
+649,3504102d-b44a-45b5-aa23-40b869f1a8cf,Yolanda Zhang,#FF3B00,,1,,Yolanda,Zhang,yolandazhang2016@gmail.com,,7788588123,1,,,0,0,t,,
+759,d3a3331a-dd5e-473e-897c-0f0392fa05fa,Shelby Brown,#FF009D,,1,,Shelby,Brown,info@greenhut.ca,,2505142112,1,,,0,0,t,,
+559,780321f3-f9a6-4d97-abde-8a6c7849e6bf,Pia Ritch,#FF009D,,1,,Pia,Ritch,facilitymanager@fvafh.com,,6047465682,1,,,0,0,t,,
+185,8db71b55-21d3-4eee-ae63-814d2daed21d,Kouign Cafe Inc.,#4415AB,239,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",421,0,157.50,f,1,
+176,3c7a02a6-2c36-4460-9c8b-2df69052146b,Sandwichbord,#E6783A,215,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+184,7ab48f22-9bef-4980-b549-d6e9d1149074,The Cakroll Brazilian,#B9CD69,238,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1006 - 13750 - 100th Avenue
+Surrey, BC  V3T 0L3"", ""AdministrativeDistrict1""=>""""",420,0,2762.0145,f,1,
+178,780ef3b7-ac27-45de-a105-410a3910f1cb,Bomeh Kitchen,#7C026E,230,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""19 - 590 S.W. Marine Drive
+Vancouver, BC  V6P 6K5"", ""AdministrativeDistrict1""=>""""",417,0,5004.7200,f,1,
+195,0eadc34b-ae4e-4fc5-b337-2c39847797d1,Studio Desservir,#7ffa5,255,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+198,52c96513-60d5-4875-88e2-8a9e8417b806,Found by FM Production,#132427,258,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>"""", ""AddressLine1""=>""9 - 7651 Francis Street"", ""AdministrativeDistrict1""=>""BC""",429,0,0.01,f,3,
+183,c8f88b39-b879-47a3-98f4-5df44f3cab55,Enchanting Bites & Co,#840B8E,237,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""14741 - 58th Avenue
+Surrey, BC  V3S 1S2"", ""AdministrativeDistrict1""=>""""",419,0,5219.55,f,1,
+173,ea1888d7-edd1-4f42-8d28-d5de85f33ef0,Rice Burger,#9DB99F,211,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2630 Sasamat St.
+Vancouver, BC  V6R 2J1"", ""AdministrativeDistrict1""=>""""",413,0,1338.7605,f,1,
+193,b83339e1-1aae-4719-8a59-5373b3d25914,GGCakraft,#465449,253,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,1050.00,f,1,
+180,dfc8beb8-b038-46d5-ae67-57ef54e5b487,Food Processing Skills Canada (FPSC),#0EC8CC,234,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""Conroy Rd. Ottawa, ON K1G 6C2"", ""AdministrativeDistrict1""=>""""",,0,35657.73,f,3,
+188,b59a6798-8754-49f8-a1f3-2b65fb389451,Daniel Wang Insurance,#CCCD1E,242,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,999.9990,f,1,
+196,212dee9f-5fc8-40f1-a3d1-9fd6bac6d609,Kitchin Collective,#6751d,256,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""1131 West 16th Avenue"", ""AdministrativeDistrict1""=>""BC""",428,0,0.00,f,1,
+191,be9b3e54-6732-4331-8606-2c3fbc1e2169,Mealstax Healthy Meals,#C71435,251,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""612 - 1325 Rolston St."", ""AdministrativeDistrict1""=>""BC""",425,0,1170.75,f,1,
+170,239110f1-9a72-40e4-a9ab-5a4419b5d143,Firefly Catering,#D03959,208,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",410,0,840.0105,f,1,
+194,76a48154-6e1b-48b7-a6fb-1cf3a70c47d0,ChefOutWest,#472338,254,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",427,0,125.00,f,1,
+401,9c562ba1-0556-432b-a2bf-dd637c3357e2,Stacy  Stringer,#FF0037,185,1,,Stacy,Stringer,info@dailypalette.ca,,604 679 8755,1,,,0,0,t,,
+405,3de820ae-8e59-4bc5-bc34-32af71a9ca47,Andrew  Guan,#FF2600,187,1,,Andrew,Guan,andrewguuan@gmail.com,,778-862-2093,1,,,0,0,t,,
+199,331bab26-77f9-48e8-b965-071b08ce59c1,Bao Wows,#ef5899,259,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0.0105,f,1,
+406,48b58cd1-ac9d-4c71-b9b8-39d8ad22f019,Ryan Senguk  Baik,#00FF2A,189,1,,Ryan Senguk,Baik,sengukbaik@gmail.com,,778-522-8397,1,,,0,0,t,,
+187,eed79f02-fe42-405c-8acf-72f28f798044,Orange Blossom Cake Studio,#195589,241,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7A 3C5"", ""AddressLine1""=>""10560 Anahim Drive"", ""AdministrativeDistrict1""=>""BC""",423,0,50604.7150,f,1,
+412,8c99a5ee-2f44-4768-bbc9-6b7de69b6f25,Sophia Lo,#FF4300,,1,,Sophia,Lo,sophia180802@gmail.com,,778 245 8115,1,,,0,0,t,,
+181,2d3d1691-face-4d9d-9382-2aa97b938000,IAF,#3EF208,235,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""Unit 301 – 747 Fort Street, Victoria, BC, V8W 3E9"", ""AdministrativeDistrict1""=>""""",,0,57375,f,1,
+624,d8adcb92-7cac-4793-bd2b-7355f6ee5b0f,Daniela Coen,#00FF43,,1,,Daniela,Coen,coendaniela@yahoo.com,,6725134300,1,,,0,0,t,,
+403,772fdeac-6036-4eef-80f7-d18ef5bf7dcb,Hourash  Falati,#FFB600,186,1,,Hourash,Falati,hfalati@imexworldwide.com,,604-831-1740,1,,,0,0,t,,
+407,0df9ad91-513c-4339-87ff-bbe4d8fc2145,Jason Chan,#0008FF,,1,,Jason,Chan,jason.chan@kirinrestaurant.com,,604-207-8833,1,,,0,0,t,,
+182,fb74d0f5-15fe-4875-ba56-99400b3dc4a8,Comox Valley Economic Development & Tourism,#599BC4,236,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""200 - 580 Duncan Ave
+COURTENAY BC V9N 2M7
+CANADA"", ""AdministrativeDistrict1""=>""""",,0,2835.00,f,3,
+546,593e2cf7-39eb-432e-838c-a49b0f50b2cc,Eryin (Katherine) Zhang,#FF00A1,,1,,Eryin (Katherine),Zhang,mochibaeyvr@yahoo.com,,7788142998,1,,,0,0,t,,
+409,3812f162-9849-4509-9936-7b6d283cc781,Raven  Xu,#00FFD4,196,1,,Raven,Xu,xxuan0000@gmail.com,,604 347 9059,1,,,0,0,t,,
+410,ca9a0d2b-3021-4c9f-bcf0-960623e06c22,Jaime  Lipe,#FFD400,218,1,,Jaime,Lipe,chefjaimelipe@gmail.com,,(604) 499-4694,1,,,0,0,t,,
+411,a2d55f0c-9977-459e-b5ec-9c0e10bad709,Pammella  Moraess,#1900FF,195,1,,Pammella,Moraess,pammellamoraess@gmail.com,,778 387 5303,1,,,0,0,t,,
+413,b85bea43-df10-42d6-a617-72b06b8141d0,Austin  Chen,#D000FF,202,1,,Austin,Chen,rice-burger@hotmail.com,,778 833 0825,1,,,0,0,t,,
+414,083d1140-ea14-43f2-89e1-e5e312402d3f,Nathan  Anderson,#0033FF,208,1,,Nathan,Anderson,ketokitchencanada.ca@gmail.com,,7789521502,1,,,0,0,t,,
+415,321540b5-3017-423d-87c9-56d4c5927e4d,Noah  Vaillancourt,#00FF08,207,1,,Noah,Vaillancourt,caldobroths@gmail.com,,778-628-7765,1,,,0,0,t,,
+416,428fa5f2-d556-4df6-b040-a4b05e0e0f64,Ali  Cant,#2E00FF,211,1,,Ali,Cant,Ali_cant@coastiecraftburgers.ca,,(604) 754-9990,1,,,0,0,t,,
+404,a52b5a02-9ebe-4568-84bb-3905df6df198,Daekong (John) Jang,#00FFA1,,1,,Daekong (John),Jang,dk1736@gmail.com,,778-855-0576,1,,,0,0,t,,
+506,1f1045df-3956-4eb4-b5f5-4dc716d68507,Sarah Vingoe,#00FF55,,1,,Sarah,Vingoe,vings@rethinkcanada.com,,604-379-9550,1,,,0,0,t,,
+408,95043363-27dd-4072-9cb4-4647f29d2e8c,UpMeals Management,#B600FF,,1,,UpMeals,Management,upmeals@receiptbank.me,,778-320-4633,1,,,0,0,t,,
+226,7b786a79-4c99-42d9-ba81-54657e507ba0,Antojos y Sabores Mexican Cuisine,#542020,288,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,1056.00,f,1,
+200,93e67592-3696-449a-9a15-06facab3ac7f,Yellow Peppers,#d9122,260,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+213,87ae3153-5d6f-4f8a-adc5-fe546bc62bf3,Yum Sweet Shop,#a856b5,273,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+214,13425ea3-eed5-4a60-9aa0-79a67e987a83,Li's Food Revolution #2,#321304,274,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""3009 - 838 Seymour St."", ""AdministrativeDistrict1""=>""BC""",439,0,18381.5970,f,1,
+230,039e8cd6-db5c-4c0f-8bdc-0f24266f05ab,Baan Lao Thai,#27b635,293,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+232,37079cf3-3229-4302-bf5b-7142f9aad99a,Holy Cow Foods Inc.,#eea9a9,295,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",452,0,12789.00,f,1,
+233,eabc75d5-e57b-46ca-b2ef-ab050643d50d,7 Spices ,#e235c7,296,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0.00,f,1,
+218,d548f97b-99f9-4bee-8b9e-111d17245bf6,Michelle's Brazilian Specialty Foods,#55c5c1,278,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5M 4S1"", ""AddressLine1""=>""3455 East 2nd Ave. #40"", ""AdministrativeDistrict1""=>""BC""",443,0,0,f,1,
+418,e7928bc8-604a-44d7-816a-27a3629f3eec,Jessica Kruger,#5400FF,,1,,Jessica,Kruger,jesskruger555@gmail.com,,778 865 4945,1,,,0,0,t,,
+209,ec5e2ab3-a18e-4054-9f97-8cc7ff392689,Simon Fraser University,#f61515,269,2,Simon Fraser University,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>"""", ""AddressLine1""=>""8888 University Drive"", ""AdministrativeDistrict1""=>""BC""",437,0,100,f,1,
+874,23ddd96b-e4c7-434e-bfc6-11c66a56b4c2,Rammie Rugbeer,#E1FF00,,1,,Rammie,Rugbeer,rammie@comespin.ca,,,1,,,0,0,t,,
+206,ae95c35d-74fa-469a-9fd6-b913b6f7c153,Mabuhai Foods,#5ca1c2,266,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",434,0,210.00,f,1,
+221,ee1a01c7-bf92-4993-8da8-5e15f19a10ce,CAN BOX Ltd.,#4faed5,281,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7A 1J2"", ""AddressLine1""=>""11215 Williams Road"", ""AdministrativeDistrict1""=>""BC""",446,0,24464.7560,f,1,
+208,e76e05c0-2a40-4309-bd3d-cc078f5b157f,From the Earth,#f446f9,268,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",436,0,-90.00,f,1,
+204,98e4f899-aaa9-4edf-8dbc-6847918e6271,Canadian Pacifico Seaweeds Ltd.,#beac96,264,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>"""", ""AddressLine1""=>""#84 - 15177 - 60th Avenue"", ""AdministrativeDistrict1""=>""BC V3S 7B3""",432,0,39169.4780,f,1,
+419,79278fa6-1095-4852-9148-4d8037b6eb52,Sopheary  Chea,#EE00FF,223,1,,Sopheary,Chea,sopheary.chea@outlook.com,,778-888-1680,1,,,0,0,t,,
+421,4fb9f874-127e-420e-b6fa-e0ec003defed,Andrew  Han,#00FF55,220,1,,Andrew,Han,thekouign@gmail.com,,,1,,,0,0,t,,
+575,7b1ff18d-437f-45d0-9674-2f8018353909,Afifa  Lakhnavi,#FF00AE,,1,,Afifa ,Lakhnavi,thepassionatedelights@gmail.com,,7783207057,1,,,0,0,t,,
+423,d40da28b-65b7-432f-a9e9-fc722e94744f,Sherry  Lee,#FF7F00,225,1,,Sherry,Lee,sherrylovr@gmail.com,,,1,,,0,0,t,,
+425,928b1033-6338-4215-b85b-cce34bfc31b5,Lisa  Hoang,#00D8FF,234,1,,Lisa,Hoang,lpnhoang@gmail.com,,604-613-3012,1,,,0,0,t,,
+222,4bea8b52-9af8-4ea9-ba0e-b4d31855c069,Kaiju Carts DO NOT USE,#47fdfd,284,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+210,ea6432a8-a3a4-4305-9be8-d03328a3634e,Solar Juice,#40ca39,270,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+201,d1e7f3d3-f5f4-4185-ab5c-b89857fd1b5b,UBC,#4d8fc1,261,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,t,3,
+228,f32035d7-9d0b-4455-a09e-96cd8e55d68d,Mountain Desserts Co.,#7e5f66,291,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5M 3V2"", ""AddressLine1""=>""3163 Rupert St."", ""AdministrativeDistrict1""=>""BC""",450,0,991.870,f,1,
+417,5566ca1b-1840-4e06-b4bb-e98427281c8d,Konho  Song,#4300FF,214,1,,Konho,Song,bomehkitchen@gmail.com,,778-999-4102,1,,,0,0,t,,
+489,d19a2beb-89a2-44f8-9e94-b60c72a05fb6,Carla Anderson,#FF3200,,1,,Carla,Anderson,carla5anderson@outlook.com,,778-316-1356,1,,,0,0,t,,
+598,5825cb60-6c54-4312-9f88-ccc16b4efe78,Alexandre  Regis Reis Schlaepfer Fadul,#00FF4C,,1,,Alexandre ,Regis Reis Schlaepfer Fadul,ka.world.innovations@gmail.com,,778-707-6314,1,,,0,0,t,,
+845,0dc71325-cd3f-4349-b8a4-38f2bdeca4e5,Riddhi Kalariya,#3B00FF,,1,,Riddhi,Kalariya,riddhikalariya1@gmail.com,,604 723 9557 ,1,,,0,0,t,,
+420,a5781a2c-f660-4d06-af69-12c19c2eeded,Ana  Wanderley,#D0FF00,224,1,,Ana,Wanderley,anaegw@gmail.com,,778-222-7952,1,,,0,0,t,,
+225,09bf33df-aabe-402f-a515-bb9655efb2e2,Kukki Jar,#e69c57,287,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",531,0,-2650.20,f,1,
+422,a843a48a-ef9d-45f9-9f14-501e9e6999a1,do not  Use,#0094FF,226,1,,do not,Use,afesf@asfsef.com,,,1,,,0,0,t,,
+424,e830c9c6-cff1-4695-8801-71b4bcbeb7d6,Anita  Lopez,#FF3200,233,1,,Anita,Lopez,cincoestrelas.catering@hotmail.com,,6047272020,1,,,0,0,t,,
+426,fb1fa918-7dbd-4e84-997c-4c476c2acb85,Grace  Keenleyside,#90FF00,235,1,,Grace,Keenleyside,grace.keenleyside@gmail.com,,778 988 4550,1,,,0,0,t,,
+427,564319a4-ba0f-427d-846d-10876b7b91a0,Josh  Gale,#D8FF00,236,1,,Josh,Gale,thechefoutwest@gmail.com,,604 562 1045,1,,,0,0,t,,
+428,281f9d3a-4237-45dd-ba15-d61ae4c51f9e,Taeyoung  Chang,#FF0008,237,1,,Taeyoung,Chang,info@kitchincollective.com,,604 445 6036,1,,,0,0,t,,
+429,eef01059-c36d-48e4-8986-2f162916a890,Mandy  Choi,#A5FF00,238,1,,Mandy,Choi,choimandy96@gmail.com,,778 872 5666,1,,,0,0,t,,
+430,22a44134-750d-4e50-9639-bb5747fefcf5,Sellek  Bunn,#D800FF,243,1,,Sellek,Bunn,law@sellekrbunn.ca,,778 828 2655,1,,,0,0,t,,
+431,2d5b9a4c-eb43-4ed3-aae5-a61675dd8d7c,Sasha  Tiemer,#D8FF00,244,1,,Sasha,Tiemer,s.tiemer@hotmail.com,,604 230 6572,1,,,0,0,t,,
+432,c7e0c1ad-aeb3-4cc1-b36d-c91e43f19569,Majid  Hajibeigy,#19FF00,252,1,,Majid,Hajibeigy,mh@canadianpacificoseaweeds.com,,778 707 2884,1,,,0,0,t,,
+433,0b1b2d2d-d595-4217-95b6-db3661030cb4,Paul  Tran,#E100FF,245,1,,Paul,Tran,support@herbednoodle.ca,,778 839 6410,1,,,0,0,t,,
+434,9b42b2bb-d11d-4692-90f1-e6260e32678d,Edwin  Chan,#FF0800,247,1,,Edwin,Chan,edwin@mabuhaifoods.com,,2368636195,1,,,0,0,t,,
+435,e8456bf5-3d77-4588-9349-8963efcf3a69,Dan  Villasin,#FF00BF,250,1,,Dan,Villasin,cococakesyvr@gmail.com,,778 872 8055,1,,,0,0,t,,
+261,88afdcbf-6b34-4297-82c6-8a68de259992,La Bise Bakery,#a8c868,326,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6K 1L8"", ""AddressLine1""=>""306 - 2416 W. 3rd Avenue,"", ""AdministrativeDistrict1""=>""BC""",306,0,1855.00,f,1,
+255,c488dbad-5aa4-4d59-832d-2696a372c810,Bijano Foods Ltd,#a75777,318,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z 0A7"", ""AddressLine1""=>""288 Beach Crescent"", ""AdministrativeDistrict1""=>""BC""",469,0,19243.9285,f,1,
+240,87fb8690-f128-4e27-ad82-6041eade3b70,Truly Authentic Taste of Malaysia Ltd.,#76ca61,303,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Maple Ridge"", ""PostalCode""=>""V4R 2V4"", ""AddressLine1""=>""11770 Creekside St. "", ""AdministrativeDistrict1""=>""BC""",457,0,1417.50,f,1,
+245,e3873fa1-6bb8-46e8-a585-112ca6fe3632,JohnSmith Co.,#8d85cd,308,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",461,0,0,f,1,
+265,f635a30f-9987-450a-abe8-0e7f2e8e5a1b,Las Authenticas,#821228,333,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,1018.50,f,1,
+436,1adced92-c44e-4d30-bfce-ca0241e2a4fd,Miriam  Nichols,#FF0087,251,1,,Miriam,Nichols,info@fromtheearthcanada.com,,416.899.8901,1,,,0,0,t,,
+488,9523be46-474e-4854-a582-b561981b67e1,Qian (Gina) Zeng,#FFC300,,1,,Qian (Gina),Zeng,ginawang9210@gmail.com,,6042196806,1,,,0,0,t,,
+577,258ef4c8-50f1-4c04-97df-dc513b362b8a,Kendall Owen,#00FF77,,1,,Kendall,Owen,operations@ourturf.com,,4169030555,1,,,0,0,t,,
+236,a260ad2c-6233-4a7b-ad29-b5b0d6d6cee9,Li's Food Revolution - B,#b68f62,299,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""3009 - 833 Seymour Street"", ""AdministrativeDistrict1""=>""BC""",,0,36960.00,f,1,
+266,f8f5dfb3-f558-4108-9d80-e86e49e01dc6,Maruhashi,#e2faf,334,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5P 1X7"", ""AddressLine1""=>""2188 East 53 Ave"", ""AdministrativeDistrict1""=>""BC""",472,0,10192.910,f,1,
+437,15226c3b-7a30-4aa6-8b67-fa95bc0b68ea,Tammara  Soma,#FF0033,255,1,,Tammara,Soma,tammara_soma@sfu.ca,,,1,,,0,0,t,,
+438,826c9757-7a06-4161-aee2-adc06d95b369,Eugene  Ahn,#61FF00,257,1,,Eugene,Ahn,eugeneahn@hankafoods.com,, 604.629.7930,1,,,0,0,t,,
+321,39c0c895-5221-44ae-91a0-28e6ceea55fc,Arka  Lwin,#FFD000,60,1,,Arka,Lwin,mandalayburmesekitchen@gmail.com,,778 996 2752,1,,,0,0,t,,
+259,89aaadff-87e8-4962-bdf6-1dfa423c8ae3,Cham Vegan,#54951f,323,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5R 3A5"", ""AddressLine1""=>""2765 E. 44th Avenue"", ""AdministrativeDistrict1""=>""BC""",,0,756.00,f,1,
+244,7694a086-a939-4e9b-9ccb-ac512f63680e,The Elixir Lady,#ed63d6,307,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 2E1"", ""AddressLine1""=>""# 5 - 1855 Adanac Street"", ""AdministrativeDistrict1""=>""BC""",460,0,19281.3200,f,1,
+257,83e3dd85-4a83-44ab-bcef-cab1b06de86c,Cascadia Seaweed,#49adb7,320,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Sidney"", ""PostalCode""=>""V8L 3A4"", ""AddressLine1""=>""9774 Third St, Suite C"", ""AdministrativeDistrict1""=>""BC""",,0,2310.00,f,1,
+254,980d8106-463e-4072-8896-ea0870ccdd6c,Sharewares,#11fa61,317,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Y 3T8 "", ""AddressLine1""=>""69 West 3rd Ave  "", ""AdministrativeDistrict1""=>""BC """,,0,2940.00,f,1,
+440,e6612b52-1c00-4fdc-9848-8a820ade1c9b,Tiffany  Dundas,#00FF50,258,1,,Tiffany,Dundas,tiffany.dundas@gmail.com,,1-306-520-4505,1,,,0,0,t,,
+237,7dac6f35-f9b4-4805-90ff-4a0deac1b015,Li's Food Revolution - C,#e4d4d9,300,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""3009 - 833 Seymour Street"", ""AdministrativeDistrict1""=>""BC""",,0,19635.00,f,1,
+192,86c490de-2e61-4621-99a7-49d29127b27d,Goodness Gracious,#7CFC3C,252,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""188 E 49th Avenue, #501"", ""AdministrativeDistrict1""=>""BC""",426,0,26881.3235,f,1,
+441,94560e53-203b-4de2-9cf5-42dcd590a697,Saudat  Atta,#6EFF00,259,1,,Saudat,Atta,treatsbysabby@gmail.com,,778 893 5676,1,,,0,0,t,,
+508,6043293a-fa0b-4dcb-8e45-acd8c61a00de,Mo Mo,#F6FF00,,1,,Mo,Mo,msariman@gmail.com,,,1,,,0,0,t,,
+219,850b9398-cab4-4d80-9582-36a3035f36a9,Kirk's Kefir,#c6d332,279,2,Madigacos Enterprises Inc.,,,,,,,"""Country""=>""CA"", ""Locality""=>""New Westminster"", ""PostalCode""=>""V3M 5X1"", ""AddressLine1""=>""207 - 737 Carnarvon Street"", ""AdministrativeDistrict1""=>""BC""",444,0,40906.425,f,1,
+263,e7c3790a-8e0e-4c92-9cfa-7002d5d09479,Carnitas El Rolys,#b73e4f,328,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,-583.80,f,1,
+248,a6d95af3-8e3a-4f33-8591-d07be1a648aa,Sweet U Bakery,#59f3d5,311,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5A 0B9"", ""AddressLine1""=>""115 - 9009 Cornerstone Mews"", ""AdministrativeDistrict1""=>""BC""",464,0,1094.80,f,1,
+241,eb2d0c81-2c74-4a13-bfab-ba2585eb24aa,Super Secret Sauce,#10bae1,304,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6G 1S1"", ""AddressLine1""=>""411, 2033 Comox Street"", ""AdministrativeDistrict1""=>""BC""",458,0,11288.610,f,1,
+746,8e6d6d23-1bf7-4625-a3a6-9a73ac989f50,Omid Amiri,#003BFF,,1,,Omid,Amiri,drfreezecandy.info@gmail.com,,604-754-1614,1,,,0,0,t,,
+439,301c6985-561a-4be9-a7bf-2e6e9e86b329,Li  Xu,#FFA500,176,1,,Li,Xu,lisfoodrevolution@outlook.com,,778-833-1610,1,,,0,0,t,,
+249,fb1a8e87-f175-4548-bb45-663ce4677faf,Jay K Ice Cream,#38e35d,312,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,0,f,1,
+253,7aa5ef1e-d503-48ac-b669-dc3b6f29a200,Project Clean,#a3171c,316,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",468,0,0,f,1,
+442,f729396e-0432-41f6-bfa1-bc2e175d4807,Emily  van Dijk,#43FF00,261,1,,Emily,van Dijk,emily.v.22@gmail.com,,778 808 6893,1,,,0,0,t,,
+490,e8907dd7-15e3-4562-84e7-04cb06025b8d,Makoto Yamaguchi,#00FF6A,,1,,Makoto,Yamaguchi,lepontvancouver@gmail.com,,2368676292,1,,,0,0,t,,
+507,c288a752-f43f-4ef6-88b6-12a167ad1785,Ashton Philip,#00FF04,,1,,Ashton,Philip,ashton@saltyslobstershack.com,,778-891-4509,1,,,0,0,t,,
+307,5caa27af-0263-41b3-baf0-8d1655b97e33,Jordan  McGarry,#00FF08,40,1,,Jordan,McGarry,jordan@babymunchiez.com,,604 617 3811,1,,,0,0,t,,
+308,5ba27779-e104-489a-9fcf-9b4b596945c2,Tom  Dubowski,#FF0048,41,1,,Tom,Dubowski,dubowski@gmail.com,,,1,,,0,0,t,,
+309,5ef59b02-a598-4e31-b70d-2eccdc2ffb46,Jenni  Sanghera,#90FF00,46,1,,Jenni,Sanghera,liveloveeat.js@gmail.com,,604 644 1333,1,,,0,0,t,,
+310,459e6e53-9b07-4eef-ab5a-f200ae4dfb3f,Joni  Lind,#00FFDD,47,1,,Joni,Lind,Hello@kitskitchen.ca,,,1,,,0,0,t,,
+548,04b7bf01-70e1-4174-b649-33dcb403282f,Brittney Gray,#00FF08,,1,,Brittney,Gray,britt.s.gray@gmail.com,,7785139117,1,,,0,0,t,,
+509,6ce613c2-c554-40cc-a9c4-f31cf0d9e481,Jo Zhu,#00FF5D,,1,,Jo,Zhu,yoyoseafood666@gmail.com,,778-951-1053,1,,,0,0,t,,
+295,4b9bb549-9145-43a8-8b01-fb9ac515f37e,Alan  Boysen,#FF0033,8,1,,Alan,Boysen,info@cookiesofcourse.ca,,604 689 9792,1,,,0,0,t,,
+298,a3294760-a674-4f81-a463-d4b2acb69a4b,Pie Hole  Hole,#B2FF00,16,1,,Pie Hole,Hole,Jenell@thepiehole.com,,,1,,,0,0,t,,
+296,dc1b3a20-3de5-436d-9a88-21c0541174f1,Erika  Murphy,#FF0083,10,1,,Erika,Murphy,erika@fitnessfoods.ca,,778 552 3984,1,,,0,0,t,,
+491,936e5f3c-7f09-4032-b21f-1d66b237e147,Sally Huang,#1DFF00,,1,,Sally,Huang,sallywong0324@gmail.com,,7786370324,1,,,0,0,t,,
+297,0c734078-121f-4075-91a2-f6a519579c8a,Erin  Ireland,#FF002E,19,1,,Erin,Ireland,erin@tolivefor.ca,,778 839 6002,1,,,0,0,t,,
+243,fd567766-8958-4992-b58d-48c38d22a48c,Victoria Community Food Hub Society,#5f31ec,306,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"" Victoria "", ""PostalCode""=>""V8T 5G7"", ""AddressLine1""=>""Box 46002 Quadra Street"", ""AdministrativeDistrict1""=>""BC""",459,0,20475.00,f,1,
+312,ee8a3f00-a405-4ff5-b209-502293d8cdd6,Sophy  Cha,#00FF33,52,1,,Sophy,Cha,tonycha@hotmail.ca,,604 644 4119,1,,,0,0,t,,
+276,2b6ee4d0-ab5d-4c2c-8d68-88e36c4c7a0f,Corus Sales Inc.,#dce98c,347,2,Erica Shallow,,,,,,,"""Country""=>""CA"", ""Locality""=>""Toronto"", ""PostalCode""=>""M5A0B5"", ""AddressLine1""=>""25 Dockside Drive"", ""AdministrativeDistrict1""=>""Ontario""",,0,4200.00,f,1,
+313,1d8942b7-0dba-45b2-963a-e3859eadb20e,Alex  Black,#0400FF,53,1,,Alex,Black,email@chocolateculture.ca,,604 789 4535,1,,,0,0,t,,
+493,e14a3656-b550-43e7-9f57-83b58c015cd9,Ramesh Rugbeer,#00FFB2,,1,,Ramesh,Rugbeer,rameshrug@gmail.com,,2222222222,1,,,0,0,t,,
+314,4582f930-4055-4fea-9024-b617eefbe4ec,Ellie  Albadvi,#FF005D,54,1,,Ellie,Albadvi,ellie@feasteria.com,,,1,,,0,0,t,,
+315,a565277a-0c0c-4857-bc98-663426f68a86,Matthew  Murtagh-Wu,#FF0033,55,1,,Matthew,Murtagh-Wu,matt@thedumplingking.ca,,778 227 0083,1,,,0,0,t,,
+316,58ac9966-eb7b-40a2-8a10-3a4466f3dd66,Original  Cupcakes Team,#08FF00,56,1,,Original,Cupcakes Team,sagar@originalcupcakes.com,,,1,,,0,0,t,,
+317,25f23152-7afa-4dd7-9d30-24cc016a12a9,David  Khayutin,#FF0061,37,1,,David,Khayutin,info@crumbvancouver.com,,604 441 0372,1,,,0,0,t,,
+318,c3705963-1664-4d19-b654-727c626bd13c,Jake  Mixon,#FF002A,57,1,,Jake,Mixon,jakemixon@shaw.ca,,778 886 1697,1,,,0,0,t,,
+319,3340b60c-9386-4d3e-8479-e265e0ea46fa,Angus  Wong,#FF00BF,58,1,,Angus,Wong,angus@momoossmokehaus.com,,604 812 8523,1,,,0,0,t,,
+320,912744f0-2514-49c7-b042-df444e044eaf,Louise  Ndungula,#001DFF,59,1,,Louise,Ndungula,hedwignd@yahoo.com,,,1,,,0,0,t,,
+322,9d81d87a-e621-4e66-b8df-84fec1fde98a,Scott  Kaylin,#0048FF,61,1,,Scott,Kaylin,scott@kaylinandhobbs.com,,,1,,,0,0,t,,
+323,c9656dd4-0a72-45a0-963b-5df14bde94fb,Ian  Turnbull,#F2FF00,63,1,,Ian,Turnbull,papa@empanadapapa.ca,,778 373 9800,1,,,0,0,t,,
+324,334c8495-e5e8-48b3-b519-f02b199657b5,Antonio Romero  Casado,#B2FF00,64,1,,Antonio Romero,Casado,antonioarc@hotmail.es,,778-998-5327,1,,,0,0,t,,
+325,665cee91-c6f1-4a64-a8ac-2e67851024fc,Joanne  Sriranpong,#7BFF00,66,1,,Joanne,Sriranpong,wcgsnacks@gmail.com,,778 887 9739,1,,,0,0,t,,
+326,86e6c068-90d0-48d2-b4df-c3a3533f59eb,Jaroslav  Mestka,#26FF00,67,1,,Jaroslav,Mestka,mestka.info@gmail.com,,604 367 6126,1,,,0,0,t,,
+327,b736c86c-60e7-4c44-8d36-eb54c9cfc60a,Andy  Liu,#FF8800,68,1,,Andy,Liu,info@johnnycantsurf.ca,,778 895 0138,1,,,0,0,t,,
+328,05c0ab74-ad5a-4737-8be8-bd16188e62c0,Amos  Lee,#FF0054,69,1,,Amos,Lee,amoslee_89@hotmail.com,,778 688 0681,1,,,0,0,t,,
+329,f805e966-e059-418c-b765-213b33d04db9,Nihal  Elwan,#FF00FF,70,1,,Nihal,Elwan,tayybeh.syrian@gmail.com,,778 960 6755,1,,,0,0,t,,
+330,5a88ef1a-85e6-4e37-b118-cfbefe3d84be,Salim  Hassan,#7700FF,72,1,,Salim,Hassan,salim@thedateco.com,,604 488 9219,1,,,0,0,t,,
+331,1f26779d-7541-4cba-8d9b-de217981a83c,Kaela  Woodworth,#00FF3B,73,1,,Kaela,Woodworth,kaelawoodworth@gmail.com,,778 668 8762,1,,,0,0,t,,
+332,791c3ef8-c1e0-4bf5-9fd8-2df96f40c3cc,Ingrid  Severson,#D000FF,74,1,,Ingrid,Severson,ingridseverson@telus.net,,604 828 0675,1,,,0,0,t,,
+333,7f31b843-df7b-426d-aa56-f0c3f0faec79,Jean Jacques  Kabuya,#00FF55,77,1,,Jean Jacques,Kabuya,info@saltnsearcatering.com,,604 360 5660,1,,,0,0,t,,
+286,d349175f-dd22-41be-a242-0ddf07448c67,Fuye Gourmet Bakehouse,#3fce42,357,2,Xuemeng (Lucia) Zhang,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6Y 4M1"", ""AddressLine1""=>""1706 - 9188 Cook Road"", ""AdministrativeDistrict1""=>""BC""",,0,892.50,f,1,
+289,6c51eac5-8ed3-43d5-a166-5d8cd8351afc,Community Futures Central Island,#6c64c9,360,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Nanaimo"", ""PostalCode""=>""V9R 2N4"", ""AddressLine1""=>""#13 – 327 Prideaux Street"", ""AdministrativeDistrict1""=>"",BC """,,0,12354.40,f,3,
+626,d93918d0-f0fb-425c-821d-bd054ce864c0,Jackie Hon Kin Lau,#00D0FF,,1,,Jackie,Hon Kin Lau,jhk_l.private@hotmail.com,,604-253-5533,1,,,0,0,t,,
+651,e4e4b94f-09c2-4712-91ba-9470ebb1b93f,Austin Yang,#3B00FF,,1,,Austin,Yang,austinyangjinbo2015@gmail.com,,7788659830,1,,,0,0,t,,
+277,7a9cd9fd-fd37-4138-9e61-978543f3ca96,The Lazy Gourmet,#f37a3a,348,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver, "", ""PostalCode""=>""V6J 1J8"", ""AddressLine1""=>""1545 W 3rd Ave, "", ""AdministrativeDistrict1""=>""BC """,,0,790.9545,f,1,
+612,ec622a1a-96ac-4156-b381-7bd144e54323,Jenny Yue,#72FF00,,1,,Jenny,Yue,hello@ohmefoods.com,,7785123767,1,,,0,0,t,,
+695,de4eb9b4-bec0-48b5-8970-b874f3e91406,Farm Food Drink Inc,#D400FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Nanaimo"", ""PostalCode""=>""V9S 3A5"", ""AddressLine1""=>""71 Thetis Place"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",696,0,0.00,t,3,696
+597,2cae51a5-4a3d-46c5-ac11-c6d97f45b475,K&A Worldwide Innovations Inc.,#9800FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 1H2"", ""AddressLine1""=>""1120 Barclay Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",598,0,0.00,f,1,
+300,7f77d590-477a-4e9f-8696-998414b89514,Emily  Upham,#A100FF,20,1,,Emily,Upham,whenpigsflypastries@gmail.com,,604 218 7473,1,,,0,0,t,,
+777,42312987-17b4-4d1d-a70d-b1377192726c,Rashmi Mommysplanet,#00FF0C,,1,,Rashmi,Mommysplanet,rashmi@mommysplanet.com,,7788748299,1,,,0,0,t,,
+301,eda122b7-e27e-41fc-866a-c3c601ef3a76,Richard  Boucher,#00FF7B,26,1,,Richard,Boucher,richard@curiousoyster.ca,,778 988 4699,1,,,0,0,t,,
+334,e2823c0e-420c-47fe-86bf-b854d68f3cfd,Marie  Tello,#FF00DC,78,1,,Marie,Tello,josemarietello@gmail.com,,604 368 8714,1,,,0,0,t,,
+627,8a0fee30-616e-40ab-8c5a-5d2c119e2bcc,Harvinder Singh,#00F2FF,,1,,Harvinder,Singh,harvinder.info11@gmail.com,,,1,,,0,0,f,,
+757,7988cb9c-c63d-45fc-831f-1337b0fe1b26,Delivery Code,#FF1000,,1,,Delivery,Code,bagelday.bakehouse1@gmail.com,,,1,,,0,0,t,,
+550,0cfbebfd-e5d5-4309-889a-25ab6738d26f,Durga Prasad Eerla,#5400FF,,1,,Durga,Prasad Eerla,erla.durgaprasad@gmail.com,,7788297499,1,,,0,0,t,,
+778,9921bfb3-6ede-41f5-8db9-230ed63c4b82,Asian Canadian Special Events Association,#FF6600,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X0B1"", ""AddressLine1""=>""618 East Kent Ave S"", ""AddressLine2""=>""Unit 103"", ""AdministrativeDistrict1""=>""BC""",779,0,0.0,f,1,779
+302,35e087ce-13e2-45f9-a653-3cbcda54f9f5,Fhernando  Llamas,#FFEE00,27,1,,Fhernando,Llamas,eljefe@tacomio.ca,,778 868 7041,1,,,0,0,t,,
+303,c111b046-3880-42de-ab47-a271fe5585c5,Ben,#FF00AA,29,1,,,,,,,1,,,0,0,t,,
+533,bd870eac-8d2d-4598-a1d6-efa131ccd855,Robert Linton,#E500FF,,1,,Robert,Linton,lintonskitchen@telus.net,,6045854340,1,,,0,0,t,,
+304,8d304d12-6577-4d7b-b066-607a464973b4,Thibault  Champel,#00EDFF,30,1,,Thibault,Champel,info@rollingcashew.ca,,778 239 5180,1,,,0,0,t,,
+760,c1a9f1ed-4094-4a94-b313-c5d200d115c5,Test User,#FF5900,,1,,Test,User,test1@commissaryconnect.com,,,1,,,0,0,t,,
+305,d4c221d1-3c9d-4ea1-98be-6f760f1989ed,Juli  Rogerson,#F6FF00,34,1,,Juli,Rogerson,info@georels.com,,778 549 1554,1,,,0,0,t,,
+306,68ade707-a647-47f3-9de3-2b1fb642d51a,Alfonso  Rocha,#FFD400,36,1,,Alfonso,Rocha,lacasitaartisanbites@gmail.com,,778 223 3247,1,,,0,0,t,,
+335,532e86c9-58ba-4659-acba-040b7986d386,Ingrid  Nagle,#0083FF,79,1,,Ingrid,Nagle,ingrid.mightymixes@outlook.com,,604 809 2250,1,,,0,0,t,,
+336,b3339080-c782-4ca6-acfb-840a91d13a9c,Janine  Felst,#0061FF,80,1,,Janine,Felst,dippeddoughco@gmail.com,,604 220 1274,1,,,0,0,t,,
+337,a75dcd62-5331-40ca-a631-91b9427b7db5,Diane  Mitchell,#FF2A00,82,1,,Diane,Mitchell,diane@Whistlerelixir.com,,604 788 7948,1,,,0,0,t,,
+338,cb51ae4c-35b6-40e2-80bf-5afff09ca53f,Julian  Kaminsky,#FFEE00,83,1,,Julian,Kaminsky,kaminskyjulian@gmail.com,,604 354 0747,1,,,0,0,t,,
+339,bc3cc08a-c978-4adf-af6c-0375b4f15c92,Sha  Lu,#FF008C,84,1,,Sha,Lu,shalu1127@gmail.com,,778 996 6689,1,,,0,0,t,,
+340,59c0faea-fa17-40cc-97db-db71c170774a,Thais  Delgiglio,#00BFFF,85,1,,Thais,Delgiglio,thaisdelgiglio@icloud.com,,778 855 2750,1,,,0,0,t,,
+342,baa6fd11-be4b-43cf-9432-640c6cae164c,Aart  Schuurman Hess,#00FFF2,87,1,,Aart,Schuurman Hess,aart@goodly.ca,,604 968 8124,1,,,0,0,t,,
+343,7a7e8b9f-1c09-4f94-ad45-7a2a2a409ee3,Nabila  Jaffer,#FF3B00,88,1,,Nabila,Jaffer,chakulastreetfood@gmail.com,,778 990 3964,1,,,0,0,t,,
+344,d4d2d3a7-34df-413a-b0c2-b9b807537de9,Claire  Lassam,#FAFF00,92,1,,Claire,Lassam,liviasweets@gmail.com,,778 554 8747,1,,,0,0,t,,
+345,3705f0b6-6d2a-4401-b8b2-83ab8fa95ea3,Nazim  Hasham,#00DDFF,90,1,,Nazim,Hasham,nazim.hasham@gmail.com,,604 716 4248,1,,,0,0,t,,
+341,0d070a5e-c49f-4dae-b941-38bd5c2a6937,A&W/ Rethink,#00FF26,,1,,A&W/,Rethink,laura@rethinkcanada.com,,604 685 8911,1,,,0,0,t,,
+311,96c38f3a-b808-4e2a-af16-b1eab4a2ebb8,Sarb Mund,#6100FF,,1,,Sarb,Mund,sarb@commissaryconnect.com,,778 558 7272,0,,,0,0,t,,
+347,260431d8-e59b-4a4d-bf33-161657eb3efa,Megan  Ramos,#00FF2E,93,1,,Megan,Ramos,meninabaker@gmail.com,,778 871 2414,1,,,0,0,t,,
+348,4f0d78b5-3098-444c-95e2-da972df56442,Malek  Anounti,#6EFF00,94,1,,Malek,Anounti,malek.anouti@gmail.com,,604 396 7804,1,,,0,0,t,,
+349,adcf5002-b531-461d-8bdf-fec87a3e0db9,Ian  Chang,#48FF00,102,1,,Ian,Chang,ian@ketomunch.com,,778 888 6911,1,,,0,0,t,,
+350,33187192-28ca-4a7d-a7ef-71f334ccfce3,Renee  Tsang,#003BFF,103,1,,Renee,Tsang,vanilla.tsang@gmail.com,,604 551 1511,1,,,0,0,t,,
+351,2c6f6bbd-670d-404a-9a1d-d099bebf2c6d,Carly  Chasse,#D4FF00,104,1,,Carly,Chasse,carlychasse@gmail.com,,(778) 828-9704,1,,,0,0,t,,
+352,24b9ca65-f582-42fa-aada-5550f7d94f9c,James  Massender,#00FFD4,105,1,,James,Massender,james@magnetnaturals.com,,604 379 7258,1,,,0,0,t,,
+353,fdfca6b3-307f-48ad-bca2-49a5453780e2,Matsuo  Higa,#FFAA00,106,1,,Matsuo,Higa,matsuo.higa@gmail.com,,604 700 8201,1,,,0,0,t,,
+354,3a20a1db-5e77-498e-a6a0-0628032b3f6b,Asha  Wheeldon,#FF00FF,123,1,,Asha,Wheeldon,info@kulafoods.ca,,604 655 5044,1,,,0,0,t,,
+355,aa6aa7f7-511c-452d-aecc-fa3fb7be9475,Keiko  Nakanishi,#00FF7B,111,1,,Keiko,Nakanishi,info@kanadell.com,,604 754 6037,1,,,0,0,t,,
+356,adabcf6b-47fb-4daf-a1bf-d60e89ec5855,Daniel  Wagner,#FF009D,110,1,,Daniel,Wagner,soupartist@raincitysoups.com,,604 339 3348,1,,,0,0,t,,
+357,537af53f-a362-4ad5-bffa-dc32950e380d,Vera  Ivanova,#0083FF,108,1,,Vera,Ivanova,acacia_ltd@hotmail.com,,,1,,,0,0,t,,
+358,51723465-8b8a-496d-a3ed-5ad9b6ca5993,Catherine  I,#00B2FF,109,1,,Catherine,I,frenchmadebaking@gmail.com,,,1,,,0,0,t,,
+359,f145b2f1-f110-4cc7-91f1-7783d72a99ec,Dupinder  Yablonsky,#9000FF,115,1,,Dupinder,Yablonsky,dupischai@gmail.com,,778-229-6606,1,,,0,0,t,,
+360,cd97b423-6036-4b3d-9794-ab684e2aeb9c,Paula  Beall,#B200FF,116,1,,Paula,Beall,info@fume-eh.com,,778-227-3125,1,,,0,0,t,,
+386,11c227ce-052e-443e-b082-21c16a614c76,Rachel  Baitz,#FF002E,158,1,,Rachel,Baitz,rachel@fitezza.com,,778-839-6174,1,,,0,0,t,,
+361,78719338-a0dd-4057-9d22-a197a10bf5e3,Joshua  Martinovic,#00FFF2,114,1,,Joshua,Martinovic,alohainfusedyvr@gmail.com,,604 653 5566,1,,,0,0,t,,
+362,c9e1a7f1-3168-4ffc-a44d-993878f0dc1e,Jason  McGrath,#3F00FF,119,1,,Jason,McGrath,honestoats@gmail.com,,604 617 6263,1,,,0,0,t,,
+363,3865c36f-3b2d-4b13-b6a7-47e03269a854,Sara  Tabrizian,#00DDFF,118,1,,Sara,Tabrizian,saratabrizian@gmail.com,,,1,,,0,0,t,,
+364,cb95d7c3-a9a9-44fa-94b1-c6f454b3191c,Stef  Richardson,#00FF8C,126,1,,Stef,Richardson,stef@getstef.ca,,604-813-8875,1,,,0,0,t,,
+365,c7401e95-844e-4b63-802f-27152a2333a9,Onofre  Ribeiro de Oliveira,#2200FF,135,1,,Onofre,Ribeiro de Oliveira,info@whatafood.ca,,604-838-3703,1,,,0,0,t,,
+366,e1b91912-c82c-496b-80a9-feeefcad8521,Mostafa  Nassar,#FFFA00,127,1,,Mostafa,Nassar,info@momoossmokehaus.com,,778 834 0159,1,,,0,0,t,,
+367,bc62157b-e480-42f1-85e8-6d884675d5b0,Ana  Perez,#6A00FF,129,1,,Ana,Perez,metatebakeshop@gmail.com,,778 980 9124,1,,,0,0,t,,
+368,4a2b090a-8c81-472d-8962-a2ca68d5cdb6,Reggie  LLaguno,#00FFD0,131,1,,Reggie,LLaguno,regino.llaguno@yahoo.com,,604 445 4120,1,,,0,0,t,,
+369,73ac9088-b4ae-424e-a7f3-a0a628a3b6d8,Thais  Delgiglio,#00BFFF,85,1,,Thais,Delgiglio,thaisdelgiglio@icloud.com,,778 855 2750,1,,,0,0,t,,
+370,ac443ce4-6f92-4a62-bc3a-2a7338f025dc,Jason  Li,#3700FF,128,1,,Jason,Li,jklsh0371@gmail.com,,604 783 6896,1,,,0,0,t,,
+371,9eb95dd7-6b72-4e19-982c-b27774c3b79d,Andrea  Sheffield,#4C00FF,132,1,,Andrea,Sheffield,mail@andrea-sheffield.com,,,1,,,0,0,t,,
+372,d71b2ea6-7486-44f3-8ed7-5d6021119685,Johnson  Nguyen,#FFCC00,133,1,,Johnson,Nguyen,onichanfoods@gmail.com,,604 727 0066,1,,,0,0,t,,
+373,8a36248b-40e3-400e-9c41-0e14129c93af,Michelle  Lui,#FF0094,134,1,,Michelle,Lui,michelleluiws@shaw.ca,,604 786 3651,1,,,0,0,t,,
+374,68b3a494-0ab5-4c61-90f4-0219d19d6947,Rei  Miyasaka,#00FFED,136,1,,Rei,Miyasaka,rei@kaiju.ca,,604-318-1917,1,,,0,0,t,,
+375,6c5b17a6-4b8a-4d2b-aa43-97fead83985d,Lyndsay  Scott,#FF00B6,137,1,,Lyndsay,Scott,hello@culture-kefir.ca,,604-790-5958,1,,,0,0,t,,
+376,d8011e62-cfa9-44e7-8bb8-7426e587d23c,Soheyl  Mottahedeh,#FFAA00,138,1,,Soheyl,Mottahedeh,mottahedeh60@gmail.com,,604 782 7392,1,,,0,0,t,,
+377,798af6eb-c637-4389-a8f0-622f1df250c3,Corbin  Lowe,#B6FF00,141,1,,Corbin,Lowe,admin@plantedmeals.ca,,778 386 8660,1,,,0,0,t,,
+378,1b986644-72ff-48fa-a4fe-b76c6eddf11e,Arturo  Munoz,#00FFA1,140,1,,Arturo,Munoz,arturomuva@hotmail.com,,604-613-1048,1,,,0,0,t,,
+379,b335aa36-8dbe-4c26-bd64-77e0a2a12801,Cameron  McDonald,#5DFF00,143,1,,Cameron,McDonald,elevatednut@gmail.com,,778-554-2266,1,,,0,0,t,,
+380,5c74e526-bc0f-49cb-8be8-c3921cc1a8a4,Josh  Seeley,#43FF00,142,1,,Josh,Seeley,josh@kurecoffee.com,,604-967-3088,1,,,0,0,t,,
+381,8419c020-e419-4d9e-8c25-4ded92125535,Shally  Huai,#FFF600,145,1,,Shally,Huai,shallyhuai@gmail.com,,778-859-5798,1,,,0,0,t,,
+382,2c72a0ef-507a-4303-bd82-20e482c7a6cf,Tess  Bevernage,#FFE100,149,1,,Tess,Bevernage,hanaifamilytable@gmail.com,,778-814-2294,1,,,0,0,t,,
+383,5339121f-d3dc-436c-b74f-6ff971d7f1a3,Emily  Lee,#FF00B6,152,1,,Emily,Lee,consciouscookieco@gmail.com,,604-309-5787,1,,,0,0,t,,
+384,7c1ff5ea-fd59-421a-a8b3-a665fa8113a4,Eva  Tang,#F200FF,153,1,,Eva,Tang,ytholdco@gmail.com,,604-518-8688,1,,,0,0,t,,
+385,3bfedfe7-7c85-4492-b1f1-ae390b8b4405,Ranae  Miller,#FF0043,155,1,,Ranae,Miller,ranae.m@hotmail.com,,604-306-3889,1,,,0,0,t,,
+494,8e348403-efb5-4366-869a-52a3397a897b,Anna Abeug,#FF1500,,1,,Anna,Abeug,info@waffled.ca,,7788342060,1,,,0,0,t,,
+387,00fbd2be-3b7d-4a57-b32c-8e6f8ce5d298,Rajesh Rags  Narine,#FF00EE,154,1,,Rajesh Rags,Narine,rags@cartems.com,,778-554-0415,1,,,0,0,t,,
+388,6398c271-a587-448b-ba57-f5a3d1e9ed23,Bless  Zhao,#D000FF,156,1,,Bless,Zhao,bless126@qq.com,,778-682-3569,1,,,0,0,t,,
+389,5555e38f-6835-4745-9eb8-a1726a9b6bec,Joshua  Hendin,#FF1000,160,1,,Joshua,Hendin,joshua.hendin@gmail.com,,604-288-7125,1,,,0,0,t,,
+390,c2305a37-aef9-4184-b946-89b5304c029a,Josh  Rosenberg,#0043FF,161,1,,Josh,Rosenberg,josh@Gourmetketobites.com,,604 671 1481,1,,,0,0,t,,
+391,039e796b-473f-4b66-9865-2defcffb74a7,Yogesh  Chawla,#0008FF,188,1,,Yogesh,Chawla,chawlayogesh025@gmail.com,,604 961 9102,1,,,0,0,t,,
+392,72bbb2a8-9c07-4f2d-9552-be45355c34bb,Tristan  Bunkowski,#FFD800,163,1,,Tristan,Bunkowski,trisbee@icloud.com,,604-671-3433,1,,,0,0,t,,
+393,e5b1d035-5c1b-4a3b-b1ca-569b3434ec44,Diane  Yuan,#7FFF00,165,1,,Diane,Yuan,dyuan@flourgirlbaking.com,,778-387-5884,1,,,0,0,t,,
+780,bc065dd5-3e1f-4dfd-b77e-3dda03ca576f,Manjot Singh,#43FF00,,1,,Manjot,Singh,manjot@36tfoods.com,,,1,,,0,0,t,,
+394,20975673-5e26-44fb-9630-5251b0127c4b,Marissa  Bergeron,#15FF00,164,1,,Marissa,Bergeron,marissabergeron@gmail.com,,778 877 2150,1,,,0,0,t,,
+535,e79834a4-3128-4899-aa11-984cb6c57338,Amr Abbas Mohamed,#0059FF,,1,,Amr,Abbas Mohamed,amrhalem199@yahoo.com,,604-805-5057,1,,,0,0,t,,
+698,1e4e9f30-6eb1-4e7f-bbaa-562cd20df3f7,Ibrahim El Asail,#00FF90,,1,,Ibrahim,El Asail,ibrahimelasail@gmail.com,,778-889-1071,1,,,0,0,t,,
+652,3c8be05a-5b8e-4ca9-b369-a31e1a187b7a,Kulbir Singh,#FF1900,,1,,Kulbir,Singh,kulbirjatt555@gmail.com,,7786814074,1,,,0,0,f,,
+396,3f9e35b4-beda-470a-a201-485a1aaced88,Bonnie  Xianing Zhou,#FF0098,174,1,,Bonnie,Xianing Zhou,info@sweettongue.co,,778-929-0127,1,,,0,0,t,,
+395,67e0de11-8319-4990-a67e-de6a4f4b38f1,Bertrand  Yung,#E100FF,166,1,,Bertrand,Yung,bcyung@hotmail.com,,778 322 5231,1,,,0,0,t,,
+397,396e645c-81cd-4c22-b081-7c6c70865a42,Li  Xu,#FFA500,176,1,,Li,Xu,lisfoodrevolution@outlook.com,,778-833-1610,1,,,0,0,t,,
+398,661ae216-6b91-465a-b00d-2772c9a1873c,Nigel  Lai,#FFD400,179,1,,Nigel,Lai,thirstea.zhh@gmail.com,,778-891-0178,1,,,0,0,t,,
+399,eba543f8-4bd3-4623-aeaf-d70fc57a35d6,Mark  Tan,#00FF94,182,1,,Mark,Tan,mark@mksfood.ca,,7778-986-2969,1,,,0,0,t,,
+400,eb6f1d25-36fd-40ef-89f5-252c4654510a,Raul  Borreto,#FF9D00,183,1,,Raul,Borreto,cdc@clubversante.com,,778-991-4097,1,,,0,0,t,,
+402,82f6deca-6bd0-4cce-8a48-36f011f98ec9,Justin  Jia,#E500FF,184,1,,Justin,Jia,justinjia44@hotmail.com,,604 339 4404,1,,,0,0,t,,
+615,133ead31-8562-4d98-b61c-7f7b0bd1e42e,Vicky Dua,#FF0004,,1,,Vicky,Dua,vicky@upmeals.ca,,,1,,,0,0,t,,
+636,c28fb0a9-eca3-4834-b522-fae266ac08d7,Kanwel Jehangir,#5000FF,,1,,Kanwel,Jehangir,cukkoosdeli@gmail.com,,236 514 9849,1,,,0,0,t,,
+616,502364e3-aa9c-4cf2-a25e-1b2c2ae52446,Mohit Wassan,#E900FF,,1,,Mohit,Wassan,mohit@upmeals.ca,,,1,,,0,0,t,,
+579,43e1a4b5-88fe-407b-a0dd-afd59c5a1541,Michelle Lui,#00B6FF,,1,,Michelle,Lui,michelleluiws@shaw.ca,,6047863651,1,,,0,0,t,,
+781,e1b10137-a43a-44e9-b19e-cc961eb78093,Sumit Rana,#001DFF,,1,,Sumit,Rana,sumit@enterpriseintegrals.com,,,1,,,0,0,t,,
+552,4081e2b8-8822-4f13-826b-1c29782781b8,Ty Nguyen,#FF00EE,,1,,Ty,Nguyen,ng.ty@hotmail.com,,6042268620,1,,,0,0,t,,
+807,cc0f8b46-2afe-416f-bc53-d1a461c65209,Emily Jette,#0094FF,,1,,Emily,Jette,emilyjette@gmail.com,,7789847795,1,,,0,0,t,,
+443,bcad8cdd-ad0d-418b-a8ff-d674ffbfb1e3,Michelle  Correia,#43FF00,264,1,,Michelle,Correia,michellecorreia3@hotmail.com,,778 870 6761,1,,,0,0,t,,
+271,518af5ca-530e-40f1-acee-7a6ee8c1a4f3,TurF,#2f3363,342,2,Kendall Owen,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",473,0,0,f,1,
+653,141fb0c5-eb9c-4fd5-98b4-7d75371304fc,Reese Acorn (intern),#C300FF,,1,,Reese,Acorn (intern),reeseacorn2004@icloud.com,,,1,,,0,0,t,,
+444,db916ad6-ce75-4445-aff5-f6308980dc8d,Kirk  Buxton,#FF0004,286,1,,Kirk,Buxton,kirkskefir@gmail.com,,778-237-8942,1,,,0,0,t,,
+446,0c8163dc-af41-48a3-8e0c-04b6e675554c,Richard  Rojas,#FF00FA,265,1,,Richard,Rojas,info@ox2net.ca,,16043598817,1,,,0,0,t,,
+447,70e2cb2e-0671-447c-8490-46c38dee4bd4,Elizabeth  Gamez,#FF00BF,266,1,,Elizabeth,Gamez,elizaga81@hotmail.com,,604 561 7176,1,,,0,0,t,,
+448,b41bd06d-4d18-43db-b6ee-6ebe9cc7456d,Erin  Ireland,#FF002E,19,1,,Erin,Ireland,erin@tolivefor.ca,,778 839 6002,1,,,0,0,t,,
+449,d69ee544-fd92-4747-aecf-6f8a3316a7da,Frank  Farroghi,#FF2A00,267,1,,Frank,Farroghi,farroghis@gmail.com,,306-502-4783,1,,,0,0,t,,
+450,4c37fd5c-ffb7-43af-8906-8f37672fa5f1,Edward  Gibson,#00FF90,280,1,,Edward,Gibson,mountaindesserts@gmail.com,,672 999 7640,1,,,0,0,t,,
+451,00c68c3e-b29a-4ad5-b24e-8ac38bbce1e0,Ayaka  Haytakeyama,#83FF00,270,1,,Ayaka,Haytakeyama,info@vangohan.com,,,1,,,0,0,t,,
+452,4f98105f-bdec-4055-84a4-97e790d491b6,Paul   Rivas,#FF9000,282,1,,Paul,Rivas,paul@bodegaonmain.ca,,777888549999,1,,,0,0,t,,
+455,85e1e5fd-56c1-4e43-8fd3-4c57f2aa5473,Stephen Evans,#43FF00,,1,,Stephen,Evans,sevans@missioncsc.org,,604-826-0626,1,,,0,0,t,,
+454,8022e8b3-1eda-46f2-bdc5-675eb26b3fb3,Jonathan  Sanz Molero,#FF5D00,281,1,,Jonathan,Sanz Molero,hola@elmercat.ca,,604-704-2512,1,,,0,0,t,,
+762,8e41eaa0-0568-4dd8-b62f-d32caf400aea,Robert Bateman,#99FF00,,1,,Robert,Bateman,chef@notimetocook.ca,,6044049721,1,,,0,0,t,,
+456,57a17a70-11bb-47b0-a386-ae9cbde461cb,Linsay  Harris,#FFEE00,278,1,,Linsay,Harris,foodhub@kamloopsfoodpolicycouncil.com,,250 572 3085,1,,,0,0,t,,
+457,d9bd8d51-08c0-401e-a7bf-038f9baea30d,Mohamad  Noor Sariman,#FF0054,284,1,,Mohamad,Noor Sariman,msariman@gmail.com,,604-202-2788,1,,,0,0,t,,
+458,a46620b7-2e0b-4eb4-b1b3-f5cdc84da9e3,Rob  Moore,#3700FF,291,1,,Rob,Moore,rob.moore@supersecretsauce.ca,,604-360-5162,1,,,0,0,t,,
+459,bb5a9ab9-094c-4188-ab5f-9bc42af38005,Susan  Tychie,#00FF99,283,1,,Susan,Tychie,susan@crfair.ca,,250 514 7999,1,,,0,0,t,,
+460,b912085f-40d0-4204-9857-015ba7ac4dc4,Rochelle  Davidson,#54FF00,297,1,,Rochelle,Davidson,rochelle@rochelledavidson.com,,604-351-9337,1,,,0,0,t,,
+461,826c6b4d-553e-466d-8fa0-ca1226b393dd,John  Smith,#FFD000,285,1,,John,Smith,John@gmail.com,,12345678,1,,,0,0,t,,
+462,391bc61d-4211-48a3-a461-ce6a00ed00c6,Lauren  King,#19FF00,298,1,,Lauren,King,claurenking@gmail.com,,604-352-3571,1,,,0,0,t,,
+463,8372476c-996e-4e11-9991-8f6ce3040556,Bella  Ng,#4C00FF,292,1,,Bella,Ng,nichecreamery@gmail.com,,604 376-2002,1,,,0,0,t,,
+464,abee7896-f196-4d19-93e1-97d3d7aa6eed,Lili  Tang,#00FFA9,293,1,,Lili,Tang,lili5036@gmail.com,,604-418-1127,1,,,0,0,t,,
+466,2ff19800-fb23-47de-8024-759c5a855f3c,Craig  Noble,#DC00FF,306,1,,Craig,Noble,pixeloneproductions@gmail.com,,604 716 8115,1,,,0,0,t,,
+468,e12cd5f5-f8fb-4047-a474-27f97bf321ba,Project  Clean,#FF00A1,309,1,,Project,Clean,1234@gmail.com,,604 722 6960,1,,,0,0,t,,
+469,f5dad75a-1f9d-45ba-b8c4-140020119255,Justin  Kangarloo,#21FF00,312,1,,Justin,Kangarloo,Jkangarloo@gmail.com,,403 619 7970,1,,,0,0,t,,
+470,387868e2-6ae8-4afb-b2a9-53f4ccda1f73,Justin  Chan,#DDFF00,313,1,,Justin,Chan,LJPatisserie2020@gmail.com,,778 893 8683,1,,,0,0,t,,
+471,c4426e2d-4cfe-4573-9ff9-2a5fdb0ddf50,Jack  Stockholm,#FF002E,318,1,,Jack,Stockholm,jack@tangofoods.ca,,,1,,,0,0,t,,
+472,01643506-e47c-4c80-aa9c-3ee16f959628,Matthew  Yung,#00FF6E,319,1,,Matthew,Yung,chikityung@icloud.com,,6044425050,1,,,0,0,t,,
+473,893889b1-8922-48a5-b225-e4845712e167,Kendall  Owen,#0083FF,341,1,,Kendall,Owen,kendall@ourturf.com,,,1,,,0,0,t,,
+474,6a8af748-c053-4605-9d74-1741cdcb33f1,Armor Valor   Corrales,#00FF04,344,1,,Armor Valor,Corrales,corralesarmorvalor@gmail.com,,7788624060,1,,,0,0,t,,
+617,bb35676a-650a-40eb-955f-6814f332dadd,Drew Munro,#0800FF,,1,,Drew,Munro,drew@upmeals.ca,,,1,,,0,0,t,,
+476,637f328d-44a6-4851-b45a-dd6d59001301,Tommy   Tran,#00FF59,354,1,,Tommy,Tran,tran.z.tommy@gmail.com,,,1,,,0,0,t,,
+478,9a38454f-953b-4924-84f2-1f1e14c7fb65,Camille  Hunt,#FF5400,357,1,,Camille,Hunt,camilleyhunt@gmail.com,,7788818143,1,,,0,0,t,,
+479,008105e8-f9ba-4f3d-8202-744b85aec20e,Tahani  Alkashef,#9800FF,358,1,,Tahani,Alkashef,the.nafas.kitchen@gmail.com,,4382266313,1,,,0,0,t,,
+480,f6447994-b1f0-46bb-a88d-d5cc9f7b7b79,Roberto  Uribe,#FF006A,380,1,,Roberto,Uribe,notificacionesrbu@hotmail.com,,52-221-667-8594,1,,,0,0,t,,
+495,8b16c150-1abf-4f16-9a8a-282291629cf6,Ramesh Rugbeer,#00FFE9,,1,,Ramesh,Rugbeer,ramesh@commissaryconnect.com,,,0,,,0,0,t,,
+864,3df6693a-a538-45a3-ad89-476bf998687c,Mohammad Ali  Savoji,#AAFF00,,1,,Mohammad Ali ,Savoji,savojiali@gmail.com,,7788987460,1,,,0,0,t,,
+700,8bfbb2f6-2908-48b8-8794-b01f0734b786,Xin Xie,#FFE900,,1,,Xin,Xie,xiexin0603@gmail.com,,7785223306,1,,,0,0,t,,
+477,be744d35-e38c-4813-a2c2-01b7742ea6d0,John-Morgan Rice,#FF0800,,1,,John-Morgan,Rice,discobiscuitsdonuts@protonmail.com,,6048383975,1,,,0,0,t,,
+554,de022b0b-3c37-46b8-bc16-16178813cf41,Antonio Ferrante,#FAFF00,,1,,Antonio,Ferrante,antonio@antoniosbakery.ca,,4165735416,1,,,0,0,t,,
+481,8a73ca70-3c60-4ec0-894b-6c7ce03b8f69,Kevin Lee,#E9FF00,,1,,Kevin,Lee,accounting@konscious.com,,6045170737,1,,,0,0,t,,
+637,534d526d-82b5-4336-bfe8-1deba300f851,MilkyWay Guest,#4CFF00,,1,,MilkyWay,Guest,delivery@gmail.com,,,1,,,0,0,t,,
+799,f55a63c8-c1bd-4037-8743-78d8d404e606,test user,#00FFF2,,1,,test,user,rameshrugg@gmail.com,,,1,,,0,0,t,,
+475,5563e40d-69b7-4bee-8858-a825971d28a5,Jose Raul Rodrigues Temores,#1DFF00,,1,,Jose Raul Rodrigues,Temores,stolamer@gmail.com,,6047795303,1,,,0,0,t,,
+445,cdcc3563-59ba-41b4-b5a7-93737bfe30d4,Brett  Hazelton,#C700FF,1,1,,Brett,Hazelton,contact@thecrankyoldfork.com,,778 387 6039,1,,,0,0,t,,
+465,e9063dc8-ec36-4e5f-a545-771000a5b165,Joey  Boayes,#FF00C7,303,1,,Joey,Boayes,hello@thomakis.com,,604 364 9090,1,,,0,0,t,,
+467,04d5307c-b50a-4df1-b96f-d7f9b98b9a8a,Connie Wu,#FF0400,,1,,Connie,Wu,conniescravings@gmail.com,,778 223 3260,1,,,0,0,t,,
+453,126591c5-262a-4f4e-9098-46c975fa2863,Vinh Nguyen,#F2FF00,,1,,Vinh,Nguyen,vinh@mochidoyvr.com,,778 325 5195,1,,,0,0,t,,
+46,1aea73e6-9eb7-4d01-b9a5-fc4ff45a0992,CooCooBox,#22CA1D,46,2,CooCooBox,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",314,0,4996.2780,f,1,
+537,1de20d42-5534-4449-8458-a93779cb01cf,Bamon Gosswami,#AAFF00,,1,,Bamon,Gosswami,bamongoswami@yahoo.com,,236-862-7971,1,,,0,0,t,,
+70,8032e3ef-51ad-4ff8-af7d-dda4c973baee,Come Arepa,#7EDABD,73,2,Come Arepa,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""806 - 3408 Crowley Drive
+Vancouver BC  V5R 6C3"", ""AdministrativeDistrict1""=>""""",334,0,39854.6290,f,1,
+618,999a60e9-f8f9-4600-aa0d-7d62384ec977,Jordon Chow,#D000FF,,1,,Jordon,Chow,chowj@kirinrestaurant.com,,,1,,,0,0,t,,
+40,18b97211-4e45-48ed-9713-582d90dc08b6,Live Love Eat Food Company,#1C119F,39,2,Live Love Eat Food Company,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""7338 - 12th Avenue
+Burnaby, BC  V3N 2J9"", ""AdministrativeDistrict1""=>""""",309,0,9074.8665,f,1,
+53,012ca479-8bac-44b5-9a3f-5cf6c6076d71,Mandalay Burmese Kitchen,#A500C0,54,2,Mandalay Burmese Kitchen,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""202-107 E. Broadway
+Vancouver, BC V5T 1W1"", ""AdministrativeDistrict1""=>""""",321,0,12792.0660,f,1,
+51,9f9e5fbf-afc6-4094-a60b-48b73bcb8141,AK Eats,#4B85FB,52,2,AK Eats,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""510 - 63 W. 2nd Avenue
+Vancouver, BC  V5Y 0G8"", ""AdministrativeDistrict1""=>""""",319,0,9113.7270,f,1,
+556,8f94f8be-4697-4118-a8d4-b3d592e80600,Lindsey Neville,#003BFF,,1,,Lindsey,Neville,lindsey.neville@martello.group,,778-702-3380,1,,,0,0,t,,
+13,bf71cf7e-81a2-4a15-98ab-165b5e4c037a,Soho Road,#000000,11,2,Soho Road,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""602-1212 Howe Street
+Vancouver, BC"", ""AdministrativeDistrict1""=>""""",299,0,5277.8050,f,1,
+555,e8b6d93a-a0d6-4214-a6b5-bf51795b9319,Martello Property Services ,#FF00A1,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Edmonton"", ""PostalCode""=>""T5K0M1"", ""AddressLine1""=>""207-11460 Jasper Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""Alberta """,556,0,1575,t,3,556
+21,545c6c51-3e29-484b-9bbc-2c300ff282cc,Tacomio,#B62D53,20,2,Tacomio,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""438 Abbott St.
+Vancouver, BC  V6B 1R3"", ""AdministrativeDistrict1""=>""""",302,0,28387.4705,f,1,
+56,90205741-a3aa-4b6f-b9df-ab5316be399e,Empanada Papa,#7E9AA5,57,2,Empanada Papa,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",323,0,35744.7885,f,1,
+29,9f2fa6df-6797-494d-a942-78ae16f42871,Georels Bone Broth Co Ltd,#814200,28,2,Georel's SmokeHouse,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""308 - 221 Union St.
+Vancouver, BC  V6A 0B4"", ""AdministrativeDistrict1""=>""""",305,0,83841.4950,f,1,
+764,4dbcb10f-adf0-4655-a7e1-a6916de9fc58,Vanshika Madaan,#00FF55,,1,,Vanshika,Madaan,vanshika.madaan90@yahoo.com,,236-785-4800,1,,,0,0,t,,
+76,12e22b55-9af3-44ab-91ab-7c78cb2cc747,Cafe Brasil,#CA0D33,84,2,Cafe Brasil,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""689 - 1107 Abbott Street
+Vancouver, BC
+V6B 0J2"", ""AdministrativeDistrict1""=>""""",340,0,8502.8895,f,1,
+45,3b18dbe8-2308-4214-ba07-580eb1986433,Chocolate Culture,#232B87,45,2,Chocolate Culture,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""307 - 1707 Charles t.
+Vancouver, BC  V5L 2T6"", ""AdministrativeDistrict1""=>""""",313,0,6205.0170,f,1,
+31,4681f4cb-e3e5-48d6-9998-0b291991517a,La Casita,#C38DDA,30,2,La Casita,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",306,0,5821.9350,f,1,
+20,8f77076b-f9dc-4b7a-8824-8eb17dff1a77,Curious Oysters,#2AD383,19,2,Curious Oysters,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""D-237 East 23rd Ave.
+Vancouver, BC  V5V 1X4"", ""AdministrativeDistrict1""=>""""",301,0,31561.2325,f,1,
+75,43d6c9bc-355f-41af-a7dc-a6ed42ed2d2f,ZenQ,#A6AFB5,83,2,ZenQ,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1274 Robson Street
+Vancouver, BC V6E 1C1"", ""AdministrativeDistrict1""=>""""",339,0,2895.3330,f,1,
+670,585cf84e-82f7-4661-b2f3-09a9c99d1762,Hot S Pot,#4300FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""North Vancouver"", ""PostalCode""=>"" V7P 1V3"", ""AddressLine1""=>""1705 Marine Dr."", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",671,0.00,0.00,f,1,
+93,5de4f826-3fc8-4a6e-8958-f74344ee5a20,Kula,#C65089,105,2,Kula,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1401-189 National Avenue
+Vancouver, BC
+V6A 4L8"", ""AdministrativeDistrict1""=>""""",354,0,21435.3720,f,1,
+69,b2d38655-b864-4397-a465-88d35a07180c,Salt N Sear Catering Inc.,#08EFAB,72,2,Salt n Sear,,,,,,,"""Country""=>""CA"", ""Locality""=>""Pt. Coquitlam"", ""PostalCode""=>""V3C 0B4"", ""AddressLine1""=>""205 - 2368 Marpole Avenue"", ""AdministrativeDistrict1""=>""BC""",333,0,64394.4660,f,1,
+6,64d93527-725b-414a-bbe8-b67862cabda2,Fitness Foods,#26C200,4,2,Fitness Foods,,,,,,,"""Country""=>""CA"", ""Locality""=>""Langley"", ""PostalCode""=>"""", ""AddressLine1""=>""415B - 8157 - 207th Street"", ""AdministrativeDistrict1""=>""B.C.""",296,0,127902.8805,f,1,
+104,4de2a78e-0067-44dc-b323-c0178c91c351,Honest Oats,#564124,118,2,Honest Oats,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""55 East 49th Avenue
+Vancouver, BC
+V5W 2G1"", ""AdministrativeDistrict1""=>""""",362,0,10742.7285,f,1,
+485,e3be5009-2aa5-4f3b-8482-360c3455094b,Hanish Soni,#00F6FF,,1,,Hanish,Soni,hanish@commissaryconnect.com,,,0,,,0,0,t,,
+108,3dfb3ec7-6640-4b72-8646-d72f2e446d98,WhataFood!,#F3BD14,124,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""87 Glynde Ave
+Burnaby, BC  V5B 3J3"", ""AdministrativeDistrict1""=>""""",365,0,20809.6980,f,1,
+85,327b2e1a-cbe1-4988-8e47-f1ca3e225b09,Saj & Co,#46EDE6,96,2,Saj & Co,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1280 Arbutus Street
+Vancouver, BC
+V6J 3W6"", ""AdministrativeDistrict1""=>""""",348,0,15409.1280,f,1,
+102,b9afc77e-e894-40a9-a460-84177eef028a,Fume-eh Gourmet,#FB722E,115,2,Fume-eh Gourmet,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2001 Gable Drive
+Coquitlam, BC
+V3E 1Z8"", ""AdministrativeDistrict1""=>""""",360,0,4373.8485,f,1,
+262,1c1da154-52db-45b0-9d09-740dee1dec26,Unni Pastries Ltd.,#e7db9b,327,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5V 1P3"", ""AddressLine1""=>""1330 E. 20th Avenue"", ""AdministrativeDistrict1""=>""BC""",,0,367.50,f,1,
+111,646981a9-7873-4184-9eb5-25e988435b29,Chef T Edibles Inc,#4584B6,127,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""11248 Kendale View
+Delta, B.C.
+V4C 3P9"", ""AdministrativeDistrict1""=>""""",,0,1575.0105,f,1,
+655,67b1a244-75e4-4564-ac72-b4d1df73dc3b,Andrey Osinin,#FF00B2,,1,,Andrey,Osinin,andreosinin@gmail.com,,514 823 1819,1,,,0,0,t,,
+97,6c73f381-565a-4a05-935a-5f0bbebd0fe8,Rain City Soups,#79DD7A,109,2,Rain City Soups,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""111-202 Salter Street
+New Westminster, BC
+V3M 0E6"", ""AdministrativeDistrict1""=>""""",356,0,7780.1115,f,1,
+105,adac4a77-7519-447e-b417-888c31c95172,Cooq,#404548,119,2,Cooq,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",363,0,580.125,f,1,
+117,5e9b808a-6604-412f-a0fd-8f6493d58e13,FilmGroup,#D92CA1,135,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""#305 - 211 East Georgia Street
+Vancouver, BC V6A 1Z6
+604-682-2507"", ""AdministrativeDistrict1""=>""""",371,0,5955.075,f,1,
+557,d5321a77-1a1a-4a06-890d-56d08bab60ca,Ranka Ranka,#00FAFF,,1,,Ranka,Ranka,ranka@komoeats.com,,,1,,,0,0,t,,
+81,ac32445c-e996-4123-bd88-92f4201b594c,Livia Sweets,#7D05BB,92,2,Livia Sweets,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3-1715 Gravely Street
+Vancouver, BC
+V5L 3A9"", ""AdministrativeDistrict1""=>""""",344,0,35150.1485,f,1,
+116,4c2cb9b3-04d5-4654-9c30-6b1afe4b9b14,Fry Scream Foods,#BCCC75,133,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1706 - 9188 Cook Rd.
+Richmond, BC  V6Y 4M1"", ""AdministrativeDistrict1""=>""""",370,0,4649.6100,f,1,
+765,0d44366f-27e1-4276-920a-6241090a94ce,Nao Takeda,#FF00FA,,1,,Nao,Takeda,accounting@ntcltd.co,,,1,,,0,0,t,,
+103,277eb270-0e49-45e4-86c3-4e30b489c00e,Aloha Infused,#4463B6,116,2,Aloha Infused,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1822 - 68 Smithe Street
+Vancouver, BC
+V6B 0P4"", ""AdministrativeDistrict1""=>""""",361,0,2105.7855,f,1,
+766,bb0068ec-579d-4b68-a506-027e1e951347,Ahmed Syed,#FF00B2,,1,,Ahmed,Syed,shadaabahmedsyed@gmail.com,,778-241-7878,1,,,0,0,t,,
+92,3f7f575a-00c6-455a-8397-622a61bca7ba,Momotaro Keto Meal Prep,#4D9219,104,2,Momotaro Keto Meal Prep,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3231 Est 45th Avenue
+Vancouver, BC"", ""AdministrativeDistrict1""=>""""",353,0,8430.0825,f,1,
+107,40c68b78-1d68-4ed9-92f0-f8b0bb6c85ac,KFOOD Enterprise Ltd.,#009D92,123,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""9291 Auburn Drive
+Richmond, BC
+V7A 4Z5"", ""AdministrativeDistrict1""=>""""",,0,6547.5690,f,1,
+73,88c17899-0d85-4dbd-9a88-91386977c9d2,Whistler Elixir,#FCEA50,76,2,Whistler Elixir,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3340 Fir Street
+Vancouver, BC  V6J 3C6"", ""AdministrativeDistrict1""=>""""",337,0,4836.6105,f,1,
+109,d6d2ed78-44b1-4948-afea-399661e652a0,Merchants Workshop,#BEDC0E,125,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,346.50,f,3,
+590,f576a8ef-10c8-44ac-b287-81ddc908298e,Berglander Frozen Goodies,#21FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6G1J3"", ""AddressLine1""=>""2001-2020 Haro Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",591,0.0,0.00,f,1,
+539,20b70ebc-97fc-4b96-bdf5-e2b24a0f3191,Naman Gupta,#00FFBB,,1,,Naman,Gupta,gupta.nnaman@gmail.com,,6478777071,1,,,0,0,t,,
+137,7436e1b8-a669-47c5-89d4-721ad23f111c,Fitezza,#A313E6,162,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",386,0,157.50,f,1,
+59,344b24ca-5cce-42a7-b15d-fb5cd3ba5350,West Coast Gourmet,#B47C33,62,2,West Coast Snacks,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3652 William St.
+Vancouver, BC  V5K 5E6"", ""AdministrativeDistrict1""=>""""",325,0,46064.4405,f,1,
+139,b9598923-c0a6-4603-93a2-95cf428106b7,Vancity,#311BCF,164,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""100 183 Terminal Avenue
+Vancouver BC 
+V6A 4G2"", ""AdministrativeDistrict1""=>""""",,0,41373.500,f,1,
+639,1de1075e-00ce-47f5-9f30-74c0b81e8f38,Flavio Luis Montano Filho,#FFEE00,,1,,Flavio,Luis Montano Filho,montanosfood@gmail.com,,778-233-4429,1,,,0,0,t,,
+144,d161a72b-c03c-4aed-8fb3-ad89fd54fa2a,Gourmet Keto Bites,#5E2266,169,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""5585 Chester Street
+Vancouver, BC  V5W 3B3"", ""AdministrativeDistrict1""=>""""",390,0,12120.2655,f,1,
+171,bb57aa7a-06c3-482b-8bda-722bbed4395d,Brigaderia da Pam,#93752E,209,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""505 - 1095 Bute Street
+Vancouver, BC  V6E 1Z3"", ""AdministrativeDistrict1""=>""""",411,0,1459.1535,f,1,
+140,78dd666e-fe32-4517-a410-a4295ad3aebf,CanTresor Group,#80A089,165,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""590 - 999 West Broadway
+Vancouver, BC"", ""AdministrativeDistrict1""=>""""",388,0,8490.5520,f,1,
+72,ab09146c-248a-4513-8134-705c1dfd682f,Dipped Dough Company,#858DE4,75,2,Dipped Dough Company,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1806 - 125 Columbia St.
+New Westminster, BC  V3L 0G8"", ""AdministrativeDistrict1""=>""""",336,0,37315.1415,f,1,
+138,44bac27e-bfe3-457f-b108-82127cfad6fd,Cartems,#1E464A,163,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""534 West Pender St.
+Vancouver, BC"", ""AdministrativeDistrict1""=>""""",387,0,11806.20,f,1,
+135,6dd04081-62d0-4e52-91d7-303d37be69ec,TPFoodie Holdings,#537772,160,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2121 - 4500 Kingsway
+Burnaby, B.C."", ""AdministrativeDistrict1""=>""""",384,0,15725.7355,f,1,
+136,069d28b1-95cf-489a-9118-8b0ce194eb3e,Something Sweet Patisserie,#D868C5,161,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",385,0,157.5105,f,1,
+562,3905b214-26aa-4b2e-a24a-d6bec2e3df59,Tanveer Singh Gill,#00FF50,,1,,Tanveer Singh,Gill,gilltanveer417@gmail.com,,,1,,,0,0,f,,
+717,6ca5b41f-df11-4678-86bc-43dd7e42bbc7,Dear Ms. Saigon ,#d40001,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5H4H2"", ""AddressLine1""=>""5050 Kingsway - Unit #200"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",718,3967.5,-11057.69,f,1,718
+147,d4760732-028e-4be7-accf-5dbdc3de06f9,Hi Chef Catering,#27ECFF,172,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""5443 Wales Street
+Vancouver, BC  V5R 3M9"", ""AdministrativeDistrict1""=>""""",392,0,7970.2350,f,1,
+7,b8480012-733b-4fed-8f9e-bfd0acc3e853,To Die For,#FFED00,5,2,To Die For,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""2339 Scotia St
+Vancouver, BC V5T0B2"", ""AdministrativeDistrict1""=>""""",297,0,143563.3945,f,1,
+169,a84c1621-b1e6-4c5c-8c36-9fb85cca2aac,Petit Sucre Patisserie,#0B6587,206,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""West Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""990 Eyremount Drive "", ""AdministrativeDistrict1""=>""BC""",409,0,42231.4285,f,1,
+24,d8865b67-3a8e-42d0-acc7-e8de8e04006d,Rolling Cashew & C'est Si Bon,#0015C2,23,2,Rolling Cashew & C'est Si Bon,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""3346 Willam St.
+Vancouver, BC  V5K 2Z3"", ""AdministrativeDistrict1""=>""""",304,0,103078.8815,f,1,
+149,b6b36a6b-bbcd-4642-b0b7-6dfa3092dfc5,Eat the Dishes,#193755,174,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""10386 - 125 Street
+Surrey, BC  V3V 4Y7"", ""AdministrativeDistrict1""=>""""",394,0,11400.6165,f,1,
+568,a0eec8b4-983b-4380-92ab-988e6462cc5b,Indian Burgers Joint Ltd. (1312690 B.C. Ltd.),#00FFD8,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3V 3G5"", ""AddressLine1""=>""H45-12751 103 Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",569,0.00,0.130000000000000,f,1,
+174,c75b674f-fe12-4d07-8b92-780757105103,Keto Kitchen,#DD2C92,213,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""813 - 500 W. 10th Avenue
+Vancouver, BC  V5Z 4P1"", ""AdministrativeDistrict1""=>""""",414,0,14243.6950,f,1,
+63,6712a836-33c3-4ae5-b6d5-060b7c1faed5,Tayybeh,#2C1247,66,2,Tayybeh,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>"""", ""AddressLine1""=>""5587 Manson Street"", ""AdministrativeDistrict1""=>""BC""",329,0,244931.6540,f,1,
+216,e7013070-c9d5-42d4-8e25-e3a260d3f6ea,Treats by Sabby,#ba4e73,276,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""772 W. 64th Avenue"", ""AdministrativeDistrict1""=>""BC""",441,0,2189.9935,f,1,
+672,a0a98cc1-b82e-4fa4-9e45-f3498d330dcd,Abell Pest Control,#37FF00,,1,,Abell,Pest Control,tempemail2@commissaryconnect.com,,,1,,,0,0,f,,
+657,ee0ead23-a70a-4366-b889-b688d84a745d,Michael Mikulak,#B200FF,,1,,Michael,Mikulak,michaelm@foodbeveragemb.ca,,,1,,,0,0,t,,
+620,991042ab-130c-443e-b9c6-706755cc4d9b,Naman Gupta,#FF3700,,1,,Naman,Gupta, gupta.nnaman@gmail.com,,6478777071,1,,,0,0,t,,
+175,1a5eb450-91b3-4ea6-82a0-f54cb7386566,Caldo Broths,#06F810,214,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""501-1540 West 2nd Avenue
+Vancouver, BC V6J 1H2"", ""AdministrativeDistrict1""=>""""",415,0,6290.7810,f,1,
+768,ff27956c-a4b7-4340-85f6-f3bfad05bcc5,Shubham  Ghai,#0048FF,,1,,Shubham ,Ghai,saanchfoodscorp@gmail.com,,236-788-7535,1,,,0,0,f,,
+207,aba12470-bede-4e77-8d4d-3568f58092a2,Coco Cakes,#2e8e02,267,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""10 - 449 East 44th Ave."", ""AdministrativeDistrict1""=>""BC V5W 1W2""",435,0,1898.9160,f,1,
+205,f78ad7c0-d917-47ab-bd24-c0738a7582df,Herbed Noodle,#8c500c,265,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""8191 Elliott Street"", ""AdministrativeDistrict1""=>""BC V5S 2P3""",433,0,2049.8210,f,1,
+215,a13ba6d3-7dff-40d8-8556-02b617428bf6,Boochy Bars,#93f831,275,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6K 4K7"", ""AddressLine1""=>""215 - 2190 West 7th Ave."", ""AdministrativeDistrict1""=>""BC""",440,0,7377.1905,f,1,
+212,06a66b70-f3da-4889-a732-a869f22d9400,Han Ka Export-Import Ltd.,#492422,272,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5C5T5"", ""AddressLine1""=>""#260-4664 Lougheed Hwy. Burnaby, BC Canada  V5C 5T5"", ""AdministrativeDistrict1""=>""BC""",438,0,1312.50,f,1,
+145,2317ae0a-c2f6-47c6-851c-75c207225bc7,Yogi's Kitchen Food Services Ltd,#2CCD26,170,2,Yogi's Kitchen and Food Services Ltd.,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""58 - 10500 Delsam Cres.
+Delta, BC  V4C 0C3"", ""AdministrativeDistrict1""=>""""",391,0,243028.5705,f,1,
+166,750e2c29-6e91-4544-b6cf-d6108aff2ab3,Moa Kitchen & Catering,#2D6F0E,203,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""(formerly Bistro Hatzu)
+908 - 159 - 2nd Avenue
+West Vancouver, B.C.  V5Y 0L8"", ""AdministrativeDistrict1""=>""""",406,0,34458.9630,f,1,
+203,cb5fa00a-bf6c-4dc9-a024-c731ded4428f,Dough & Co Baking,#a46fdd,263,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>"""", ""AddressLine1""=>""6 - 8031 General Currie Road"", ""AdministrativeDistrict1""=>""BC V6Y 1L9""",431,0,12831.9940,f,1,
+217,df014895-5497-43d5-8257-21de120da6f9,Eve Meal Prep,#698217,277,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Z 4G8"", ""AddressLine1""=>""555 West 14th Ave."", ""AdministrativeDistrict1""=>""BC""",442,0,13064.9925,f,1,
+202,b4f41a5a-ff49-4bc9-bef1-beeebfabb260,House Chai Inc,#907c9f,262,2,In-House Teas,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""339 - 2055 Commercial Drive"", ""AdministrativeDistrict1""=>""BC V5N 0C7""",430,0,17522.4720,f,1,
+156,ece68c31-cf81-4ded-927d-b05bca982681,Li's Food Revolution - A,#2E64EB,191,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""3009 - 833 Seymour Street "", ""AdministrativeDistrict1""=>""BC""",397,0,335146.5155,f,1,
+530,693991ff-f7a3-47a7-a26c-413237a90893,Kui,#5400FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 0A8"", ""AddressLine1""=>""1681 w 8th ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",531,0,36988.8330,f,1,
+268,fa190005-6c00-4574-94be-a9e951d5d56e,Star West Petroleum,#7a57f9,336,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Coquitlam"", ""PostalCode""=>"""", ""AddressLine1""=>""#104 ­­- 3A Burbidge Street"", ""AdministrativeDistrict1""=>""BC""",,0,22207.50,f,1,
+267,2be8a5ec-1217-47b2-9804-da5a27bbc2a3,The Sunday Dinner Club,#e3dc7d,335,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"" V5K 1N2"", ""AddressLine1""=>""2639 Oxford St"", ""AdministrativeDistrict1""=>""BC""",,0,2466.045,f,1,
+659,59256d9c-ea8f-4285-82e6-bd9ce6ffb742,Thomas Lancaster,#00FF9D,,1,,Thomas,Lancaster,tlancast@cmhc-schl.gc.ca,,,1,,,0,0,t,,
+859,b72369b6-0dc7-493c-88a1-902bbf4f8f8f,Jeffrey Li,#FF007B,,1,,Jeffrey,Li,jeffreywork2020@gmail.com,,7788811815,1,,,0,0,t,,
+823,781d0092-0cf1-48a3-b468-0b0cbcbd78a2,Shori Inomata,#B200FF,,1,,Shori,Inomata,kagayabbq.1010@gmail.com,,604-446-8573,1,,,0,0,t,,
+684,9cf11342-09fe-4d05-b44c-fea409a79910,Vanye Henry Wadawasina,#FF00B2,,1,,Vanye Henry,Wadawasina,vanye.wadawasina@abokigrill.ca,,2368633115,1,,,0,0,t,,
+235,6810faca-fb97-4027-822b-c627eef27b24,El Mercat,#255320,298,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 1P2"", ""AddressLine1""=>""1134 Burnaby Street"", ""AdministrativeDistrict1""=>""BC""",454,0,29196.2485,f,1,
+177,8a5fb643-2fb7-4f70-a8a8-9613098d7d01,Coastie Craft Burgers,#FA0812,216,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1060 King Edward Ave. West
+Vancouver, BC
+V6H 1Z4"", ""AdministrativeDistrict1""=>""""",416,0,140517.2540,f,1,
+239,ef84d12f-38e6-404c-be73-22a9e280f3ad,Kamloops Food Policy Council,#2c670a,302,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Kamloops "", ""PostalCode""=>""V2B 3G3"", ""AddressLine1""=>""286 Tranquille Rd "", ""AdministrativeDistrict1""=>""BC """,456,0,10500.00,f,1,
+246,e0c60316-6463-4b36-9f3a-83198242ebb2,Kekko Bakery,#aaa1a1,309,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7C 4N8"", ""AddressLine1""=>""6511 Dunsany Place"", ""AdministrativeDistrict1""=>""BC""",462,0,6217.9975,f,1,
+770,1bcaa09a-27e5-4b22-be1c-11488a794508,Zhicheng Xu,#FF005D,,1,,Zhicheng,Xu,benxu1018@gmail.com,,6042130908,1,,,0,0,t,,
+561,18cd0262-5157-479c-ad59-e033526ec303,Manpreet Kaur,#00FF2A,,1,,Manpreet,Kaur,kaurmanpreetkaur1247@gmail.com,,7783190723,1,,,0,0,f,,
+701,06bfcf90-788d-4aa0-82f8-7ea6f51e687a,Abell Pest Control,#37FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Delta"", ""PostalCode""=>""V3M 6Y9"", ""AddressLine1""=>""669 Ridley Place"", ""AddressLine2""=>""Unit 207"", ""AdministrativeDistrict1""=>""British Columbia""",702,0,0,t,2,702
+685,40c57c41-3529-4144-9e54-9f35fd26d580,FireFly Safety,#FF0098,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z2M9"", ""AddressLine1""=>""3838 Marine Dr"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",686,0,0,t,2,686
+812,c53a402f-a06f-4f14-92b5-dd4489b3b7c2,Gurkiran Kaur,#00FF3B,,1,,Gurkiran,Kaur,gurkiran@newyorkpaintingltd.com,,,1,,,0,0,t,,
+585,5962c335-b405-44d9-960d-90b831ad0557,Dilaxan Sunthareswaran,#08FF00,,1,,Dilaxan,Sunthareswaran,info@notaverage.ca,,778-558-3415,1,,,0,0,t,,
+662,d65b3a9b-732b-4ac7-9093-caf5fa96c837,Maggie Qiu,#10FF00,,1,,Maggie,Qiu,maggie@newyorkpaintingltd.com,,,1,,,0,0,t,,
+674,bb6ede6e-4a19-46f6-962c-77851973c5e5,Dionysia (Denia) Pavlatou,#FFA100,,1,,Dionysia (Denia),Pavlatou,denia@portokali.shop,,514-660-4111,1,,,0,0,t,,
+269,cacc10d5-cf20-469f-bea8-091dbc5e0960,Turbo Trading Ltd,#68cd3e,338,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>"""", ""AddressLine1""=>""48-4588 Dubbert St"", ""AdministrativeDistrict1""=>""BC""",509,0.00,48691.005,f,1,
+702,a611802f-c7b9-4f6c-a811-6b46b2379e4e,Mark Lintag,#1DFF00,,1,,Mark,Lintag,mlintag@abellgroup.com,,6043958115,1,,,0,0,t,,
+675,58c05aaf-2c5a-4f7f-8b9e-7ef801763090,Elham Goleiji (intern),#FF000C,,1,,Elham,Goleiji (intern),elham.goleiji@gmail.com,,,1,,,0,0,f,,
+663,894341c2-b232-4998-84d1-f1c45899af7e,Uzbek Cuisine,#0061FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6L0C4"", ""AddressLine1""=>""330-4288 Yew St,"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",664,0,0,f,1,
+906,74551939-f9c5-4609-847c-1b13c8ecf472,Aksareen Enterprises Ltd,#F12124,,2,Aksareen Enterprises Ltd,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X 3S3"", ""AddressLine1""=>""8160 St George Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",907,0,0,t,1,907
+686,c391b47a-b9ea-48eb-9ad4-297b40f25022,Mick Puri,#00D8FF,,1,,Mick,Puri,info@fireflysafety.com,,,1,,,0,0,t,,
+664,d5807217-0080-45a6-946a-06993103b47b,Andrey Osinin Nodirkhon Akilkhanov,#5DFF00,,1,,Andrey Osinin,Nodirkhon Akilkhanov,andreosinin@gmail.com,,514 823 1819,1,,,0,0,f,,
+587,e8b20577-91fb-4c4f-916b-891b9d4f5c7c,Ali Nazar,#FF00F6,,1,,Ali,Nazar,alinazarrao@gmail.com,,7782417878,1,,,0,0,t,,
+725,8497f5d3-0af0-4617-b0cb-c44d8a2d1064,Kapampangan Ala Eh Food Service Inc.,#8a00a6,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5X1N8"", ""AddressLine1""=>""985 E 55th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",726,0,0.00,f,1,726
+625,6b77d2ae-7712-4b41-b8e6-979c666c9762,Dijo's Pizza & Panzerotto Ltd.,#ffce68,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5E 3A3"", ""AddressLine1""=>""11-7488 Salisbury Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",626,0.00,33.18000000000000,f,1,626
+808,80654f66-5521-4082-8a8f-3e0b2686b77c,Pickup Code,#FF0015,,1,,Pickup,Code,-@gmail.com,,,1,,,0,0,t,,
+661,f2d4f2b5-f7d7-4dde-a6d5-f193147f5046,David Sarai,#83FF00,,1,,David,Sarai,david@newyorkpaintingltd.com,,6047224014,1,,,0,0,t,,
+658,51cb0984-0e08-494e-8e9a-d324421b3e1d,CMHC - Granville Island,#FF0400,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6H 3S3"", ""AddressLine1""=>""2nd Floor, 1661 Duranleau Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",659,0,0.00,t,3,659
+771,0635ab75-d43b-425b-9a56-95f56b56c419,Pia Ritch,#FF009D,,1,,Pia,Ritch,piaritch@uniserve.com,,,1,,,0,0,t,,
+720,68abccbb-539f-4a6d-9c56-c57a0c36b7cd,Manjot Singh,#005DFF,,1,,Manjot,Singh,msdhillon666@gmail.com,,2368689494,1,,,0,0,t,,
+813,0e89c43e-1221-4189-af0b-5b44d6cd3ca3,Accounting Surrey Commissary,#FFE100,,1,,Accounting,Surrey Commissary,accounting@newyorkpaintingltd.com,,,1,,,0,0,t,,
+256,e75154e7-a5ec-446d-b31c-8352941c9b9b,L&J Patisserie,#49a910,319,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>"""", ""AddressLine1""=>""10126 Finlayson Drive"", ""AdministrativeDistrict1""=>""BC""",470,0,16579.4800,f,1,
+772,4b546eae-55e7-4238-a837-3acb3c89c194,Accounts Payable,#FF0050,,1,,Accounts,Payable, accountspayable@rethinkideas.com,,,1,,,0,0,t,,
+273,8d876625-0bbf-47ac-9ebb-b995311d5664,Carnitas Don Jose,#604b46,344,2,Jose Raul Rodrigues Temores,,,,,,,"""Country""=>""CA"", ""Locality""=>""Port Moody"", ""PostalCode""=>""V3H 0A8"", ""AddressLine1""=>""156 "", ""AddressLine2""=>""Maple Drive "", ""AdministrativeDistrict1""=>""BC""",475,0.00,157396.7064999999994,f,1,475
+589,c362fe5d-71bf-4b36-953d-827e9476411d,Wing Sum Ngan,#FF00B2,,1,,Wing,Sum Ngan,hkdessert@hotmail.com,,2363300330,1,,,0,0,t,,
+687,eea4ecc0-21c4-47c3-a1fd-7d1a07876b4b,West Core Metal Works Ltd,#00A1FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6V 1K9"", ""AddressLine1""=>""#1 – 14231 Burrows Rd"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",688,0,0,t,2,688
+678,0384421f-f450-4975-b97e-6c2f53db4b27,Palatable Catering and Events,#E1FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6B1A1"", ""AddressLine1""=>""408-55 Water Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",679,0,6300.00,f,1,679
+847,69f6df43-36bb-49e5-adc3-2554c511b434,Jujhar Gill,#00FF55,,1,,Jujhar,Gill,jujhargill.82@gmail.com,,7785121344,1,,,0,0,t,,
+783,0129b97d-341f-43b4-92bb-6a6d74f12fc0,Crumby Pickup Code,#FF00E5,,1,,Crumby,Pickup Code,shay@gmail.com,,,1,,,0,0,t,,
+688,bfb6026a-cf68-40ea-a84f-e65a4f7f7ce8,Neil Patterson,#0043FF,,1,,Neil,Patterson,neil@westcoremetal.com,,,1,,,0,0,t,,
+677,a1b8a00c-0a11-424b-8d3c-e51a89db191c,Hyun Ju Lee,#00FF94,,1,,Hyun Ju,Lee,lhj790909@gmail.com,,778-995-7890,1,,,0,0,t,,
+591,8ae1e982-fc83-4d2f-9a05-632b595ecc48,David Teran Dagnino,#0087FF,,1,,David,Teran Dagnino,dav.terand@gmail.com,,6043298430,1,,,0,0,t,,
+528,935ed711-762e-4d38-9c92-057369ad217e,4 Migos Nachos,#FF7F00,,2,,,,,,,,,,885.5,12936.00,f,1,
+549,f814c615-2f73-4c29-8c97-f782112276ed,Vindhu Bhojanam,#FF00AA,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5R3E6"", ""AddressLine1""=>""3333 East 45th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",550,0,-2090.00,f,1,
+291,28f90d39-f030-4b4d-9b36-5077f51e6cfe,SRK Partners Inc,#b64d7a,362,2,Makoto Yamaguchi,,,,,,,"""Country""=>""CA"", ""Locality""=>""West Vancouver"", ""PostalCode""=>""V7T 2X4"", ""AddressLine1""=>""230 15th Street"", ""AdministrativeDistrict1""=>""BC""",490,0,22044.75,f,1,
+704,469cbacb-ec5d-482c-9397-590a5cae18fd,Enat Gulelat,#00FF33,,1,,Enat,Gulelat,enatgulelat@gmail.com,,2366680031,1,,,0,0,t,,
+576,16df170f-2663-4609-9228-8e12c3a2688c,TurF (Customer),#00FF4C,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 1N3"", ""AddressLine1""=>""2041 W 4th Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",577,0,0.00,f,1,
+705,66f4cc78-a97b-4099-a94a-953b63c44d2e,Delivery Code,#00FF21,,1,,Delivery,Code,info@orbandco.ca ,,,1,,,0,0,t,,
+784,fc3c67cd-2a31-4583-b802-dfd81f875fd3,Eric Dampson,#26FF00,,1,,Eric,Dampson,dampsoneric@gmail.com,,7787236304,1,,,0,0,f,,
+593,9cc44079-fa5a-4d5c-ae01-b2538cc9d36a,Kazim Dharamshi,#00FF55,,1,,Kazim,Dharamshi,kazimdharamshi@gmail.com,,6045379679,1,,,0,0,t,,
+679,8e660184-9425-4d15-bb18-de8a8452d989,Chris Cook,#007FFF,,1,,Chris,Cook,chris@palatablecatering.ca,,604-798-4275,1,,,0,0,t,,
+683,a37e0c0e-7148-4091-8708-e4cb8664236c,Aboki Grill Corporation,#7600a0,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 1H2"", ""AddressLine1""=>""504 - 1120 Barclay Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",684,145.47,100.00,f,1,684
+739,c4355159-61c9-49dc-83f2-7c7c06a8e6f6,Test Carnitas,#FF4800,,1,,Test,Carnitas,testcarnitas@gmail.com,,,1,,,0,0,t,,
+744,5162d564-3266-408f-b032-1a8a913b42e9,Reese Acorn,#FF005D,,1,,Reese,Acorn,reese@commissaryconnect.com,,,0,,,0,0,t,,
+592,2db74f04-7766-469a-89db-c4ed26723b02,1078208 B.C. Ltd.,#48FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6A 2P8"", ""AddressLine1""=>""401 Industrial Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",593,0,-538.55,f,1,
+588,faf192fb-00bd-497b-96c5-d612fc49aca8,HK Dessert Ltd.,#FF0090,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6P 0E5"", ""AddressLine1""=>""208-6633 Cambie Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",589,0.0,0.05,f,1,
+732,53a8d99e-00a0-4407-895a-3c0f63ac25e9,Yacine Swann Augustin Oumouchi,#FF00D8,,1,,Yacine Swann Augustin,Oumouchi,yacine@hydrafoodsprojects.com,,236 833 7194,1,,,0,0,t,,
+614,5abe36d6-a3ef-4654-a108-76022ebaa7b3,Eve Jalearnsuk,#04FF00,,1,,Eve,Jalearnsuk,tudtu96@hotmail.com,,6043397884,1,,,0,0,t,,
+740,a0e68f7d-a890-4b61-971a-92fdf9d7ed93,Lakhbeer Singhhh,#FF0022,,1,,Lakhbeer,Singhhh,singhlakhbeer84@gmail.com,,,1,,,0,0,f,,
+666,b99b8f5a-b173-49a4-8661-3fe56810cf81,Jacob Peter Kent,#006AFF,,1,,Jacob Peter,Kent,jakob.kent@outlook.com,,778 896 9779,1,,,0,0,t,,
+861,2a0277f3-df90-40f8-8f5a-e473985a95f7,Kosalia  Shankar,#00DDFF,,1,,Kosalia ,Shankar,kochal.shankar@gmail.com,,6047359951,1,,,0,0,t,,
+560,624f4919-bcba-4bd9-a9de-7370a8248e9e,Ronica Mund,#2EFF00,,1,,Ronica,Mund,ronica@commissaryconnect.com,,,0,,,0,0,t,,
+907,4a3325ad-c456-4f4b-b49e-0e1e37fc7b34,Aamir Khan,#0072FF,,1,,Aamir,Khan,aksaaamirkhan@gmail.com,,236-862-7461,1,,,0,0,t,,
+876,013ad51e-f004-490a-816d-86d7093e9401,Shivani Goyal,#FF0077,,1,,Shivani,Goyal,kashishgarg33@gmail.com,,778-788-3127,1,,,0,0,t,,
+866,440975f4-a30f-456c-aa59-71e13b583976,Jonathan Gaspar,#B600FF,,1,,Jonathan,Gaspar,jongaspar@gmail.com,,604-754-0304,1,,,0,0,t,,
+707,466d570a-01d9-43e2-a6eb-0adcf2dcd183,Sahar Dumyati,#00FF19,,1,,Sahar,Dumyati,sahar.dumyati@gmail.com,,7788750612,1,,,0,0,t,,
+690,66f95e45-612c-4acf-a59a-787e8049b147,Hidetoshi Ozaki,#1500FF,,1,,Hidetoshi,Ozaki,bushido614@gmail.com,,7787121250,1,,,0,0,t,,
+754,fba4a8c0-c984-45eb-b718-ebd1e1aba1c4,Feven Teklay,#FFD400,,1,,Feven,Teklay,feabenteklay@gmail.com,,825-436-0488,1,,,0,0,t,,
+610,539e91da-88d7-4e78-a146-b44a31762bf0,Supplier Supplier,#00FF26,,1,,Supplier,Supplier,oldinfo@commissaryconnect.com,,,1,,,0,0,t,,
+547,338f792e-8de3-4439-aa7f-b67dd18f6a8a,Cake Box ,#FFBF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5M2X1"", ""AddressLine1""=>""3267 E 21st Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",548,0,0.00,f,1,
+786,0cc63373-1437-4abe-8b56-b473e4ce678a,Mike Gromer,#0021FF,,1,,Mike,Gromer,ymgromer@gmail.com,,7782230823,1,,,0,0,t,,
+733,70b9dd44-443a-4cbd-963a-5ad1219f576c,Windstar blind,#E1FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""richmond"", ""PostalCode""=>""V6Z2M9"", ""AddressLine1""=>""windstar"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",734,0,0,t,2,734
+741,349102ec-f5ed-40c3-887c-585d0144089e,test person APril twenty four,#7700FF,,1,,test person,APril twenty four,test@april2024.com,,,1,,,0,0,f,,
+681,619d4712-6e7d-4e1b-ab3f-f05c7f5a957f,Yukan (Nathan) Liang,#00FF4C,,1,,Yukan (Nathan),Liang,lico261314@hotmail.com,,7783190912,1,,,0,0,t,,
+668,16ef7305-78cd-4218-8f52-3661089407a8,Bita Esfahanpoor,#0000FF,,1,,Bita,Esfahanpoor,besf2155@gmail.com,,604 562 7618,1,,,0,0,t,,
+224,ee8501ef-e3ef-4b16-855f-bc0720ed1ff4,To Live For,#ff2f68,286,2,Erin Ireland Enterprises Ltd.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 2V1"", ""AddressLine1""=>""1979 Charles St."", ""AdministrativeDistrict1""=>""BC""",448,0,362684.1825,f,1,
+125,3517d0b9-314f-44a2-ac7c-9f06c12d7f9b,Planted Meals,#5A967E,143,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6B 1T7"", ""AddressLine1""=>""2603 - 928 Homer Street"", ""AdministrativeDistrict1""=>""BC""",377,0.00,869425.9600,f,1,
+734,e5271059-d6b7-49a4-bc1e-8c952583e1a7,windstar windstar,#00FFA9,,1,,windstar,windstar,windstar@windstar.com,,,1,,,0,0,t,,
+692,4ac15c8b-29a5-407c-be4b-73854d64261f,Cesar Rodriguez,#FF3700,,1,,Cesar,Rodriguez,tamalesmexicanosvan@gmail.com,,6048419031,1,,,0,0,f,,
+669,0fbc5631-e2c2-4620-a9b1-27d3927b372e,Mandeep Singh,#C3FF00,,1,,Mandeep,Singh,accounting@commissaryconnect.com,,,1,,,0,0,f,,
+825,557e40f6-93a3-4c6b-b661-a4579b6ea583,Divya Talasani,#00FFC3,,1,,Divya,Talasani,dtalasani1998@gmail.com,,2368650919,1,,,0,0,t,,
+709,1ff0ad34-51af-4488-82ef-577818c87619,Picard Yiu,#FF0094,,1,,Picard,Yiu,picard@tochidesserts.com,,778-995-3216,1,,,0,0,t,,
+756,ecb409f5-c367-4fd0-841b-ff695991e6a0,Johan Ordonez,#00E5FF,,1,,Johan,Ordonez,johanoc4@hotmail.com,,236-838-4703,1,,,0,0,t,,
+743,39e94e50-98ba-4603-b715-6f6da4e7e5f6,Maureen Lai,#FF0022,,1,,Maureen,Lai,bagelday.bakehouse@gmail.com,,778-668-7999,1,,,0,0,t,,
+851,16276428-1c52-47e2-98fd-0dd168ce45cd,Ian Rugbeer,#10FF00,,1,,Ian,Rugbeer,ian@commissaryteam.testinator.com,,,1,,,0,0,t,,
+848,4c69bbb9-a749-4d4a-b839-70ef388d6b0f,Test Company 1 Mar 21 ,#DCB4F7,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""British Columbia""",849,0,1.05,f,1,849
+722,098b7845-63c2-4e53-a02b-4e4489b1b654,Xandria Anastacio,#FFA100,,1,,Xandria,Anastacio,luluburger.yvr@gmail.com,,778-389-6514,1,,,0,0,t,,
+788,c381ab13-0771-47a6-b5dd-7fbdb4781490,Andrea Mojica,#9D00FF,,1,,Andrea,Mojica,andrea.mojica.gz@gmail.com,,7786824803,1,,,0,0,t,,
+558,0593a9a0-08a7-4125-bd91-07576fa28b25,Fraser Valley Artisans Food Hub Inc.,#3F00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>"" Abbotsford"", ""PostalCode""=>"" V2S 2G2"", ""AddressLine1""=>""2570 Cyril St, "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",559,0,35700.0,t,3,559
+711,fd8f086e-2ff3-4547-892c-5fa8ff65cb7c,Hashman Bains,#04FF00,,1,,Hashman,Bains,hashmankaurbains@gmail.com,,604-353-6630,1,,,0,0,t,,
+644,5d7e8156-2806-4f0c-9627-ec9335cd1128,Maintenance Not Staff,#FFB600,,1,,Maintenance,Not Staff,tempemail3@commissaryconnect.com,,,1,,,0,0,t,,
+671,517322c9-3def-4df9-a7fe-233538535dbd,Hamid Karimi,#00FF4C,,1,,Hamid,Karimi,hamidrezakarimy@gmail.com,,647 740 4546,1,,,0,0,t,,
+736,dcc7a51c-599f-457d-b36b-9a1d2cbb2a01,Paul Ebin Divakar,#00FF90,,1,,Paul,Ebin Divakar,ebin@mommysplanet.com,,672-971-3070,1,,,0,0,t,,
+790,e030cb3a-fa2e-4b13-9831-cd4a8234fdf2,Amandeep Kundi,#0000FF,,1,,Amandeep,Kundi,amandeepskundi@gmail.com,,,1,,,0,0,t,,
+721,b9ab7be3-e633-46e4-bb7d-2bdbbd3a5fdb,Buku Foods Inc. (dba Lulu Burger),#ffad00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7C 2J3"", ""AddressLine1""=>""4980 Larkspur Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",722,0.00,0.00,f,1,722
+862,993192da-549c-4c87-8d86-dabcf193eb08,Andrew Yong,#FF00E9,,1,,Andrew,Yong,andrew@tochidesserts.com,,,1,,,0,0,t,,
+849,45dcafe9-0923-44f8-860c-a3612283d0fc,John User,#FFAA00,,1,,John,User,john@commissaryteam.testinator.com,,,1,,,0,0,t,,
+250,52a13612-e933-4c43-84c4-2aba7e1126db,Thomakis Yogurt,#2acb06,313,2,Thomakis Yogurt,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7A 5K4"", ""AddressLine1""=>""29 - 7171 Steveston Highway"", ""AdministrativeDistrict1""=>""BC""",465,0,194986.4630,f,1,
+877,f4f6ae7c-c99e-48c5-bf74-6ecf1e7c616a,Geoffrey Shmigelsky,#9DFF00,,1,,Geoffrey,Shmigelsky,jeff@commissaryconnect.com,,,1,,,0,0,t,,
+791,8495a985-3a37-4ddc-b37d-ece266f2d1be,Carnitas El Rolys - Credit card Payment,#FF7F00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6J 1N5"", ""AddressLine1""=>""1605 West 5th Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",792,0,6000,t,3,792
+737,ae54bb0c-3913-483d-a011-81e43d73a4fc,Sugar N Zest Cake Studio Ltd. ,#ffa0da,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6L 2J2"", ""AddressLine1""=>""4818 Narvaez Drive"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",738,0,0,f,1,
+648,8bceb5bb-9b36-438d-9aef-2982163da797,Yoyo Kitchen (1304239 B.C. Ltd.),#7ad7ff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X 0L3"", ""AddressLine1""=>""107-10155 River Drive"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",649,1437.50,5538.75,f,1,649
+792,74bca72b-62b5-455d-8fae-6c7bdd8a0276,Victor Hugo,#FF8800,,1,,Victor,Hugo,carnitaselrolys@gmail.com,,,1,,,0,0,t,,
+223,1798188f-0804-4829-b5ae-ece1e34bd573,Tamaly Shop,#385d80,285,2,Welcome Travel Accommodation Ltd.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z 3C1"", ""AddressLine1""=>""939 Beatty Street"", ""AdministrativeDistrict1""=>""BC""",447,0.00,99406.9390,f,1,
+724,5ffb54c6-76cc-4ba1-9488-a326372f5143,Cesar Gomez,#9DFF00,,1,,Cesar,Gomez,lasautenticas604@gmail.com,,604-862-5951,1,,,0,0,t,,
+793,620d8406-8218-4fa0-bf15-d4c7ca5772fe,Victor (personal email) Hugo,#00FFA9,,1,,Victor (personal email),Hugo,vicbigbrother@gmail.com,,,1,,,0,0,t,,
+738,fef654d9-6f2c-4bd4-bca6-5c83479ec84c,Sanaz Vosough Ghanbari,#FF0043,,1,,Sanaz,Vosough Ghanbari,svosough237@gmail.com,,604-401-6170,1,,,0,0,t,,
+758,a961232c-e4b1-4761-ab04-cdbb99bb03ce,GreenHut Whole Foods Eatery,#FFE900,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5K4W1"", ""AddressLine1""=>""2920 Yale St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",759,84.54,0.00,f,1,759
+578,d2ff768c-578b-4cf7-bdd1-dd7341aba272,MJO Solutions Ltd. (dba Sweet Fruit),#FF8800,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5X 0E2"", ""AddressLine1""=>""2608-8131 Nunavut Lane"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",579,517.5,0.00,f,1,579
+726,41cd6d8a-7950-4b05-946d-3665c098fdeb,Corrie David,#3BFF00,,1,,Corrie,David,corrie.david@yahoo.com,,7789530330,1,,,0,0,f,,
+748,db2061c8-b01b-463b-9dde-8ec69bce7868,Venkat Avinash Inturi,#6A00FF,,1,,Venkat,Avinash Inturi,downtowndosas@gmail.com,,604-362-8006,1,,,0,0,t,,
+621,576e3704-14ed-42e1-93ce-203e5e085862,Little Vide ,#00BFFF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V9X 0H3"", ""AddressLine1""=>""915-455 SW Marine Drive  "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",622,0.0,0.00000000000000000,f,1,
+693,68ebbcc6-ec52-4058-937f-24968efb3485,OSEA INTEGER SERVICES Inc.,#d86603,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V4N6V1"", ""AddressLine1""=>""19243 71st Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",694,0.00,0.00000000000000,f,1,694
+749,8942ece4-4904-40f5-b92e-14ff4fb7ea8e,Karan Suri,#0000FF,,1,,Karan,Suri,ksuri@aw.ca,,,1,,,0,0,t,,
+703,91f747fc-ac81-42d1-b81e-7ad87def6bc9,Enat's Kitchen Inc.,#268301,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6M 3Y8"", ""AddressLine1""=>""5926 Yew Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",704,0,3.13,f,1,704
+728,24a0f1b3-3a0e-406d-84f6-3fb98c84c441,Normand Auclair,#00FFDD,,1,,Normand,Auclair,chiefstormin@hotmail.com,,6047239135,1,,,0,0,t,,
+584,a22afa2c-bddc-4a37-89a3-596096f7ff16,Not Your Average Meals Inc.,#00FF2E,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X 2N6"", ""AddressLine1""=>""1049 E 64TH AVE"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",585,0,-1789.70,f,1,585
+751,f38fbdc6-1200-4e22-aa0f-df4af58ff56d,Shayna Alvarez,#FF9400,,1,,Shayna,Alvarez,shayna.nual@gmail.com,,6047865817,1,,,0,0,t,,
+827,402c0ffe-f2ed-4b5e-85a3-dede29935054,Melissa  Caceres,#00FF3F,,1,,Melissa ,Caceres,lajefa.churromobilehouse@gmail.com,,7786974229,1,,,0,0,t,,
+650,0e0fc476-b905-4580-a56f-0dcd531d825e,Lite Bite (1439089 B.C. Ltd.) ,#00AEFF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X 0L3"", ""AddressLine1""=>""107-10155 River drive"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",651,2501.25,4460.45,f,1,651
+613,2dcb68af-e7b7-4263-887c-54a9ab8601c0,KFZEE,#005DFF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""North Vancouver "", ""PostalCode""=>""V7J0E3"", ""AddressLine1""=>""402-1550 Oxford St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",614,0.00,0.00,f,1,614
+220,e882e25c-d9db-4550-ac9f-74266c588891,The Cranky Old Fork,#7a09a2,280,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""New Westminser"", ""PostalCode""=>""V3L 3V7"", ""AddressLine1""=>""5 - 119 East Columbia St."", ""AdministrativeDistrict1""=>""BC""",445,0,174802.3575,f,1,
+730,3682d58f-63ae-4de2-806e-38ae4e4e47b1,Heather Kang,#FF2600,,1,,Heather,Kang,merrygoroundcake@gmail.com,,7786805133,1,,,0,0,t,,
+752,a615e9ee-48be-42ad-b9e7-0b13e68d2b02,Roy M,#FF3200,,1,,Roy,M,roy@mochidoyvr.com,,,1,,,0,0,t,,
+497,9bdf197d-aadd-4dc3-bf4b-89ace63a0e26,Ramesh Rugbeer,#00FFB2,,1,,Ramesh,Rugbeer,rameshrug@gmail.com,,2222222222,1,,,0,0,t,,
+667,153ce82c-4cef-4980-89e4-e14c18f9e857,Persian Taste,#93ffce,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5H3W4"", ""AddressLine1""=>""6658 Randolph Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",668,0.0,2840.42,f,1,668
+729,5d77fb2e-4a70-4888-a8ce-2b332f3ac627,Venkat Avinash,#005DFF,,1,,Venkat,Avinash,venkat@commissaryconnect.com,,,1,,,0,0,f,,
+292,c8a7574b-f91d-4db4-a0d8-31912d9f2780,Konscious Food Canada Inc.,#2bc827,363,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6V 3C7"", ""AddressLine1""=>""23220 Fraserwood Way"", ""AdministrativeDistrict1""=>""BC""",481,1000,78381.45,f,1,
+753,016fd236-5e21-4454-b92f-bf1d6c0c9e60,Milen Injera Ltd.,#e4a033,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V3N 3B7"", ""AddressLine1""=>""100-7434 Kingsway"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",754,0,164.79,f,1,754
+167,fb6ca15e-2c0c-4728-81d8-5adf737c9b0f,Kirin Fine Foods Ltd.,#F06509,204,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""170 - 1991 Savage Road
+Richmond, BC  V6V 0A4"", ""AdministrativeDistrict1""=>""""",407,11072.03,725175.3685,f,1,407
+231,4f82cba5-7b92-4aa7-8802-c7330db4b28f,Manual test,#c0e56f,294,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",799,0,887.00,f,1,799
+611,012f06f6-f448-4265-ab08-371d06c7c991,OHME! FOODS INC.,#BF00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7A1H2"", ""AddressLine1""=>""10 - 9680 Williams Road "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",612,0,315.00,f,1,612
+2,51ec1dd9-8997-4a39-aa24-bd47691d8101,Commissary Connect (inactive),#bb1e1e,,2,,,,,,,,,482,0,14.3045,f,3,
+745,f6a8f556-6c7a-477e-99b8-965af5e857e6,1410177 B.C. LTD (dba Dr Freeze),#0037FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5P 1A3"", ""AddressLine1""=>""1754 E 34th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",746,0.0,-1701.33,f,1,746
+514,c4b22107-c87a-406a-adc0-67fc3a29d7b2,Ensaimada Moment ,#FF003F,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Delta"", ""PostalCode""=>""V4C0B1"", ""AddressLine1""=>""37-10415 Delsom Cr, "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",515,315.76,394.8000,f,1,
+635,7d06ff4a-ff1a-4839-adb4-81bdc89ec49f,Cukkoos Deli ,#BF00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7A2W5"", ""AddressLine1""=>""303 - 10951 Mortfield Road "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",636,0.00,0.00,f,1,636
+190,80be3022-c04b-4c5a-9119-b477601119ce,"Ministry of Advanced Education, Skills &",#C8DE0F,249,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""""",,0,3760.00,f,1,
+516,b91fe084-fa02-450b-ae96-71751ae01c0f,Topnotch,#FF3F00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5P 1B7"", ""AddressLine1""=>""1941 East 35th Ave "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",517,0,2400.910000000000002,f,1,
+492,20ee2cfa-926c-4790-a6bb-17b6bf7e11e8,Rammie's Carts 2,#FF2A00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""British Columbia""",493,0,42.00,f,1,
+242,bfeef320-fd5f-453d-bfd0-6c58be414e74,Salty's Lobster Shack,#60cd69,305,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6M 2K4"", ""AddressLine1""=>""1391 W. 46th Ave."", ""AdministrativeDistrict1""=>""BC""",508,0.0,47762.2600,f,1,
+283,95d9087f-8dd6-4a05-b8dc-0a7123dfcdd9,Waffled,#7e8f0c,354,2,Anna Abueg,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7E 2H4"", ""AddressLine1""=>""10951 Gilbert Road"", ""AdministrativeDistrict1""=>""BC""",494,0,14376.2925,f,1,
+502,30f4eb17-5701-4f21-a1ca-c0450de2c751,Rammie's Carts 3,#00FF87,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""British Columbia""",503,0,4.20,f,1,
+148,d8a483a7-5dc9-4282-94ad-5ab7a2b9e931,Flourgirl Baking,#199AF8,173,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""1352 West 57th Avenue
+Vancouver, BC V6B 1S6"", ""AdministrativeDistrict1""=>""""",393,0,53239.7735,f,1,
+850,df13d59d-4db5-463e-a7a2-223b6034529e,Test Company 2 Mar 21,#F47C93,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""British Columbia""",851,0,1.05,f,1,851
+879,71d0c51b-5b9c-4970-949b-f2f878a5c63e,Zhang Jia Jue,#FF0026,,1,,Zhang,Jia Jue,vivianzhangsw@gmail.com,,6047892383,1,,,0,0,t,,
+868,527966c3-a28d-4f0f-855e-a76fa13fd10d,Astha Singh,#00FF1D,,1,,Astha,Singh,asthasingh1166@gmail.com,,6723382373,1,,,0,0,t,,
+498,4fe637e9-beb0-4813-9484-f45bcec688a6,Aneva Sugar Fairy,#FF7700,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V3N 0C3"", ""AddressLine1""=>""105-7655 Edmonds st "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",499,0,441.00,f,1,
+247,30cae821-8c30-4aca-ac11-805343bb22a9,Niche Creamery (Ltd.),#321e02,310,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5R 4L6"", ""AddressLine1""=>""5860 Tyne St. "", ""AdministrativeDistrict1""=>""BC""",463,0.00,66051.0780,f,1,
+504,71814b01-7053-4e30-beb9-9476c6bed465,Kaiju - November,#00C7FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z2M9"", ""AddressLine1""=>""602-1212 Howe Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",505,0,0.00,f,1,
+284,181b38c4-93bc-4d69-af91-2ef74ce7a9fb,North Side Fresh,#911436,355,2,Arturo Garcia,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5N 3H9"", ""AddressLine1""=>""2938 Clark Dr."", ""AdministrativeDistrict1""=>""BC""",,0,13860.00,f,1,
+279,16b71507-f685-4e2c-985f-b686f763cb5c,Disco Biscuits,#6ac2f4,350,2,John-Morgan Rice,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 1G5"", ""AddressLine1""=>""1075 Barclay St."", ""AdministrativeDistrict1""=>""BC""",477,0.00,18289.8525,f,1,
+150,a92505cf-20b7-4ca8-848b-e9e1e5b3401c,Overland Sandwich,#0F870E,185,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5M 1Z7"", ""AddressLine1""=>""3187 East Broadway"", ""AdministrativeDistrict1""=>""BC""",395,0.0,89690.025,f,1,
+124,2a86ae51-6da4-423a-bc24-3c0d579f2e01,AlgaBloom,#DCA0B9,142,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6K 2G9"", ""AddressLine1""=>""12 - 9420 Ferndale Road, Richmond, BC  V6Y 0A7"", ""AdministrativeDistrict1""=>""BC""",376,0,39166.4420,f,1,
+288,42632cc0-92cd-4fab-8bcb-05017957dcfb,Tasty Ventures Ltd.,#195078,359,2,Ignacio Soria,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5T 1P2"", ""AddressLine1""=>""770 East 7th Ave"", ""AdministrativeDistrict1""=>""BC""",,0,44098.4165,f,1,
+5,ab37b3a4-1f81-47c7-9ecc-522f5da38dfc,Cookies of Course,#FF7E00,3,2,Cookies of Course,,,,,,,"""Country""=>""CA"", ""Locality""=>""Port Moody"", ""PostalCode""=>""V3H 0E2"", ""AddressLine1""=>""409 - 121 Brew St."", ""AdministrativeDistrict1""=>""BC""",295,0,212743.9290,f,1,
+496,35cdee5c-cbcf-43f8-b769-0ac73625261c,Kaiju,#2E00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""fdsfa"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""British Columbia""",497,0,504.00,f,1,
+189,164248e4-bd12-433c-b2cb-35bc8ee4d87a,Cinco Estrelas Catering,#A713E2,245,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""1496 East King Edward Ave."", ""AdministrativeDistrict1""=>""BC""",424,0.00,100253.3550,f,1,
+272,141eee79-5a5d-4b50-b0f2-412d205961d7,KaonTaChicken,#dc4d00,343,2,Armor Valor Corrales,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X 2A6"", ""AddressLine1""=>""1275 E 60th Ave"", ""AdministrativeDistrict1""=>""British Columbia""",474,86.87,71871.8075,f,1,
+500,689f8997-58b1-4e40-a219-503346d85e10,Commissary Connect Innovations,#99FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z2M9"", ""AddressLine1""=>""602-1212 Howe Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",501,1.233,16.80,f,1,
+251,8dc7c545-3e70-474c-b020-dcde157e912f,Sauce Club,#291cbe,314,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 1V9"", ""AddressLine1""=>""34 784 Thurlow St"", ""AdministrativeDistrict1""=>""BC""",466,0.00,50462.8130,f,1,
+229,1abcbb6a-ef3d-448a-931d-e355619a97cc,Van Gohan,#6dc590,292,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5N 4X8"", ""AddressLine1""=>""2770 Garden Drive"", ""AdministrativeDistrict1""=>""BC""",451,0.00,35196.9355,f,1,
+600,db704c59-1465-4182-82d7-7dfe623d6a2b,Alexandre  Bagard,#D0FF00,,1,,Alexandre ,Bagard,alexandre.bagard@hotmail.fr,,7788075493,1,,,0,0,t,,
+78,ab918005-ae38-46a9-9914-4a62e890f86b,Goodly Foods Society,#121F8C,89,2,Goodly Foods Society,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>""107 - 1188 Laurel St."", ""AdministrativeDistrict1""=>""BC""",512,6742.57,945115.1770,f,1,
+44,13849036-90d6-4753-afed-fae851094986,Sophy's Kitchen,#280C78,44,2,Sophy's Kitchen,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5B 2G4"", ""AddressLine1""=>""5868 Charles Street"", ""AdministrativeDistrict1""=>""BC""",312,0.00,157290.1010,f,1,
+599,c80135b5-7f7d-44bc-bc90-2774602662b8,La Kaz A Samoussas,#FF9900,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6K 2B9"", ""AddressLine1""=>""2-2890 W 8th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",600,546.25,0.00,f,1,
+602,cf4497a1-a7f6-4a5e-a3a6-4b32b985f33a,Rodrigo Davila,#B6FF00,,1,,Rodrigo,Davila,rdavila.bonapp@gmail.com,,7787854386,1,,,0,0,t,,
+280,b8ef26a8-d428-448a-84fc-5ebc14fa1f75,Vante Desings,#28f960,351,2,Natascha Wimmer,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E4K2"", ""AddressLine1""=>""1060 Alberni Street"", ""AdministrativeDistrict1""=>""BC""",,0,12337.7605,f,1,
+293,d3a911b1-448f-4200-908d-1b9bd39e05cd,Las Autenticas Tacos & Tortas Ahogadas    ,#135cef,364,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 1N5"", ""AddressLine1""=>""1605 West 5th Avenue "", ""AdministrativeDistrict1""=>""BC""",,0,0.00,f,1,
+282,9e952253-ceac-4c53-ad1a-25450e2b07aa,Nafas,#871b0c,353,2,Tahini Alkashef,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 4R6"", ""AddressLine1""=>""807 - 1128 Alberni St."", ""AdministrativeDistrict1""=>""BC""",479,0,42417.6095,f,1,
+274,5d23b1dd-98e8-4b5c-b3c6-b1275a6fe6d1,Huang,#16bf8d,345,2,Xinran Huang,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>"""", ""AddressLine1""=>""5328 Springdale Crt"", ""AdministrativeDistrict1""=>""BC""",491,0.0,21826.9895,f,1,
+121,b3dcb4bb-9afd-492e-9629-1767012c6c08,Kaiju Carts,#F62E99,139,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Port Moody"", ""PostalCode""=>""V3H 0B2"", ""AddressLine1""=>""406 - 160 Shoreline Circle"", ""AdministrativeDistrict1""=>""BC""",374,0,52810.4325,f,1,
+264,dac220ca-16fe-45e2-b5ea-8c543a0516d2,Tango Foods,#86b3a5,329,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""BC""",471,0,31710.4160,f,1,
+281,dfec8c41-63fd-4b8e-9b3a-6c52fc97979e,First Course Foods Inc,#752727,352,2,Camille Youz Hunt,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6E 4P5"", ""AddressLine1""=>""2905 - 1166 Melville St."", ""AdministrativeDistrict1""=>""BC""",478,0,7465.5655,f,1,
+278,23268875-f86e-4f52-a2b6-5cb6ceef6c71,Lil Willy's Waffle House,#2a836b,349,2,Tommy Tran,,,,,,,"""Country""=>""CA"", ""Locality""=>""Port Coquitlam"", ""PostalCode""=>""V3C6K2"", ""AddressLine1""=>""1245 Confederation Drive"", ""AdministrativeDistrict1""=>""BC""",476,0,35925.7815,f,1,
+483,be5fce13-9450-49a3-8fc6-05edd0b54e6f,Reno Maple Home Inc,#749263,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6G 3E9"", ""AddressLine1""=>""1401 - 560 Cardero St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",484,2383.24,12996.2070,f,1,
+809,919f70c1-4e46-4ea8-a628-0a1b0eaab64c,test user,#61FF00,,1,,test,user,testuser@hotmail.com,,,1,,,0,0,t,,
+566,ea089ee6-14e7-4d07-93aa-34aa406288a5,Baiana,#00FF6A,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Z3G7"", ""AddressLine1""=>""301-5688 Ash Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",567,0.0,0.00,f,1,
+290,19b5ea8f-39a2-4fdd-a254-f9204caaf146,Fridalia Fonda Foods,#6f3cae,361,2,Roberto Bernal Uribe,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5E2H7"", ""AddressLine1""=>""7873 Goodlad Street"", ""AdministrativeDistrict1""=>""BC""",480,0.00,62137.7075,f,1,
+723,40abc4d6-388b-48a7-8d31-ec21480e52fe,Las Autenticas,#7200FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6B 3E6"", ""AddressLine1""=>""2110 - 1188 Richards St,"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",724,0,24029.96,t,3,724
+553,4ffa0eea-d916-4c24-890e-ca760052052a,Antonio's Bakery,#00FF59,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L1K2"", ""AddressLine1""=>""310-2345 Dundas Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",554,0.00,1094.0040,f,1,
+574,a16cc40e-bee8-4b61-880a-ceb48a41781a,Passionate Delights,#9DFF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey "", ""PostalCode""=>""V3T5M8"", ""AddressLine1""=>""13367 98 Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",575,0.0,-59.66,f,1,
+526,f859f7fb-39c8-4fe5-bfdb-8be50e5c8db7,4 Migos Nachos,#FF7F00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7C 4Z6"", ""AddressLine1""=>""5233 Turquoise Drive"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",527,0.00,4225.3785,f,1,
+523,e4daf95e-ab74-4e90-9489-70a39c6225f3,PANCHO PISTOLAS FOOD SERVICES LTD. ,#7ed321,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6N 2L6"", ""AddressLine1""=>""4085 West 34th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",524,0.0,73211.25,f,1,
+710,d9baaec6-3ba6-4163-8ed1-f4a14b4808e6,Bains House,#000000,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""White Rock"", ""PostalCode""=>""V4B2P9"", ""AddressLine1""=>""15321 Russell Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",711,0,2520.00,f,1,
+260,258f41a1-12da-4b5a-aa43-6e579215ac47,"Komo Plant Based Comfort Foods, Inc.",#e45737,324,2,"Komo Plant Based Comfort Foods, Inc.",,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>"""", ""AddressLine1""=>"""", ""AdministrativeDistrict1""=>""BC""",557,1500,128446.95,f,1,
+619,a39c1e3c-db79-4906-8c1f-39efa148ee55,1388418 BC ( CART),#FF00F6,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V5C 5Z4"", ""AddressLine1""=>""Apt. 306"", ""AddressLine2""=>""4353 Halifax Street "", ""AdministrativeDistrict1""=>""BC""",620,0,-3114.13,f,1,
+542,d024d2af-d932-4334-9924-95c1cbb0dd9d,Fun Waffle Co.,#00BBFF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5T 1S9 "", ""AddressLine1""=>""102-577 East 8th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",543,0,1942.5105,f,1,
+294,f73f3c3c-cdb4-4b4d-baad-e3cdb9229ef5,Flour Dance Bakery ,#5f2020,365,2,Qian Zeng,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X 0T7"", ""AddressLine1""=>""87-1019 River Road"", ""AdministrativeDistrict1""=>""BC""",488,0.00,41383.6910,f,1,
+172,f84c96b9-0793-487b-aa7f-c2a1c9e33772,Tasty Delight Cuisine,#D792E5,210,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 4C3"", ""AddressLine1""=>""3791 Alexandra Street"", ""AdministrativeDistrict1""=>""BC""",412,0.00,86127.7535,f,1,412
+536,c04e5144-f643-4657-b287-448eccd33800,Bamon's Kitchen Limited ,#FF0098,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5C4B1"", ""AddressLine1""=>""1101-4250 Dawson Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",537,0,90557.4605,f,1,
+519,f6636480-26d8-4a93-9934-186b91c0f77d,Milkywaypastry Inc. ,#a9a8a5,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6Z 2S8 "", ""AddressLine1""=>""1188 Howe St. Unit 1707 "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",520,0.0,16791.3850,f,1,
+563,327b5e1b-8b4f-4fb1-af6b-82d8265477d0,Auntie Enterprises Inc. ,#50e3c2,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6R4R8"", ""AddressLine1""=>""Unit 262-4481 West 10th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",564,0,2835.00,f,1,564
+609,65463efd-b4c6-421e-a75e-d63f730e6144,Commissary Connect - supplementary ,#94FF00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""burnaby"", ""PostalCode""=>""v2b4tf"", ""AddressLine1""=>""hfk"", ""AddressLine2""=>""lakldjlk"", ""AdministrativeDistrict1""=>""BC""",634,0,2.24,t,2,634
+640,412f744e-bc61-48bb-8c45-e91b92e890d7,Orb & Co.,#ffd9e6,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V5C0K6"", ""AddressLine1""=>""3212-1955 Alpha Way "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",641,94.11,5670.00,f,1,641
+580,86fd6ea2-67ff-4e90-a1f2-666c01577e38,MEALS AND GRILLS FOOD AND ENTERTAINMENT CORPORATION,#FFAE00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""VANCOUVER"", ""PostalCode""=>""V6R 2G4"", ""AddressLine1""=>""103-3760 WEST 10TH AVENUE"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",581,0.0,1155.00,f,1,
+673,049d5ea8-5403-4c26-bdcb-844ed1bc31f7,Portokali Shop Ltd.,#ffbfff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6B0C7"", ""AddressLine1""=>""#2307 788 Richards Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",674,690,241.33,f,1,674
+828,f7c1d202-30f1-4463-902f-3fbd9fea82a0,Ramesh Rugbeer,#FF003B,,1,,Ramesh,Rugbeer,rammie@comespin.ca,,1111111111,1,,,0,0,f,,
+676,e320444d-0380-429d-8bd2-f8323d412848,Sweet Moment (dba Hoolala Chicken Cafe),#00ffd4,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V3J 0M2"", ""AddressLine1""=>""#2502 - 3833 Evergreen Place"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",677,0.00,0.00,f,1,677
+540,c636a1ca-9336-47e5-94eb-eb2f8197ae06,Fungitude Canada Inc.,#e6c79c,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Port Moody "", ""PostalCode""=>""V3H 0J3"", ""AddressLine1""=>""503-2525 Clarke Street "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia """,541,0.0,2362.5105,f,1,541
+869,981adb76-4938-40f1-b0d6-5cd42a1c1680,emp1 test,#00A5FF,,1,,emp1,test,test@geemail.com,,,1,,,0,0,t,,
+697,4405d178-3455-47c6-bbbe-01274ae2fa47,Luca Restaurant Ltd.,#ffcf57,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5J1E3"", ""AddressLine1""=>""105-5155 Imperial Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",698,0,-111.01,f,1,698
+179,735a1816-a16e-48f3-9cc7-17cb3b699fe3,The Stubborn Baker,#EF3F1E,233,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 4X4"", ""AddressLine1""=>""107"", ""AddressLine2""=>""1590 West 1st Ave."", ""AdministrativeDistrict1""=>""BC""",418,0.00,96149.4135,f,1,418
+706,092a1eef-0d8e-448d-a6fc-c85b5053b6f1,Tawlet Sitteh,#f00003,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6P3K7"", ""AddressLine1""=>""7059 Ash Crescent"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",707,0.00,0.00,f,1,707
+532,02126355-0d54-418e-886f-1409f2601991,Linton's Kitchen,#FF7B00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3R 1W6"", ""AddressLine1""=>""Unit 112 - 10748 Guildford Drive, Surrey, BC, V3R 1W6"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",533,690,3150.00,f,1,533
+883,5f0c0f54-1cee-4b08-9e59-dcd1e1c1e4f0,Ashley Dodd,#FF4300,,1,,Ashley,Dodd,ashleypdodd@gmail.com,,778 385 3415,1,,,0,0,t,,
+853,23cef882-9dd0-4027-a988-25e97ddaa324,Ron Hamlett,#0021FF,,1,,Ron,Hamlett,contact@accomplibakery.com,,6043461845,1,,,0,0,t,,
+238,299bb326-a5bd-442c-bc65-b0cdd4f195f4,Mission Community Skills Centre Society,#a64872,301,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Mission"", ""PostalCode""=>""V2V 1G5"", ""AddressLine1""=>""#209 - 33123  1st Avenue  "", ""AdministrativeDistrict1""=>""BC""",455,0,206195.5475,t,3,455
+811,3454daeb-1fef-4d85-86ff-7fcbb6ec9207,Cheryl Yip,#5DFF00,,1,,Cheryl,Yip,floralicious.cake@gmail.com,,6047002611,1,,,0,0,t,,
+858,3e636a0e-797a-489e-975a-5d7d76cd1b9b,LiChang Food Ltd,#e087db,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>"" Vancouver"", ""PostalCode""=>""V6T 1S9"", ""AddressLine1""=>""1722 Allison Rd,"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",859,5175,0.000000000000000,t,1,859
+680,374c9178-f4e1-4724-b990-64d7ef95ade4,Half and Half Fusion Cuisine (1452740 B.C. Ltd.),#000000,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6P 3V9"", ""AddressLine1""=>""2-8080 Francis Road"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",681,0,6142.502,f,1,681
+829,7c0ac1ba-727c-40e9-bfbb-16f176963517,Test User,#0800FF,,1,,Test,User,test@gmail.com,,,1,,,0,0,t,,
+789,8d334280-d8cc-49de-baee-936da7ff86bc,Pureprep Kitchen Ltd,#0C00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey "", ""PostalCode""=>""V3X3 X3"", ""AddressLine1""=>""13057 57B Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",790,0,-21000.00,t,3,790
+803,0dde37c7-e293-4f99-b9cc-2cef5183fbc2,Connie's delivery pick up,#FF4800,,1,,Connie's,delivery pick up,conniee.wu96@gmail.com,,,1,,,0,0,t,,
+881,73dc1cb9-bf0c-4c48-b2ab-274609a7d5a4,Melissa Yeung,#FF00FA,,1,,Melissa,Yeung,melissa1881@gmail.com,,604 783 3938,1,,,0,0,t,,
+660,edc60c26-3c47-48df-a27c-acc134d55130,Surrey Commissary Kitchen Ltd,#FF0050,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey "", ""PostalCode""=>""V3S 2B9 "", ""AddressLine1""=>""#104 – 15300 68 Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",812,0,49763.42,t,3,812
+638,735efebf-ec9d-421b-91d8-a1610201f28e,Montano's Food,#777a00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X 1Z3"", ""AddressLine1""=>""10155 River Dr"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",639,447.23,-1.60,f,1,639
+538,c2fa83a6-85aa-47bf-b50a-f948ae3f214b,1388418 B.C. Ltd. (dba Wrap Em' Up!),#FF00EE,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5C5Z4"", ""AddressLine1""=>""Apt no. 306 - 4353 Halifax Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",776,0.00,9025.716000000000000,f,1,776
+164,6d55128d-a1f9-4847-be44-fd6196166a55,Jjanga Foods,#0667CD,201,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>"""", ""PostalCode""=>"""", ""AddressLine1""=>""50 - 2423 Avon Place
+Port Coquitlam, BC"", ""AdministrativeDistrict1""=>""""",404,1908.65,108535.9460,f,1,404
+782,1ded153d-3111-4522-a1bb-f16ef809400d,Astha Singh,#00FF1D,,1,,Astha,Singh,info@commissaryconnect.com,,6723382373,0,,,0,0,t,,
+805,8004ac2c-43a5-4779-a829-e38fafb1eb00,Moet Nozaki-Lee,#FFA100,,1,,Moet,Nozaki-Lee,moetnozaki@gmail.com,,604-782-4660,1,,,0,0,t,,
+814,a45ab5c0-0a07-473f-b1b6-b51f1ad6ee67,Home Cocina Colombiana,#f3aeda,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J 1N5"", ""AddressLine1""=>""1605 west 5th Avenue Vancouver BC"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",817,0,5656.83,t,1,817
+815,da66dbc1-cd6e-4a86-b775-77e4dae16520,Laura Retavizca Mark Badillo,#C700FF,,1,,Laura Retavizca,Mark Badillo,home.oldcocinacolombiana@gmail.com,,604-763-4637,1,,,0,0,f,,
+892,8f6f1e3f-c6f7-4b0b-8eb9-2eba9711a776,Luminoso Cafe Ltd.,#014CB3,,2,Luminoso Cafe Ltd.,,,,,,,"""Country""=>""CA"", ""Locality""=>""North Vancouver"", ""PostalCode""=>""V7N 2V9"", ""AddressLine1""=>""217 W Rockland Rd"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",893,1178.75,0.00,t,1,893
+654,edbe00f6-17e9-45e3-a43c-29c7e9e180d3,Uzbek Cuisine Inc. (dba Tashkent),#00419c,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6L 0C4"", ""AddressLine1""=>""330-4288 Yew St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",655,0.0,11088.00,f,1,655
+831,d83e37f0-0a21-46b2-a7a7-07e1f026027e,Quang Cao,#00FF43,,1,,Quang,Cao,chad@allfat.ca,,,1,,,0,0,t,,
+837,b003f698-3380-4a4e-b432-518d6eafcf6f,Ashley  Nand,#00FFAE,,1,,Ashley ,Nand,ash@coolwings.com,,7788299186,1,,,0,0,t,,
+43,7b82faa4-95fa-4c00-b5df-e1258b6d633c,Commissary Connect Administration,#d0021b,42,2,Commissary Connect Administration,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6A 2P8"", ""AddressLine1""=>""417 Industrial Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",311,0,33890.4505,t,0,
+896,87d6d708-9999-4dd5-9c73-255413518836,Delivery Driver,#00FAFF,,1,,Delivery,Driver,143@gmail.com,,,1,,,0,0,t,,
+897,5140a824-2a06-45b8-90e9-1b64aeb8528e,Neel Singh,#FF0400,,1,,Neel,Singh,neel@tropoly.io,,,1,,,0,0,t,,
+885,373fa93a-adc3-4e27-a37a-b8951cfc2449,Wing Ki Cheng,#0050FF,,1,,Wing Ki,Cheng,lorsh8@yahoo.com.hk,,604-341-1888,1,,,0,0,t,,
+816,914e8140-b696-4837-a9f7-47b9cea45c7f,Laura Retavizca Mark Badillo,#C700FF,,1,,Laura,Retavizca Mark Badillo,homecocinacolombiana@gmail.com,,,1,,,0,0,t,,
+796,8406c252-bb74-4bfd-8253-a9d6df22c811,Bay Of Bengal Foods,#1e8e0d,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6B 6J7"", ""AddressLine1""=>""1008 Cambie Street unit #1207 "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",870,1707.75,-331.18,t,1,870
+841,62cc8d0c-76fd-4f0e-99b0-f04923edafa7,Geraldine Guemos,#FF00B2,,1,,Geraldine,Guemos,greekpoppopcorn@gmail.com,,6043399759,1,,,0,0,t,,
+887,9c9eb955-258d-482f-8b3a-b20fc93c9059,TOMOKI FUJIMAKI,#FF000C,,1,,TOMOKI,FUJIMAKI,fujimakitomoki1995@gmail.com,,6727272340,1,,,0,0,t,,
+839,038aad42-e53e-487f-b4b1-f1d4f4c1af8b,Miranda Siebert,#9400FF,,1,,Miranda,Siebert,mirandasnacksand@gmail.com,,6043669669,1,,,0,0,t,,
+855,3e78f885-34e4-4da1-a6df-300d7b55fdf2,Kenneth Chu,#AE00FF,,1,,Kenneth,Chu,kennethchu1991@gmail.com,,778-318-9899,1,,,0,0,t,,
+894,4fcb0070-b14d-42d1-bf35-23d983ccbf17,Mediterranean Grill,#D5595C,,2,Mediterranean Grill,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V3E 3S2"", ""AddressLine1""=>""402-2968"", ""AddressLine2""=>""Silver Springs"", ""AdministrativeDistrict1""=>""BC""",895,3795,21689.89,t,1,895
+583,63bbad3d-2dd2-4a06-bd30-f68377b9a0a8,Richard Mark,#FFA500,,1,,Richard,Mark,hello@westcoastbannock.ca,,7788395659,1,,,0,0,t,,
+878,2b2c2676-f33b-405f-8cd9-3edec74780f1,Shanghai Wonderful Restaurant Ltd.,#06EB4F,,2,Shanghai Wonderful Restaurant Ltd.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7C 2H1"", ""AddressLine1""=>""5911 Reeves RD"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",879,10350,0.01,t,1,879
+715,2cb46062-4922-456e-b8f0-2abd20bda2e7,Blond Bear Holdings Inc. ,#f8e71c,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V3N4C9"", ""AddressLine1""=>""7545 Sapperton Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",716,0.00,0.00,f,1,716
+843,c2b2afe1-7563-42f1-a136-ce1f33e854ad,Antonya Raymond,#4800FF,,1,,Antonya,Raymond,info@abstractavocadotest.com,,7783852044,1,,,0,0,t,,
+817,9b30b4f4-8b49-444b-ae3c-f19eae100a99,Laura Retavizca Mark Badillo,#C700FF,,1,,Laura,Retavizca Mark Badillo,temporaryhome.cocinacolumbiana@gmail.com,,,1,,,0,0,t,,
+798,1bdace3a-ca5d-42a7-abf8-b93e0f061c32,Angana Ghosh,#0037FF,,1,,Angana,Ghosh,anganaghosh102@gmail.com,,250-819-8689,1,,,0,0,t,,
+833,d7e6b4d7-5ab6-41cb-baee-36e1d199f5c5,Keigo Takeuchi,#006EFF,,1,,Keigo,Takeuchi,keigo1213@gmail.com,,6043962056,1,,,0,0,t,,
+800,be0912e4-b783-4d22-9ad3-10a843ba8d3e,Lahana Ghosh,#FF00E5,,1,,Lahana,Ghosh,123@gmail.com,,,1,,,0,0,t,,
+629,6849f9f5-83e6-4de0-ad9b-f5b70a5fe6f9,Kultured Method ,#ff9600,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6P 3V9"", ""AddressLine1""=>""2001-1420 West Georgia St."", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",630,0.0,2835.00,f,1,630
+656,fbd43816-ec88-4581-b3a7-85321a26fb02,Food and Beverage Manitoba,#2600FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Winnipeg"", ""PostalCode""=>""R3B 0S8"", ""AddressLine1""=>""#300 – 245 McDermot Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""Manitoba""",657,0,0.00,t,3,657
+842,9008ed74-e2dc-46c6-917d-ed72854222cf,Abstract Avocado test,#61BDCE,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z2M9"", ""AddressLine1""=>""1212 Howe St"", ""AddressLine2""=>""602"", ""AdministrativeDistrict1""=>""BC""",843,0,1050.00,f,1,843
+870,faf4d0e1-d608-4742-b4c4-a5b20feffa39,Jugal's Main,#00FFFF,,1,,Jugal's,Main,info@bayofbengalfoods.com,,250-819-8689,1,,,0,0,t,,
+534,1805fd27-a714-49b9-a095-15f192f22aeb,PYRAMIDS M & A FOOD CORPORATION,#fc6675,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3R 4H1"", ""AddressLine1""=>""303-15388 101 Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC """,535,0.00,38446.16700,f,1,
+665,c725303b-4bdf-4039-8e46-aa341f21819e,Rebel Rebel BBQ,#6cabad,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5T 3A9"", ""AddressLine1""=>""5282 Chester St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",666,805,2206.12,t,1,666
+818,0cebcb8c-f7a4-40c1-a84e-f77181b903f0,Jeffrey BookKeeping Mission Skills,#7B00FF,,1,,Jeffrey,BookKeeping Mission Skills,jnybookkeeping@gmail.com,,,1,,,0,0,t,,
+889,7f409866-5df0-43cb-91d2-3822386e29ea,Mohammed Shakir Zuhair,#0099FF,,1,,Mohammed,Shakir Zuhair,shawarmaexpress10@gmail.com,,672-338-5354,1,,,0,0,t,,
+836,8e344ac0-1d2a-4d44-b90f-5faa89aa780b,The Dirty Potato,#f5a623,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Maple Ridge"", ""PostalCode""=>""V4R 0H1"", ""AddressLine1""=>""23297 137 Ave "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",837,339.14,2572.50,f,1,837
+835,6a5c7680-0828-4adc-98eb-f227a05f2e9f,tet user,#AAFF00,,1,,tet,user,rr@yahoo.com,,,1,,,0,0,t,,
+834,96f563ea-2d14-48bd-9adc-b6076ac161f0,test,#B0EBDC,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""British Columbia""",835,0,0,f,1,835
+857,8cbc22f8-6f24-4b33-9fc2-3864e341c698,Francisco Javier Hernandez Delgado,#00FF33,,1,,Francisco Javier,Hernandez Delgado,contact@lasshilas.ca,,778-871-6356,1,,,0,0,t,,
+797,cad1abc2-0444-4e97-b2b0-9736086cbb2f,Nikita Ghosh,#1DFF00,,1,,Nikita,Ghosh,nikita3517251@gmail.com,,2508198689,1,,,0,0,t,,
+899,68c225fe-7998-416e-867e-cc533dcbf4d3,Ravina Dhingra,#FF00B2,,1,,Ravina,Dhingra,tropical.zing.ca@gmail.com,,236-234-3777,1,,,0,0,t,,
+794,1291bb4b-ebf8-40e4-b812-7e2d36a4f932,Hey Brazilian Pizza,#1d5c0d,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X 0H7"", ""AddressLine1""=>""105 - 8080 Nunavut Lane"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",795,2645.0,0.2300000000000,t,1,795
+806,bbecbe38-33b8-4914-b3ad-77b406e1af2b,Mimi’s Focaccia House,#DED3B3,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z 3E5"", ""AddressLine1""=>""3202-455 Beach Crescent "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",807,0.00,0.00,f,1,807
+898,f413bc41-8155-49d5-b0ea-b9979179101b,Tropical Zing Beverages,#417505,,2,Tropical Zing Beverages,,,,,,,"""Country""=>""CA"", ""Locality""=>""Delta"", ""PostalCode""=>"" V4C7X"", ""AddressLine1""=>""108-C 11831 80 Ave "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",899,747.5,0.00,t,1,899
+880,b6c48254-2c7c-446b-b0c1-227410ebb2d7,Eni Desserts ,#50e3c2,,2,Eni Desserts ,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Y2T8"", ""AddressLine1""=>""388 West 43rd Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",881,1075.25,0.00,t,1,881
+551,00916162-165b-48c6-8d07-848982d54973,YI Freeze Dried Ltd.,#FF00EE,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5H0J4"", ""AddressLine1""=>""608-6080 McKay Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",552,4600.0,6725.355,t,1,552
+891,4a08f1fe-fe2e-43d8-860b-3caf955729de,Medkes Gete,#00FFED,,1,,Medkes,Gete,mekdesgete@gmail.com,,7789960590,1,,,0,0,t,,
+719,22174960-2ea0-4fc5-bcec-f3d328db3ff9,36T Foods,#2bddc0,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V5J 1B4"", ""AddressLine1""=>""204 - 4449 Imperial Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",720,862.5,0.07,t,1,720
+820,18dd5776-910c-4a00-8f05-27161b34a019,Umashankar  Balasubramanian,#00FFD8,,1,,Umashankar ,Balasubramanian,uma_231978@yahoo.com,,604-719-6299,1,,,0,0,t,,
+863,162e64c5-183f-43af-93e2-d9996897a31e,Proviland Grocers ,#D781F0,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""West Vancouver"", ""PostalCode""=>""V7T1A9"", ""AddressLine1""=>""1504-955 Marine Drive"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",864,0,5690.30,f,1,864
+285,df1c9c74-c3cf-4b78-9a07-640cc4f0956e,La Bakeria Bakeshop Ltd.,#7ed321,356,2,Lucia Valenzuela Suarez,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6K 2E8"", ""AddressLine1""=>""314 - 2485 W Broadway"", ""AdministrativeDistrict1""=>""BC""",486,0.00,50906.6130,f,1,486
+844,65bc8d36-9a8a-44b6-abba-a9621ac4df0c,Surti Green Eggs & Yolks Inc.,#9CC514,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5P 2J6"", ""AddressLine1""=>""1636 E 61st Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",845,2530,0.00,t,1,845
+699,7476b4e2-1351-4e34-a4fb-84a904dacf13,Xian Lao Lao,#d501aa,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3T1M9"", ""AddressLine1""=>""Xin Xie"", ""AddressLine2""=>""128922 102 Ave"", ""AdministrativeDistrict1""=>""BC""",700,2357.5,0.00,t,1,700
+888,002803a8-77ea-4936-813e-41dcc42ba96e,Shawarma Express,#e24ad2,,2,Shawarma Express,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V3N OG5"", ""AddressLine1""=>""221-7683 15th Street "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",889,1707.75,0.00,t,1,889
+735,191d9334-0e3f-48f6-9777-bfe89e6c6d4a,1464259 B.C. Ltd. (dba Mommy's Planet),#3391ff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""New Westminster"", ""PostalCode""=>""V3L 4E2"", ""AddressLine1""=>""310 Archer Street "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",736,0.00,-4690.58,f,1,736
+852,0a5fb714-0e10-4a29-aade-11f22c8ffc6b,Accompli Artisan Bakery,#eedbba,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6J2K1"", ""AddressLine1""=>""1930 14th Ave, West Vancouver"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",853,0,9354.35,f,1,853
+595,91313c9c-762e-4ca4-97b3-48b678d2536a,EMKAO Foods Inc.,#0037FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X8H3"", ""AddressLine1""=>""PO Box 97221 "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",596,575.00,1575.00,t,1,596
+900,f3dc53c8-7f34-4fe9-899d-85ce5c1cd3a6,test,#858443,,2,test,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""BC""",901,0,0,f,1,901
+275,64dd3afa-daa3-44bb-bf8d-115c699adb32,Le Chalet Foods,#000000,346,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V7A4C2"", ""AddressLine1""=>""9780 Seabright Rd. "", ""AdministrativeDistrict1""=>""BC""",487,1840.0,60093.8065,t,1,487
+769,0c24a851-3436-4e5c-8aa2-dc1de9421f60,Bimi Fresh,#5900FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Z 2N1"", ""AddressLine1""=>""504-677 41st Ave W"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",770,1092.5,-1001.17,t,1,770
+854,57df541f-bbc8-4e80-a060-b2d3f98adc31,1514427 B.C. ltd. dba Soupa Bowl,#f19c08,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5S 4RS "", ""AddressLine1""=>""#1312-3033 E Kent Ave "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",855,1207.5,-1117.31,t,1,855
+893,635e58f3-28cd-41cf-b5f9-f564c026a116,Arman Negimi,#D400FF,,1,,Arman,Negimi,arman@luminosocafe.com,,7788285964,1,,,0,0,t,,
+875,27df56bb-e4ed-429b-91d9-859d061e0bdd,Gullyza Cafe LTD.,#FE8F48,,2,Gullyza Cafe LTD.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6P 3S6"", ""AddressLine1""=>""201 - 8669 Heather St Vancouver BC "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",876,4197.5,0.00,t,1,876
+830,85c93612-d461-476b-887c-a69103e1a7be,AllFat Food Inc.,#e4e294,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V3N 2S9"", ""AddressLine1""=>""8647 10th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",831,0,-830.00,f,1,831
+901,f85b1ea7-e1d8-4009-9834-071dd2e5b9eb,Ramesh test Rugbeer,#FF2600,,1,,Ramesh test,Rugbeer,ramesh@outlook.com,,,1,,,0,0,t,,
+785,50ba3814-7f47-455f-877b-54e2614e4465,Tournament BBQ,#818d58,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6R1T8"", ""AddressLine1""=>""108-3731 W 6th Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",786,1075.25,1129.01,f,1,786
+572,9d30d3a1-9e6b-4dfd-944f-2d04c54b5dfa,The Cakroll,#3B00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3V1Y4"", ""AddressLine1""=>""9-13328 96th Avenue "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",573,0.00,0.00,f,1,573
+691,ee725f9c-027f-4c94-af92-905a74f19499,Tamales Mexicanos,#00cc53,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5R 6E6"", ""AddressLine1""=>""5288 Melbourne Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",692,0.00,0.00,f,1,692
+801,10888ab3-8750-4e47-a3e4-d059a987154e,1505802 B.C. Ltd. d.b.a Marked Edible Designs,#0004FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5G 2C7"", ""AddressLine1""=>""3767 Moscrop St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",802,0,4105.33,f,1,802
+826,b80f309e-ddc9-48bb-86a9-ba32f332162d,La Jefa,#c429c5,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5K 2J3"", ""AddressLine1""=>""3612 Turner St BC "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",827,0.0,0.00,f,1,827
+895,9c7cf887-ce95-40ce-a909-1c8c50eebeb2,Naseer Allahdadi,#FF00C7,,1,,Naseer,Allahdadi,naser919@yahoo.com,,6045517867,1,,,0,0,t,,
+742,16338087-ae91-4f26-83dc-9f5f333a779f,Bagel Day Bakehouse,#16d6ff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5P 2H4"", ""AddressLine1""=>""1559 E 60th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",743,0.0,0.00,f,1,743
+902,9610c727-8553-4e55-8674-a8d38ef382f3,Lasa Vegan Filipino Eats Ltd.,#9013fe,,2,Lasa Vegan Filipino Eats Ltd.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5N 3A1"", ""AddressLine1""=>""1485 E 30th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",903,1437.5,0,t,1,903
+727,76ef931c-d91a-4917-a5e4-5e6cd9ce7b78,Stormin Norman's Spirit Grill,#ffa201,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X2K1"", ""AddressLine1""=>""4180 Garden City Road"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",728,991.88,420.00,t,1,728
+810,e6e13e33-299b-4f47-acd7-20994cd8bd30,Floralicious Cake,#E808E6,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X 4K5"", ""AddressLine1""=>""1208-5088 Kwantlen St Richmond BC"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",811,45.68,35.07,f,1,811
+750,a5768e77-2698-4236-9f48-fd1737011580,Crumby ,#f37bff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6E1T3"", ""AddressLine1""=>""1101 Pacific Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",751,0.00,0.00,f,1,751
+712,b78ab22b-ac7d-4828-8369-e98dab01d6d3,Merry Go Round,#f00004,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby "", ""PostalCode""=>""V3N0E6"", ""AddressLine1""=>""#412-7058 14th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",730,977.5,0.00,f,1,730
+761,2bb14b2f-cb07-4169-aa42-2540df590cc1,1319239 BC LTD (dba No Time to Cook),#00A9FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5T 2S6"", ""AddressLine1""=>""1110 East 15th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",762,0.00,0.00,f,1,762
+804,a4b6006d-34a0-4a51-bacc-5a3ebf5f7f14,Toki Musubi,#B7AE5B,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Y 0N1"", ""AddressLine1""=>""155 West 41st Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",805,1667.5,0.00,t,1,805
+623,72921495-908d-43db-835c-10deea72c8c4,Danni's Kitchen and Company,#96ffb8,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""v6p3vp"", ""AddressLine1""=>""Need updated address*"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",624,70,3413.38,f,1,624
+521,8bed0e9d-85b4-412c-b02a-f36f94523172,Currylicious,#FFBB00,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6Y3S4"", ""AddressLine1""=>""8520 Granville Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",522,0.00,6472.8825,f,1,522
+77,6cf9deed-f8aa-4885-9493-2099c6deff7f,A&W,#8b572a,88,2,A&W,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6C 1V5"", ""AddressLine1""=>""Rethink Communications LP"", ""AddressLine2""=>""Suite 700 - 470 Granville Street "", ""AdministrativeDistrict1""=>""BC""",506,0,63583.2620,f,1,506
+903,ee26bd58-b6a6-4c48-a4ad-8903c3b60e92,Francesca Aliana Gaviola,#DDFF00,,1,,Francesca Aliana,Gaviola,lasavancouver@gmail.com,,778-927-8587,1,,,0,0,t,,
+882,0b2d9404-dfcc-4572-8d04-15900481357e,Metanoia Foods Inc.,#d0021b,,2,Metanoia Foods Inc.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6A 4L9"", ""AddressLine1""=>""401- 919 Station Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",883,977.5,892.50,t,1,883
+886,272ce9d0-940c-46f6-a332-5b4bf288d9fc,Sticky Hands,#4a90e2,,2,Sticky Hands,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6B 1X9"", ""AddressLine1""=>""910-1082 Seymour St "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",887,1552.5,0.00,t,1,887
+787,f6c9a7f1-74d2-469b-a5db-432914e29789,Chill-aquil,#9D00FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5T1J1"", ""AddressLine1""=>""103-514 E 5TH Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",788,0.0,5.180000000000000,f,1,788
+252,e58a506f-7021-4c50-9b8c-bdff6332856d,Connie's Cravings,#f50f85,315,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5N 4N7"", ""AddressLine1""=>""4635 Victoria Drive"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",467,0.00,26259.6210,f,1,467
+832,5d772801-b5b8-4fc7-a93f-8e26d23a0429,Le gouter baking goods,#92509F,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5C 3V9"", ""AddressLine1""=>""4015 Albert Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",833,0.0,0.04,f,1,833
+767,bf084f0c-e96c-4210-b5dc-7776f44a486f,Saanch Foods Corp (NomNosh),#00FFE5,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey "", ""PostalCode""=>""V3S 4V1"", ""AddressLine1""=>""15116 86 A Ave "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",768,0.00,-1.87,f,1,768
+840,2f0cba1d-30ac-4c3c-b8c3-cc5054c0c354,Greekpop Popcorn,#7A1BBC,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6H 1S1"", ""AddressLine1""=>""312-1235 West 15th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",841,1115,0.00,t,1,841
+234,bd7a64b2-b158-4d3b-8a0e-50191719afaf,Mochido,#cbf17d,297,2,,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5R 4K6"", ""AddressLine1""=>""5549 Stanford Street"", ""AdministrativeDistrict1""=>""BC""",453,0.00,294112.7177,f,1,453
+873,f01a5d6e-84a1-4436-a514-eb373740282d,Test Company,#9A5BB3,,2,Test Company,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5L 3Y4"", ""AddressLine1""=>""1612 Commercial Drive"", ""AddressLine2""=>""4"", ""AdministrativeDistrict1""=>""BC""",874,0,2.24,t,1,874
+545,c7ab5743-ce11-4432-a468-b4b4a82caa1e,Fitme Meal Prep Co. Ltd.,#0050FF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X 3M1"", ""AddressLine1""=>""5811 Cooney Rd, Suite 305 South Tower"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",546,1367.93,7143.7275,f,1,546
+755,6cc9ec99-9fb2-4e69-8438-c6c8a4157dc5,Sr. Papa Salchipapas,#03a300,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5K 3H2"", ""AddressLine1""=>""2796 Grant Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",756,0.0,0.00,f,1,756
+731,e4c4e1e5-c34d-4636-b903-01ae790c24ba,Hydra Foods Projects (dba The Great Canadian Cotton Candy),#6fb8ab,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5G 3G5"", ""AddressLine1""=>""6970 McKinnon Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",732,600,0.00,t,1,732
+287,df5a5aac-a567-450c-ae70-6bc561d1c487,Up The River Baking,#bfb333,358,2,Carla Anderson,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6G 2E9"", ""AddressLine1""=>""705 - 1270 Nicola St."", ""AdministrativeDistrict1""=>""BC""",489,1144.25,24180.5235,t,1,489
+763,513fdc89-501b-4138-92e1-f56972a5d59d,The Brownie Blondie Bakery Inc.,#FF0015,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z 3A3"", ""AddressLine1""=>""1033 Marinaside Crescent"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",764,966,0.00,t,1,764
+904,38009afa-e402-4d2a-83f7-f5e96cacd5f2,Hamid Salehivaziri,#00FF77,,1,,Hamid,Salehivaziri,hamidsalehi2070@gmail.com,,6047002070,1,,,0,0,t,,
+865,3871295a-5d16-4e00-ae37-8cf384abdc7c,Amor Y Chile Authentic Mexican Food Inc.,#b8e56f,,2,Amor Y Chile Authentic Mexican Food Inc.,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5Z 2J2"", ""AddressLine1""=>""515 West 30th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",866,2530,0.00,t,1,866
+905,8270d397-4e26-4366-9dd7-3d604c2484fe,Delivery Pickup,#FF6A00,,1,,Delivery,Pickup,tokimusubi.com@gmail.com,,,1,,,0,0,t,,
+884,2715aa8d-3198-4a77-901a-24fb196783e6,Yama Lemon,#4a90e2,,2,Yama Lemon,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5S 0G7"", ""AddressLine1""=>""805-3430 East Kent Avenue South"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",885,862.5,0.00,t,1,885
+856,7a6f9772-26fd-4fc4-a8ae-fa60ad14a063,Las Shilas Mexican Food Inc.,#5a5149,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""BC V5J 3X8"", ""AddressLine1""=>""6849  Frederick Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",857,3105,0.00,t,1,857
+822,d2946f03-3d09-4f0e-80c0-a3c02b965757,Japan From Scratch Corp.,#75bd95,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X 3S4"", ""AddressLine1""=>""8095 St. George St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",823,1187.5,0.00,t,1,823
+890,57f777ae-2d6d-4ddb-9245-631df6c9baef,Medkes,#8F1543,,2,Medkes,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6A 2P8"", ""AddressLine1""=>""Commissary Connect "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",891,350,-470.75,t,1,891
+586,08fcc594-be68-4b75-ba59-110de8c10ba7,Downtown Hot Dogs Ltd. ,#009DFF,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Surrey"", ""PostalCode""=>""V3V 5A8"", ""AddressLine1""=>""10459 125B Street "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",766,9090.47,16649.99,t,1,587
+601,5394847e-a4c9-496e-861d-e44e1d4145ba,Foodxican Hospitality Inc.,#FF0004,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5S 0C9"", ""AddressLine1""=>""8538 River District Crossing Unit 503"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",602,3620.0,-2760.00,t,1,602
+846,2d74c784-62e5-4c59-b784-e99774aead75,Bites on Wheels LTD.,#f5a623,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5X 1L5"", ""AddressLine1""=>""565 East 54th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",847,1380,0.00,t,1,847
+819,548ff9da-8ae6-4baa-9fc9-55c8db1ac5fc,Curry Spot,#BF28A9,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V6A 0C5"", ""AddressLine1""=>""110 - 1618 Quebec St "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",820,2909.5,-1938.87,t,1,820
+708,5aad86be-5cb8-4f82-98f3-3d57a19fe05f,Tochi Desserts Ltd. ,#80e7ff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5P3C4"", ""AddressLine1""=>""7170 Dumfires Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",709,1035,0.00,t,1,709
+689,990216a2-ab2a-4f8a-81ed-dffa024c2a29,Wakwak Enterprise Inc. ,#719882,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5E1J7"", ""AddressLine1""=>""701-1250 Nelson Street"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",690,1035,-4552.130000000000,t,1,765
+582,b88b1e5e-fd32-4bb3-910d-75cd59f209e0,West Coast Bannock,#2943ff,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver "", ""PostalCode""=>""V5T0K3"", ""AddressLine1""=>""1005 - 188 East 6th Avenue"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",583,1322.50,0.00,t,1,583
+838,1e0440d7-5525-43de-8888-0eba32af1a5f,Snacks &,#9013fe,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5T 1S7"", ""AddressLine1""=>""3 - 430 E 8th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""British Columbia""",839,1593.9,-0.01,t,1,839
+747,982ebc9e-a010-4244-8957-93845056d240,Downtown Dosas,#ff5c36,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""BC V5X 1T1"", ""AddressLine1""=>""619 57th Ave East"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",748,920,-8320.66,t,1,748
+860,2e3237f0-892c-4efb-9416-a88e82333d41,Devi's South Indian Kitchen ltd,#4D8B51,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Burnaby"", ""PostalCode""=>""V5E4H1"", ""AddressLine1""=>""209-7530 Rosewood St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",861,2587.5,-2143.37,t,1,861
+824,d3fce433-db15-490d-ab0a-e67bb2ccff34,Magic Moringa,#E97141,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V5R 1T2"", ""AddressLine1""=>""3449 E 28th Ave"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",825,862.5,-551.26,t,1,825
+867,acbedf53-91b9-4aa7-8926-ff5b322ab90e,Trio Spice - Test Company,#767443,,2,Trio Spice - Test Company,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6Z2M8"", ""AddressLine1""=>""602-1212 Howe St"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",868,0,4065.60,f,1,868
+872,18076cad-761c-4a3b-a723-6005dc24c23c,Alexander Cheong,#FFD400,,1,,Alexander,Cheong,leischilioil@gmail.com,,6043756537,1,,,0,0,t,,
+871,826a3a55-c81f-4dff-bf2d-7fd49ad9b1cf,Chil-Lei Oil,#b38183,,2,Chil-Lei Oil,,,,,,,"""Country""=>""CA"", ""Locality""=>""VANCOUVER BC"", ""PostalCode""=>""V5S 0C7"", ""AddressLine1""=>""603-3488 SAWMILL CR "", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",872,792.35,0.00,t,1,872
+168,e92e80aa-c9b3-4b74-9a95-bcdb5eb90565,UpMeals Technologies Inc. (DBA),#191818,205,2,ReadyCo Food Services,,,,,,,"""Country""=>""CA"", ""Locality""=>""Vancouver"", ""PostalCode""=>""V6P 5Z6"", ""AddressLine1""=>""ReadyCo Food Services Inc,  1312 S.W. Marine Drive"", ""AdministrativeDistrict1""=>""BC""",615,35017.52,3467505.79200000000001,f,1,408
+642,7d2fd744-0faf-4f44-a4bb-065d6c90b39f,Buttercrumbs Bakehouse,#08a100,,2,Commissary Connect Developers,,,,,,,"""Country""=>""CA"", ""Locality""=>""Richmond"", ""PostalCode""=>""V6X0C9"", ""AddressLine1""=>""56-9800 ODLIN ROAD"", ""AddressLine2""=>"""", ""AdministrativeDistrict1""=>""BC""",643,1035,5670.00,t,1,643
