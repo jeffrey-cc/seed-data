@@ -2,7 +2,7 @@
 admin-seed-sql/
 lazygourmet-member-data/
 lazygourmet-operator-data/
-seed-lazygourmet-sensors/
+lazygourmet-operator-sensors/
 
 # Large files excluded from repository
 seed-lazygourmet-sql/Last CSV Export/integration_remote_lock_events.csv
