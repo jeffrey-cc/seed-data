@@ -1,2 +1,0 @@
-id,operator,subject,header_logo,header_logo_width,footer_logo,button_color,reply_email,etransfer_email
-1,Commissary Connect,{operator_name} - {invoice_number},https://commissary-connect-media.s3.ca-central-1.amazonaws.com/operators/cc/cc_logo.png,151,https://commissary-connect-media.s3.ca-central-1.amazonaws.com/operators/cc/cc_logo_footer.png,#000000,sarb@commissaryconnect.com,sarb@commissaryconnect.com

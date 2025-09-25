@@ -1,3 +1,9 @@
+# Child repositories (separate git repos)
+admin-seed-sql/
+lazygourmet-member-data/
+lazygourmet-operator-data/
+seed-lazygourmet-sensors/
+
 # Large files excluded from repository
 seed-lazygourmet-sql/Last CSV Export/integration_remote_lock_events.csv
 seed-lazygourmet-sql/Source Data

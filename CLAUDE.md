@@ -21,9 +21,10 @@ CSV Data Sources → Seed Data Commands → GraphQL APIs → Databases
 ```
 
 ### Tier Integration
-- **Admin Tier**: Loads data from `../graphql-admin-api/test-data/`
-- **Operator Tier**: Loads data from `../graphql-operator-api/test-data/`
-- **Member Tier**: Loads data from `../graphql-member-api/test-data/`
+- **Admin Tier**: Loads data from `admin-seed-sql/` child repository
+- **Operator Tier**: Loads data from `lazygourmet-operator-data/` child repository
+- **Member Tier**: Loads data from `lazygourmet-member-data/` child repository
+- **Sensor Data**: Special purpose data from `seed-lazygourmet-sensors/` child repository
 
 ## Commands Overview
 
@@ -147,15 +148,21 @@ Commands automatically configure database connections based on tier:
 ## CSV Data Requirements
 
 ### File Structure
-CSV files should be located in tier-specific directories:
+CSV files should be located in tier-specific child repository directories:
 ```
-../graphql-{tier}-api/test-data/
+{tier-specific-repo}/csv_original/  OR  {tier-specific-repo}/csv/
 ├── 01_category/
 │   ├── 01_table1.csv
 │   └── 02_table2.csv
 └── 02_category/
     └── 01_table3.csv
 ```
+
+Actual child repositories:
+- `admin-seed-sql/` - Admin tier seed data
+- `lazygourmet-operator-data/` - Operator tier seed data
+- `lazygourmet-member-data/` - Member tier seed data
+- `seed-lazygourmet-sensors/` - Sensor data (special purpose)
 
 ### Naming Conventions
 - Files: `[0-9][0-9]_table_name.csv` (e.g., `01_admin_users.csv`)
@@ -255,7 +262,11 @@ To clear data without loading new data:
 This system integrates with:
 - **database-sql**: Provides database deployment and management
 - **graphql-api**: Provides GraphQL server management and deployment
-- **graphql-{tier}-api**: Contains the actual CSV data sources
+- **Child repositories**: Contain the actual CSV data sources:
+  - `admin-seed-sql/` - Admin tier CSV data
+  - `lazygourmet-operator-data/` - Operator tier CSV data
+  - `lazygourmet-member-data/` - Member tier CSV data
+  - `seed-lazygourmet-sensors/` - Sensor CSV data
 
 ### Coordination with Other Systems
 - Database must be deployed before CSV loading
